@@ -1,0 +1,61 @@
+"","Days","group","Inheritance","TotalAbund"
+"1","76","Early successional","Inherited",0.65720458945615
+"2","76","Early successional","Non-inherited",0.132349221185673
+"3","76","Early successional","Transient",0.118837370565969
+"4","76","Mid-successional / No trend","Inherited",0.00106725957166604
+"5","76","Mid-successional / No trend","Non-inherited",0.000203487800014039
+"6","76","Mid-successional / No trend","Transient",0.00134660396416057
+"7","76","Late successional","Inherited",0.0800905235368465
+"8","76","Late successional","Non-inherited",0
+"9","76","Late successional","Transient",0.00890094391952124
+"10","76",NA,"Transient",0
+"11","90","Early successional","Inherited",0.777877663239338
+"12","90","Early successional","Non-inherited",0.0445688007699165
+"13","90","Early successional","Transient",0.0863154555185193
+"14","90","Mid-successional / No trend","Inherited",0.0437435483663217
+"15","90","Mid-successional / No trend","Non-inherited",0.000133751093446682
+"16","90","Mid-successional / No trend","Transient",0.00191078149451909
+"17","90","Late successional","Inherited",0.0423546979352358
+"18","90","Late successional","Non-inherited",0.000573384739875341
+"19","90","Late successional","Transient",0.00252191684282712
+"20","90",NA,"Transient",0
+"21","106","Early successional","Inherited",0.127913974705303
+"22","106","Early successional","Non-inherited",0.00368640010568219
+"23","106","Early successional","Transient",0.0365146735786827
+"24","106","Mid-successional / No trend","Inherited",0.708585547542977
+"25","106","Mid-successional / No trend","Non-inherited",0.0229818648626106
+"26","106","Mid-successional / No trend","Transient",0.005849220197665
+"27","106","Late successional","Inherited",0.091988631347588
+"28","106","Late successional","Non-inherited",1.38594375840228e-05
+"29","106","Late successional","Transient",0.00246582822190759
+"30","106",NA,"Transient",0
+"31","120","Early successional","Inherited",0.0525021279928891
+"32","120","Early successional","Non-inherited",0.00290431204855637
+"33","120","Early successional","Transient",0.0137035151959917
+"34","120","Mid-successional / No trend","Inherited",0.184931590694363
+"35","120","Mid-successional / No trend","Non-inherited",0.00040703119162267
+"36","120","Mid-successional / No trend","Transient",0.00374997128575257
+"37","120","Late successional","Inherited",0.697050780758805
+"38","120","Late successional","Non-inherited",0.0204788545903271
+"39","120","Late successional","Transient",0.0242718162416925
+"40","120",NA,"Transient",0
+"41","141","Early successional","Inherited",0.0221710380053231
+"42","141","Early successional","Non-inherited",0
+"43","141","Early successional","Transient",0.00549259727926341
+"44","141","Mid-successional / No trend","Inherited",0.0347749711724304
+"45","141","Mid-successional / No trend","Non-inherited",0
+"46","141","Mid-successional / No trend","Transient",0.00114810399542305
+"47","141","Late successional","Inherited",0.8650696970318
+"48","141","Late successional","Non-inherited",0
+"49","141","Late successional","Transient",0.07134359251576
+"50","141",NA,"Transient",0
+"51","0","Early successional","Inherited",0.115637461896811
+"52","0","Early successional","Non-inherited",0
+"53","0","Early successional","Transient",0.0277424594389624
+"54","0","Mid-successional / No trend","Inherited",0.139594117658661
+"55","0","Mid-successional / No trend","Non-inherited",0
+"56","0","Mid-successional / No trend","Transient",0.000492780511836578
+"57","0","Late successional","Inherited",0.67309089473142
+"58","0","Late successional","Non-inherited",0
+"59","0","Late successional","Transient",0.0415136814091561
+"60","0",NA,"Transient",0.00192860435315277

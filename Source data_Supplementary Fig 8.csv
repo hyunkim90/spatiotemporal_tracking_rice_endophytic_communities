@@ -1,0 +1,62 @@
+Bacteria,,,,,Fungi,,,
+Days,group,Inheritance,TotalAbund,,Days,group,Inheritance,TotalAbund
+76,Early successional,Inherited,0.00965945,,76,Early successional,Inherited,0.657204589
+76,Early successional,Non-inherited,0.794348166,,76,Early successional,Non-inherited,0.132349221
+76,Early successional,Transient,0.073253953,,76,Early successional,Transient,0.118837371
+76,Mid-successional / No trend,Inherited,0.014319324,,76,Mid-successional / No trend,Inherited,0.00106726
+76,Mid-successional / No trend,Non-inherited,0,,76,Mid-successional / No trend,Non-inherited,0.000203488
+76,Mid-successional / No trend,Transient,0.001764706,,76,Mid-successional / No trend,Transient,0.001346604
+76,Late successional,Inherited,0.097643509,,76,Late successional,Inherited,0.080090524
+76,Late successional,Non-inherited,0,,76,Late successional,Non-inherited,0
+76,Late successional,Transient,0.009010892,,76,Late successional,Transient,0.008900944
+76,NA,Transient,0,,76,NA,Transient,0
+90,Early successional,Inherited,0.201020136,,90,Early successional,Inherited,0.777877663
+90,Early successional,Non-inherited,0.127242338,,90,Early successional,Non-inherited,0.044568801
+90,Early successional,Transient,0.015762062,,90,Early successional,Transient,0.086315456
+90,Mid-successional / No trend,Inherited,0.230076578,,90,Mid-successional / No trend,Inherited,0.043743548
+90,Mid-successional / No trend,Non-inherited,0,,90,Mid-successional / No trend,Non-inherited,0.000133751
+90,Mid-successional / No trend,Transient,0.000622203,,90,Mid-successional / No trend,Transient,0.001910781
+90,Late successional,Inherited,0.385155616,,90,Late successional,Inherited,0.042354698
+90,Late successional,Non-inherited,0,,90,Late successional,Non-inherited,0.000573385
+90,Late successional,Transient,0.040121065,,90,Late successional,Transient,0.002521917
+90,NA,Transient,0,,90,NA,Transient,0
+106,Early successional,Inherited,0.094703252,,106,Early successional,Inherited,0.127913975
+106,Early successional,Non-inherited,0.008167671,,106,Early successional,Non-inherited,0.0036864
+106,Early successional,Transient,0.000259833,,106,Early successional,Transient,0.036514674
+106,Mid-successional / No trend,Inherited,0.180865631,,106,Mid-successional / No trend,Inherited,0.708585548
+106,Mid-successional / No trend,Non-inherited,0.002979688,,106,Mid-successional / No trend,Non-inherited,0.022981865
+106,Mid-successional / No trend,Transient,0.002080462,,106,Mid-successional / No trend,Transient,0.00584922
+106,Late successional,Inherited,0.651502841,,106,Late successional,Inherited,0.091988631
+106,Late successional,Non-inherited,0.000207529,,106,Late successional,Non-inherited,1.39E-05
+106,Late successional,Transient,0.059233093,,106,Late successional,Transient,0.002465828
+106,NA,Transient,0,,106,NA,Transient,0
+120,Early successional,Inherited,0.031730495,,120,Early successional,Inherited,0.052502128
+120,Early successional,Non-inherited,0.000410652,,120,Early successional,Non-inherited,0.002904312
+120,Early successional,Transient,1.03E-05,,120,Early successional,Transient,0.013703515
+120,Mid-successional / No trend,Inherited,0.087792815,,120,Mid-successional / No trend,Inherited,0.184931591
+120,Mid-successional / No trend,Non-inherited,0,,120,Mid-successional / No trend,Non-inherited,0.000407031
+120,Mid-successional / No trend,Transient,0.000150521,,120,Mid-successional / No trend,Transient,0.003749971
+120,Late successional,Inherited,0.818294542,,120,Late successional,Inherited,0.697050781
+120,Late successional,Non-inherited,0.002381398,,120,Late successional,Non-inherited,0.020478855
+120,Late successional,Transient,0.059229312,,120,Late successional,Transient,0.024271816
+120,NA,Transient,0,,120,NA,Transient,0
+141,Early successional,Inherited,0.072496143,,141,Early successional,Inherited,0.022171038
+141,Early successional,Non-inherited,0,,141,Early successional,Non-inherited,0
+141,Early successional,Transient,0.000272318,,141,Early successional,Transient,0.005492597
+141,Mid-successional / No trend,Inherited,0.10911221,,141,Mid-successional / No trend,Inherited,0.034774971
+141,Mid-successional / No trend,Non-inherited,0,,141,Mid-successional / No trend,Non-inherited,0
+141,Mid-successional / No trend,Transient,0.001066638,,141,Mid-successional / No trend,Transient,0.001148104
+141,Late successional,Inherited,0.729534353,,141,Late successional,Inherited,0.865069697
+141,Late successional,Non-inherited,0,,141,Late successional,Non-inherited,0
+141,Late successional,Transient,0.087518338,,141,Late successional,Transient,0.071343593
+141,NA,Transient,0,,141,NA,Transient,0
+0,Early successional,Inherited,0.081371502,,0,Early successional,Inherited,0.115637462
+0,Early successional,Non-inherited,0,,0,Early successional,Non-inherited,0
+0,Early successional,Transient,0.043403247,,0,Early successional,Transient,0.027742459
+0,Mid-successional / No trend,Inherited,0.084799591,,0,Mid-successional / No trend,Inherited,0.139594118
+0,Mid-successional / No trend,Non-inherited,0,,0,Mid-successional / No trend,Non-inherited,0
+0,Mid-successional / No trend,Transient,0.012420192,,0,Mid-successional / No trend,Transient,0.000492781
+0,Late successional,Inherited,0.718047087,,0,Late successional,Inherited,0.673090895
+0,Late successional,Non-inherited,0,,0,Late successional,Non-inherited,0
+0,Late successional,Transient,0.031039558,,0,Late successional,Transient,0.041513681
+0,NA,Transient,0.028918824,,0,NA,Transient,0.001928604
