@@ -1,0 +1,1532 @@
+Bacteria,,,,,,Fungi,,,,
+Days,group,Sample,Inheritance,SumGroup,,Days,group,Sample,Inheritance,SumGroup
+76,Early successional,A1_G_76_1B,Inherited,0.039320822,,76,Early successional,A1_G_76_1F,Inherited,0.771635532
+76,Early successional,A1_G_76_1B,Non-inherited,0.705391718,,76,Early successional,A1_G_76_1F,Non-inherited,0.112847883
+76,Early successional,A1_G_76_1B,Transient,0.059577003,,76,Early successional,A1_G_76_1F,Transient,0.093023255
+76,Early successional,A1_G_76_2B,Inherited,0,,76,Early successional,A1_G_76_2F,Inherited,0.161177295
+76,Early successional,A1_G_76_2B,Non-inherited,0.880077367,,76,Early successional,A1_G_76_2F,Non-inherited,0.412987619
+76,Early successional,A1_G_76_2B,Transient,0.05931657,,76,Early successional,A1_G_76_2F,Transient,0.045082925
+76,Early successional,A1_G_76_3B,Inherited,0.07296875,,76,Early successional,A1_G_76_3F,Inherited,0.545498626
+76,Early successional,A1_G_76_3B,Non-inherited,0.46625,,76,Early successional,A1_G_76_3F,Non-inherited,0.185065456
+76,Early successional,A1_G_76_3B,Transient,0.0328125,,76,Early successional,A1_G_76_3F,Transient,0.210441247
+76,Early successional,A1_G_76_4B,Inherited,0,,76,Early successional,A1_G_76_4F,Inherited,0.70422852
+76,Early successional,A1_G_76_4B,Non-inherited,0.812005584,,76,Early successional,A1_G_76_4F,Non-inherited,0.131354025
+76,Early successional,A1_G_76_4B,Transient,0.057701257,,76,Early successional,A1_G_76_4F,Transient,0.132703554
+76,Early successional,A1_G_76_5B,Inherited,0,,76,Early successional,A1_G_76_5F,Inherited,0.897220097
+76,Early successional,A1_G_76_5B,Non-inherited,0.806577918,,76,Early successional,A1_G_76_5F,Non-inherited,0.014154549
+76,Early successional,A1_G_76_5B,Transient,0.1229444,,76,Early successional,A1_G_76_5F,Transient,0.011094109
+76,Early successional,A1_G_76_6B,Inherited,0,,76,Early successional,A1_G_76_6F,Inherited,0.89835892
+76,Early successional,A1_G_76_6B,Non-inherited,0.773462785,,76,Early successional,A1_G_76_6F,Non-inherited,0.041644609
+76,Early successional,A1_G_76_6B,Transient,0.123786407,,76,Early successional,A1_G_76_6F,Transient,0.045173814
+76,Early successional,A1_G_76_8B,Inherited,0,,76,Early successional,A1_G_76_7F,Inherited,0.74957651
+76,Early successional,A1_G_76_8B,Non-inherited,0.571428571,,76,Early successional,A1_G_76_7F,Non-inherited,0.148503671
+76,Early successional,A1_G_76_8B,Transient,0,,76,Early successional,A1_G_76_7F,Transient,0.098531903
+76,Early successional,A1_G_76_9B,Inherited,0,,76,Early successional,A1_G_76_8F,Inherited,0.40393627
+76,Early successional,A1_G_76_9B,Non-inherited,0.91369509,,76,Early successional,A1_G_76_8F,Non-inherited,0.298500467
+76,Early successional,A1_G_76_9B,Transient,0.080620155,,76,Early successional,A1_G_76_8F,Transient,0.242736645
+76,Early successional,B2_G_76_1B,Inherited,0,,76,Early successional,A1_G_76_9F,Inherited,0.522742254
+76,Early successional,B2_G_76_1B,Non-inherited,0.828330207,,76,Early successional,A1_G_76_9F,Non-inherited,0.239617667
+76,Early successional,B2_G_76_1B,Transient,0.160412758,,76,Early successional,A1_G_76_9F,Transient,0.216710613
+76,Early successional,B2_G_76_2B,Inherited,0,,76,Early successional,B2_G_76_1F,Inherited,0.243533699
+76,Early successional,B2_G_76_2B,Non-inherited,0.812110924,,76,Early successional,B2_G_76_1F,Non-inherited,0.083424409
+76,Early successional,B2_G_76_2B,Transient,0.091114883,,76,Early successional,B2_G_76_1F,Transient,0.059927141
+76,Early successional,B2_G_76_3B,Inherited,0.05192108,,76,Early successional,B2_G_76_2F,Inherited,0.786453434
+76,Early successional,B2_G_76_3B,Non-inherited,0.399273104,,76,Early successional,B2_G_76_2F,Non-inherited,0.076356225
+76,Early successional,B2_G_76_3B,Transient,0.08411215,,76,Early successional,B2_G_76_2F,Transient,0.079962372
+76,Early successional,B2_G_76_4B,Inherited,0,,76,Early successional,B2_G_76_3F,Inherited,0.895756767
+76,Early successional,B2_G_76_4B,Non-inherited,0.858319605,,76,Early successional,B2_G_76_3F,Non-inherited,0.035972826
+76,Early successional,B2_G_76_4B,Transient,0.123558484,,76,Early successional,B2_G_76_3F,Transient,0.045327989
+76,Early successional,B2_G_76_5B,Inherited,0,,76,Early successional,B2_G_76_4F,Inherited,0.959869417
+76,Early successional,B2_G_76_5B,Non-inherited,0.849829352,,76,Early successional,B2_G_76_4F,Non-inherited,0.017437695
+76,Early successional,B2_G_76_5B,Transient,0.150170649,,76,Early successional,B2_G_76_4F,Transient,0.014969345
+76,Early successional,B2_G_76_6B,Inherited,0,,76,Early successional,B2_G_76_5F,Inherited,0.773398503
+76,Early successional,B2_G_76_6B,Non-inherited,0.926356589,,76,Early successional,B2_G_76_5F,Non-inherited,0.029326122
+76,Early successional,B2_G_76_6B,Transient,0,,76,Early successional,B2_G_76_5F,Transient,0.043469217
+76,Early successional,B2_G_76_7B,Inherited,0,,76,Early successional,B2_G_76_6F,Inherited,0.41608662
+76,Early successional,B2_G_76_7B,Non-inherited,0.963636364,,76,Early successional,B2_G_76_6F,Non-inherited,0.010054138
+76,Early successional,B2_G_76_7B,Transient,0.036363636,,76,Early successional,B2_G_76_6F,Transient,0.527455529
+76,Early successional,B2_G_76_8B,Inherited,0,,76,Early successional,B2_G_76_7F,Inherited,0.583768582
+76,Early successional,B2_G_76_8B,Non-inherited,0.957792207,,76,Early successional,B2_G_76_7F,Non-inherited,0.237846525
+76,Early successional,B2_G_76_8B,Transient,0.042207792,,76,Early successional,B2_G_76_7F,Transient,0.150261149
+76,Early successional,B2_G_76_9B,Inherited,0,,76,Early successional,B2_G_76_8F,Inherited,0.838303916
+76,Early successional,B2_G_76_9B,Non-inherited,0.979381444,,76,Early successional,B2_G_76_8F,Non-inherited,0.048082775
+76,Early successional,B2_G_76_9B,Transient,0.020618557,,76,Early successional,B2_G_76_8F,Transient,0.107019679
+76,Late successional,A1_G_76_1B,Inherited,0.111706881,,76,Early successional,B2_G_76_9F,Inherited,0.678137652
+76,Late successional,A1_G_76_1B,Non-inherited,0,,76,Early successional,B2_G_76_9F,Non-inherited,0.259109311
+76,Late successional,A1_G_76_1B,Transient,0.040214477,,76,Early successional,B2_G_76_9F,Transient,0.015182186
+76,Late successional,A1_G_76_2B,Inherited,0.025145068,,76,Late successional,A1_G_76_1F,Inherited,0.020205871
+76,Late successional,A1_G_76_2B,Non-inherited,0,,76,Late successional,A1_G_76_1F,Non-inherited,0
+76,Late successional,A1_G_76_2B,Transient,0.035460993,,76,Late successional,A1_G_76_1F,Transient,0
+76,Late successional,A1_G_76_3B,Inherited,0.3246875,,76,Late successional,A1_G_76_2F,Inherited,0.38075216
+76,Late successional,A1_G_76_3B,Non-inherited,0,,76,Late successional,A1_G_76_2F,Non-inherited,0
+76,Late successional,A1_G_76_3B,Transient,0.03875,,76,Late successional,A1_G_76_2F,Transient,0
+76,Late successional,A1_G_76_4B,Inherited,0.130293159,,76,Late successional,A1_G_76_3F,Inherited,0.046064328
+76,Late successional,A1_G_76_4B,Non-inherited,0,,76,Late successional,A1_G_76_3F,Non-inherited,0
+76,Late successional,A1_G_76_4B,Transient,0,,76,Late successional,A1_G_76_3F,Transient,0.00840472
+76,Late successional,A1_G_76_5B,Inherited,0.070477682,,76,Late successional,A1_G_76_4F,Inherited,0.022267207
+76,Late successional,A1_G_76_5B,Non-inherited,0,,76,Late successional,A1_G_76_4F,Non-inherited,0
+76,Late successional,A1_G_76_5B,Transient,0,,76,Late successional,A1_G_76_4F,Transient,0
+76,Late successional,A1_G_76_6B,Inherited,0.102750809,,76,Late successional,A1_G_76_5F,Inherited,0.075618465
+76,Late successional,A1_G_76_6B,Non-inherited,0,,76,Late successional,A1_G_76_5F,Non-inherited,0
+76,Late successional,A1_G_76_6B,Transient,0,,76,Late successional,A1_G_76_5F,Transient,0.000765111
+76,Late successional,A1_G_76_8B,Inherited,0.428571429,,76,Late successional,A1_G_76_6F,Inherited,0.012881596
+76,Late successional,A1_G_76_8B,Non-inherited,0,,76,Late successional,A1_G_76_6F,Non-inherited,0
+76,Late successional,A1_G_76_8B,Transient,0,,76,Late successional,A1_G_76_6F,Transient,0.001941062
+76,Late successional,A1_G_76_9B,Inherited,0.005684755,,76,Late successional,A1_G_76_7F,Inherited,0.003387916
+76,Late successional,A1_G_76_9B,Non-inherited,0,,76,Late successional,A1_G_76_7F,Non-inherited,0
+76,Late successional,A1_G_76_9B,Transient,0,,76,Late successional,A1_G_76_7F,Transient,0
+76,Late successional,B2_G_76_1B,Inherited,0.011257036,,76,Late successional,A1_G_76_8F,Inherited,0.037956888
+76,Late successional,B2_G_76_1B,Non-inherited,0,,76,Late successional,A1_G_76_8F,Non-inherited,0
+76,Late successional,B2_G_76_1B,Transient,0,,76,Late successional,A1_G_76_8F,Transient,0
+76,Late successional,B2_G_76_2B,Inherited,0.040181098,,76,Late successional,A1_G_76_9F,Inherited,0.020929466
+76,Late successional,B2_G_76_2B,Non-inherited,0,,76,Late successional,A1_G_76_9F,Non-inherited,0
+76,Late successional,B2_G_76_2B,Transient,0,,76,Late successional,A1_G_76_9F,Transient,0
+76,Late successional,B2_G_76_3B,Inherited,0.356178608,,76,Late successional,B2_G_76_1F,Inherited,0.527504555
+76,Late successional,B2_G_76_3B,Non-inherited,0,,76,Late successional,B2_G_76_1F,Non-inherited,0
+76,Late successional,B2_G_76_3B,Transient,0,,76,Late successional,B2_G_76_1F,Transient,0.079599271
+76,Late successional,B2_G_76_4B,Inherited,0.018121911,,76,Late successional,B2_G_76_2F,Inherited,0.022734399
+76,Late successional,B2_G_76_4B,Non-inherited,0,,76,Late successional,B2_G_76_2F,Non-inherited,0
+76,Late successional,B2_G_76_4B,Transient,0,,76,Late successional,B2_G_76_2F,Transient,0.034493572
+76,Late successional,B2_G_76_5B,Inherited,0,,76,Late successional,B2_G_76_3F,Inherited,0.007461855
+76,Late successional,B2_G_76_5B,Non-inherited,0,,76,Late successional,B2_G_76_3F,Non-inherited,0
+76,Late successional,B2_G_76_5B,Transient,0,,76,Late successional,B2_G_76_3F,Transient,0.015480566
+76,Late successional,B2_G_76_6B,Inherited,0.034883721,,76,Late successional,B2_G_76_4F,Inherited,0.00191098
+76,Late successional,B2_G_76_6B,Non-inherited,0,,76,Late successional,B2_G_76_4F,Non-inherited,0
+76,Late successional,B2_G_76_6B,Transient,0.03875969,,76,Late successional,B2_G_76_4F,Transient,0.005812565
+76,Late successional,B2_G_76_7B,Inherited,0,,76,Late successional,B2_G_76_5F,Inherited,0.144862729
+76,Late successional,B2_G_76_7B,Non-inherited,0,,76,Late successional,B2_G_76_5F,Non-inherited,0
+76,Late successional,B2_G_76_7B,Transient,0,,76,Late successional,B2_G_76_5F,Transient,0.006759568
+76,Late successional,B2_G_76_8B,Inherited,0,,76,Late successional,B2_G_76_6F,Inherited,0.034802784
+76,Late successional,B2_G_76_8B,Non-inherited,0,,76,Late successional,B2_G_76_6F,Non-inherited,0
+76,Late successional,B2_G_76_8B,Transient,0,,76,Late successional,B2_G_76_6F,Transient,0.006960557
+76,Late successional,B2_G_76_9B,Inherited,0,,76,Late successional,B2_G_76_7F,Inherited,0.028123745
+76,Late successional,B2_G_76_9B,Non-inherited,0,,76,Late successional,B2_G_76_7F,Non-inherited,0
+76,Late successional,B2_G_76_9B,Transient,0,,76,Late successional,B2_G_76_7F,Transient,0
+76,Mid-successional / No trend,A1_G_76_1B,Inherited,0.043789097,,76,Late successional,B2_G_76_8F,Inherited,0.006593629
+76,Mid-successional / No trend,A1_G_76_1B,Non-inherited,0,,76,Late successional,B2_G_76_8F,Non-inherited,0
+76,Mid-successional / No trend,A1_G_76_1B,Transient,0,,76,Late successional,B2_G_76_8F,Transient,0
+76,Mid-successional / No trend,A1_G_76_2B,Inherited,0,,76,Late successional,B2_G_76_9F,Inherited,0.04757085
+76,Mid-successional / No trend,A1_G_76_2B,Non-inherited,0,,76,Late successional,B2_G_76_9F,Non-inherited,0
+76,Mid-successional / No trend,A1_G_76_2B,Transient,0,,76,Late successional,B2_G_76_9F,Transient,0
+76,Mid-successional / No trend,A1_G_76_3B,Inherited,0.03453125,,76,Mid-successional / No trend,A1_G_76_1F,Inherited,0.002287457
+76,Mid-successional / No trend,A1_G_76_3B,Non-inherited,0,,76,Mid-successional / No trend,A1_G_76_1F,Non-inherited,0
+76,Mid-successional / No trend,A1_G_76_3B,Transient,0.03,,76,Mid-successional / No trend,A1_G_76_1F,Transient,0
+76,Mid-successional / No trend,A1_G_76_4B,Inherited,0,,76,Mid-successional / No trend,A1_G_76_2F,Inherited,0
+76,Mid-successional / No trend,A1_G_76_4B,Non-inherited,0,,76,Mid-successional / No trend,A1_G_76_2F,Non-inherited,0
+76,Mid-successional / No trend,A1_G_76_4B,Transient,0,,76,Mid-successional / No trend,A1_G_76_2F,Transient,0
+76,Mid-successional / No trend,A1_G_76_5B,Inherited,0,,76,Mid-successional / No trend,A1_G_76_3F,Inherited,0.004525618
+76,Mid-successional / No trend,A1_G_76_5B,Non-inherited,0,,76,Mid-successional / No trend,A1_G_76_3F,Non-inherited,0
+76,Mid-successional / No trend,A1_G_76_5B,Transient,0,,76,Mid-successional / No trend,A1_G_76_3F,Transient,0
+76,Mid-successional / No trend,A1_G_76_6B,Inherited,0,,76,Mid-successional / No trend,A1_G_76_4F,Inherited,0.009446694
+76,Mid-successional / No trend,A1_G_76_6B,Non-inherited,0,,76,Mid-successional / No trend,A1_G_76_4F,Non-inherited,0
+76,Mid-successional / No trend,A1_G_76_6B,Transient,0,,76,Mid-successional / No trend,A1_G_76_4F,Transient,0
+76,Mid-successional / No trend,A1_G_76_8B,Inherited,0,,76,Mid-successional / No trend,A1_G_76_5F,Inherited,0.000765111
+76,Mid-successional / No trend,A1_G_76_8B,Non-inherited,0,,76,Mid-successional / No trend,A1_G_76_5F,Non-inherited,0.000382555
+76,Mid-successional / No trend,A1_G_76_8B,Transient,0,,76,Mid-successional / No trend,A1_G_76_5F,Transient,0
+76,Mid-successional / No trend,A1_G_76_9B,Inherited,0,,76,Mid-successional / No trend,A1_G_76_6F,Inherited,0
+76,Mid-successional / No trend,A1_G_76_9B,Non-inherited,0,,76,Mid-successional / No trend,A1_G_76_6F,Non-inherited,0
+76,Mid-successional / No trend,A1_G_76_9B,Transient,0,,76,Mid-successional / No trend,A1_G_76_6F,Transient,0
+76,Mid-successional / No trend,B2_G_76_1B,Inherited,0,,76,Mid-successional / No trend,A1_G_76_7F,Inherited,0
+76,Mid-successional / No trend,B2_G_76_1B,Non-inherited,0,,76,Mid-successional / No trend,A1_G_76_7F,Non-inherited,0
+76,Mid-successional / No trend,B2_G_76_1B,Transient,0,,76,Mid-successional / No trend,A1_G_76_7F,Transient,0
+76,Mid-successional / No trend,B2_G_76_2B,Inherited,0.056593096,,76,Mid-successional / No trend,A1_G_76_8F,Inherited,0
+76,Mid-successional / No trend,B2_G_76_2B,Non-inherited,0,,76,Mid-successional / No trend,A1_G_76_8F,Non-inherited,0.003280225
+76,Mid-successional / No trend,B2_G_76_2B,Transient,0,,76,Mid-successional / No trend,A1_G_76_8F,Transient,0.013589503
+76,Mid-successional / No trend,B2_G_76_3B,Inherited,0.108515057,,76,Mid-successional / No trend,A1_G_76_9F,Inherited,0
+76,Mid-successional / No trend,B2_G_76_3B,Non-inherited,0,,76,Mid-successional / No trend,A1_G_76_9F,Non-inherited,0
+76,Mid-successional / No trend,B2_G_76_3B,Transient,0,,76,Mid-successional / No trend,A1_G_76_9F,Transient,0
+76,Mid-successional / No trend,B2_G_76_4B,Inherited,0,,76,Mid-successional / No trend,B2_G_76_1F,Inherited,0.002185792
+76,Mid-successional / No trend,B2_G_76_4B,Non-inherited,0,,76,Mid-successional / No trend,B2_G_76_1F,Non-inherited,0
+76,Mid-successional / No trend,B2_G_76_4B,Transient,0,,76,Mid-successional / No trend,B2_G_76_1F,Transient,0.003825137
+76,Mid-successional / No trend,B2_G_76_5B,Inherited,0,,76,Mid-successional / No trend,B2_G_76_2F,Inherited,0
+76,Mid-successional / No trend,B2_G_76_5B,Non-inherited,0,,76,Mid-successional / No trend,B2_G_76_2F,Non-inherited,0
+76,Mid-successional / No trend,B2_G_76_5B,Transient,0,,76,Mid-successional / No trend,B2_G_76_2F,Transient,0
+76,Mid-successional / No trend,B2_G_76_6B,Inherited,0,,76,Mid-successional / No trend,B2_G_76_3F,Inherited,0
+76,Mid-successional / No trend,B2_G_76_6B,Non-inherited,0,,76,Mid-successional / No trend,B2_G_76_3F,Non-inherited,0
+76,Mid-successional / No trend,B2_G_76_6B,Transient,0,,76,Mid-successional / No trend,B2_G_76_3F,Transient,0
+76,Mid-successional / No trend,B2_G_76_7B,Inherited,0,,76,Mid-successional / No trend,B2_G_76_4F,Inherited,0
+76,Mid-successional / No trend,B2_G_76_7B,Non-inherited,0,,76,Mid-successional / No trend,B2_G_76_4F,Non-inherited,0
+76,Mid-successional / No trend,B2_G_76_7B,Transient,0,,76,Mid-successional / No trend,B2_G_76_4F,Transient,0
+76,Mid-successional / No trend,B2_G_76_8B,Inherited,0,,76,Mid-successional / No trend,B2_G_76_5F,Inherited,0
+76,Mid-successional / No trend,B2_G_76_8B,Non-inherited,0,,76,Mid-successional / No trend,B2_G_76_5F,Non-inherited,0
+76,Mid-successional / No trend,B2_G_76_8B,Transient,0,,76,Mid-successional / No trend,B2_G_76_5F,Transient,0.00218386
+76,Mid-successional / No trend,B2_G_76_9B,Inherited,0,,76,Mid-successional / No trend,B2_G_76_6F,Inherited,0
+76,Mid-successional / No trend,B2_G_76_9B,Non-inherited,0,,76,Mid-successional / No trend,B2_G_76_6F,Non-inherited,0
+76,Mid-successional / No trend,B2_G_76_9B,Transient,0,,76,Mid-successional / No trend,B2_G_76_6F,Transient,0.004640371
+76,NA,A1_G_76_1B,Transient,0,,76,Mid-successional / No trend,B2_G_76_7F,Inherited,0
+76,NA,A1_G_76_2B,Transient,0,,76,Mid-successional / No trend,B2_G_76_7F,Non-inherited,0
+76,NA,A1_G_76_3B,Transient,0,,76,Mid-successional / No trend,B2_G_76_7F,Transient,0
+76,NA,A1_G_76_4B,Transient,0,,76,Mid-successional / No trend,B2_G_76_8F,Inherited,0
+76,NA,A1_G_76_5B,Transient,0,,76,Mid-successional / No trend,B2_G_76_8F,Non-inherited,0
+76,NA,A1_G_76_6B,Transient,0,,76,Mid-successional / No trend,B2_G_76_8F,Transient,0
+76,NA,A1_G_76_8B,Transient,0,,76,Mid-successional / No trend,B2_G_76_9F,Inherited,0
+76,NA,A1_G_76_9B,Transient,0,,76,Mid-successional / No trend,B2_G_76_9F,Non-inherited,0
+76,NA,B2_G_76_1B,Transient,0,,76,Mid-successional / No trend,B2_G_76_9F,Transient,0
+76,NA,B2_G_76_2B,Transient,0,,76,NA,A1_G_76_1F,Transient,0
+76,NA,B2_G_76_3B,Transient,0,,76,NA,A1_G_76_2F,Transient,0
+76,NA,B2_G_76_4B,Transient,0,,76,NA,A1_G_76_3F,Transient,0
+76,NA,B2_G_76_5B,Transient,0,,76,NA,A1_G_76_4F,Transient,0
+76,NA,B2_G_76_6B,Transient,0,,76,NA,A1_G_76_5F,Transient,0
+76,NA,B2_G_76_7B,Transient,0,,76,NA,A1_G_76_6F,Transient,0
+76,NA,B2_G_76_8B,Transient,0,,76,NA,A1_G_76_7F,Transient,0
+76,NA,B2_G_76_9B,Transient,0,,76,NA,A1_G_76_8F,Transient,0
+90,Early successional,A1_G_90_1B,Inherited,0.039206424,,76,NA,A1_G_76_9F,Transient,0
+90,Early successional,A1_G_90_1B,Non-inherited,0.026924894,,76,NA,B2_G_76_1F,Transient,0
+90,Early successional,A1_G_90_1B,Transient,0.00629822,,76,NA,B2_G_76_2F,Transient,0
+90,Early successional,A1_G_90_2B,Inherited,0.050102482,,76,NA,B2_G_76_3F,Transient,0
+90,Early successional,A1_G_90_2B,Non-inherited,0.118879527,,76,NA,B2_G_76_4F,Transient,0
+90,Early successional,A1_G_90_2B,Transient,0.114324755,,76,NA,B2_G_76_5F,Transient,0
+90,Early successional,A1_G_90_3B,Inherited,0,,76,NA,B2_G_76_6F,Transient,0
+90,Early successional,A1_G_90_3B,Non-inherited,0.020725388,,76,NA,B2_G_76_7F,Transient,0
+90,Early successional,A1_G_90_3B,Transient,0,,76,NA,B2_G_76_8F,Transient,0
+90,Early successional,A1_G_90_4B,Inherited,0.018481131,,76,NA,B2_G_76_9F,Transient,0
+90,Early successional,A1_G_90_4B,Non-inherited,0.023916757,,90,Early successional,A1_G_90_1F,Inherited,0.899777046
+90,Early successional,A1_G_90_4B,Transient,0,,90,Early successional,A1_G_90_1F,Non-inherited,0.025905087
+90,Early successional,A1_G_90_5B,Inherited,0.03639352,,90,Early successional,A1_G_90_1F,Transient,0.01581909
+90,Early successional,A1_G_90_5B,Non-inherited,0.030054003,,90,Early successional,A1_G_90_2F,Inherited,0.92253272
+90,Early successional,A1_G_90_5B,Transient,0,,90,Early successional,A1_G_90_2F,Non-inherited,0.018305624
+90,Early successional,A1_G_90_6B,Inherited,0.121253406,,90,Early successional,A1_G_90_2F,Transient,0.02113548
+90,Early successional,A1_G_90_6B,Non-inherited,0.042623589,,90,Early successional,A1_G_90_3F,Inherited,0.972901679
+90,Early successional,A1_G_90_6B,Transient,0.004281822,,90,Early successional,A1_G_90_3F,Non-inherited,0.011430855
+90,Early successional,A1_G_90_7B,Inherited,0.830480848,,90,Early successional,A1_G_90_3F,Transient,0.008633093
+90,Early successional,A1_G_90_7B,Non-inherited,0,,90,Early successional,A1_G_90_4F,Inherited,0.783161721
+90,Early successional,A1_G_90_7B,Transient,0,,90,Early successional,A1_G_90_4F,Non-inherited,0.170632516
+90,Early successional,A1_G_90_8B,Inherited,0.559001396,,90,Early successional,A1_G_90_4F,Transient,0.006316518
+90,Early successional,A1_G_90_8B,Non-inherited,0.002170879,,90,Early successional,A1_G_90_5F,Inherited,0.717831813
+90,Early successional,A1_G_90_8B,Transient,0,,90,Early successional,A1_G_90_5F,Non-inherited,0.067122591
+90,Early successional,A1_G_90_9B,Inherited,0.233733239,,90,Early successional,A1_G_90_5F,Transient,0.164640323
+90,Early successional,A1_G_90_9B,Non-inherited,0.001834862,,90,Early successional,A1_G_90_6F,Inherited,0.165035705
+90,Early successional,A1_G_90_9B,Transient,0,,90,Early successional,A1_G_90_6F,Non-inherited,0.351582474
+90,Early successional,B2_G_90_1B,Inherited,0.777971647,,90,Early successional,A1_G_90_6F,Transient,0.075376885
+90,Early successional,B2_G_90_1B,Non-inherited,0,,90,Early successional,A1_G_90_7F,Inherited,0.644941869
+90,Early successional,B2_G_90_1B,Transient,0,,90,Early successional,A1_G_90_7F,Non-inherited,0.07684886
+90,Early successional,B2_G_90_2B,Inherited,0,,90,Early successional,A1_G_90_7F,Transient,0.016595108
+90,Early successional,B2_G_90_2B,Non-inherited,0.514285714,,90,Early successional,A1_G_90_8F,Inherited,0.120300752
+90,Early successional,B2_G_90_2B,Transient,0,,90,Early successional,A1_G_90_8F,Non-inherited,0.000469925
+90,Early successional,B2_G_90_3B,Inherited,0.157763975,,90,Early successional,A1_G_90_8F,Transient,0.876233552
+90,Early successional,B2_G_90_3B,Non-inherited,0.171925467,,90,Early successional,A1_G_90_9F,Inherited,0.843928247
+90,Early successional,B2_G_90_3B,Transient,0,,90,Early successional,A1_G_90_9F,Non-inherited,0.00661321
+90,Early successional,B2_G_90_4B,Inherited,0,,90,Early successional,A1_G_90_9F,Transient,0.011407787
+90,Early successional,B2_G_90_4B,Non-inherited,0.072905895,,90,Early successional,B2_G_90_1F,Inherited,0.865509293
+90,Early successional,B2_G_90_4B,Transient,0,,90,Early successional,B2_G_90_1F,Non-inherited,0.11014263
+90,Early successional,B2_G_90_5B,Inherited,0.605226411,,90,Early successional,B2_G_90_1F,Transient,0.006627287
+90,Early successional,B2_G_90_5B,Non-inherited,0.029323758,,90,Early successional,B2_G_90_2F,Inherited,0.756813717
+90,Early successional,B2_G_90_5B,Transient,0.001994813,,90,Early successional,B2_G_90_2F,Non-inherited,0.000428606
+90,Early successional,B2_G_90_6B,Inherited,0.391593973,,90,Early successional,B2_G_90_2F,Transient,0.00060721
+90,Early successional,B2_G_90_6B,Non-inherited,0.118318795,,90,Early successional,B2_G_90_3F,Inherited,0.984987687
+90,Early successional,B2_G_90_6B,Transient,0,,90,Early successional,B2_G_90_3F,Non-inherited,0.00539875
+90,Early successional,B2_G_90_7B,Inherited,0.354402569,,90,Early successional,B2_G_90_3F,Transient,0.006156469
+90,Early successional,B2_G_90_7B,Non-inherited,0.156836234,,90,Early successional,B2_G_90_4F,Inherited,0.856731394
+90,Early successional,B2_G_90_7B,Transient,0,,90,Early successional,B2_G_90_4F,Non-inherited,0.005946297
+90,Early successional,B2_G_90_8B,Inherited,0.078532346,,90,Early successional,B2_G_90_4F,Transient,0.008083247
+90,Early successional,B2_G_90_8B,Non-inherited,0.091728355,,90,Early successional,B2_G_90_5F,Inherited,0.872881356
+90,Early successional,B2_G_90_8B,Transient,0.083360154,,90,Early successional,B2_G_90_5F,Non-inherited,0.098613251
+90,Early successional,B2_G_90_9B,Inherited,0.323013416,,90,Early successional,B2_G_90_5F,Transient,0.010785824
+90,Early successional,B2_G_90_9B,Non-inherited,0.059649123,,90,Early successional,B2_G_90_6F,Inherited,0.949119953
+90,Early successional,B2_G_90_9B,Transient,0.028895769,,90,Early successional,B2_G_90_6F,Non-inherited,0.016047922
+90,Early successional,C3_G_90_1B,Inherited,0.092020592,,90,Early successional,B2_G_90_6F,Transient,0.006064191
+90,Early successional,C3_G_90_1B,Non-inherited,0.465250965,,90,Early successional,B2_G_90_7F,Inherited,0.588628762
+90,Early successional,C3_G_90_1B,Transient,0.007722008,,90,Early successional,B2_G_90_7F,Non-inherited,0.057190635
+90,Early successional,C3_G_90_2B,Inherited,0.083413231,,90,Early successional,B2_G_90_7F,Transient,0
+90,Early successional,C3_G_90_2B,Non-inherited,0.388302972,,90,Early successional,B2_G_90_8F,Inherited,0.938783593
+90,Early successional,C3_G_90_2B,Transient,0.075743049,,90,Early successional,B2_G_90_8F,Non-inherited,0.001527581
+90,Early successional,C3_G_90_3B,Inherited,0.19890055,,90,Early successional,B2_G_90_8F,Transient,0.00718529
+90,Early successional,C3_G_90_3B,Non-inherited,0.109445277,,90,Early successional,B2_G_90_9F,Inherited,0.963111712
+90,Early successional,C3_G_90_3B,Transient,0.006496752,,90,Early successional,B2_G_90_9F,Non-inherited,0.00301217
+90,Early successional,C3_G_90_4B,Inherited,0.048555777,,90,Early successional,B2_G_90_9F,Transient,0.006373599
+90,Early successional,C3_G_90_4B,Non-inherited,0.106822711,,90,Early successional,C3_G_90_1F,Inherited,0.987723309
+90,Early successional,C3_G_90_4B,Transient,0.006972112,,90,Early successional,C3_G_90_1F,Non-inherited,0.007747016
+90,Early successional,C3_G_90_5B,Inherited,0.063328424,,90,Early successional,C3_G_90_1F,Transient,0.001354703
+90,Early successional,C3_G_90_5B,Non-inherited,0.405007364,,90,Early successional,C3_G_90_2F,Inherited,0.850104095
+90,Early successional,C3_G_90_5B,Transient,0.013254786,,90,Early successional,C3_G_90_2F,Non-inherited,0.066273422
+90,Early successional,C3_G_90_6B,Inherited,0.123115578,,90,Early successional,C3_G_90_2F,Transient,0.056557946
+90,Early successional,C3_G_90_6B,Non-inherited,0.341206033,,90,Early successional,C3_G_90_3F,Inherited,0.85910518
+90,Early successional,C3_G_90_6B,Transient,0.06080402,,90,Early successional,C3_G_90_3F,Non-inherited,0.038854003
+90,Early successional,C3_G_90_7B,Inherited,0.195928753,,90,Early successional,C3_G_90_3F,Transient,0.020800627
+90,Early successional,C3_G_90_7B,Non-inherited,0.13740458,,90,Early successional,C3_G_90_4F,Inherited,0.936006826
+90,Early successional,C3_G_90_7B,Transient,0,,90,Early successional,C3_G_90_4F,Non-inherited,0.022610921
+90,Early successional,C3_G_90_8B,Inherited,0,,90,Early successional,C3_G_90_4F,Transient,0.026450512
+90,Early successional,C3_G_90_8B,Non-inherited,0,,90,Early successional,C3_G_90_5F,Inherited,0.932692308
+90,Early successional,C3_G_90_8B,Transient,0.015427415,,90,Early successional,C3_G_90_5F,Non-inherited,0.011363636
+90,Early successional,C3_G_90_9B,Inherited,0.045123998,,90,Early successional,C3_G_90_5F,Transient,0.032051282
+90,Early successional,C3_G_90_9B,Non-inherited,0,,90,Early successional,C3_G_90_6F,Inherited,0.935655253
+90,Early successional,C3_G_90_9B,Transient,0,,90,Early successional,C3_G_90_6F,Non-inherited,0.015348288
+90,Late successional,A1_G_90_1B,Inherited,0.839710281,,90,Early successional,C3_G_90_6F,Transient,0.007674143
+90,Late successional,A1_G_90_1B,Non-inherited,0,,90,Early successional,C3_G_90_7F,Inherited,0.941866738
+90,Late successional,A1_G_90_1B,Transient,0.014328452,,90,Early successional,C3_G_90_7F,Non-inherited,0.004585919
+90,Late successional,A1_G_90_2B,Inherited,0.594625371,,90,Early successional,C3_G_90_7F,Transient,0.011869437
+90,Late successional,A1_G_90_2B,Non-inherited,0,,90,Early successional,C3_G_90_8F,Inherited,0.639761647
+90,Late successional,A1_G_90_2B,Transient,0.038487816,,90,Early successional,C3_G_90_8F,Non-inherited,0.007042254
+90,Late successional,A1_G_90_3B,Inherited,0.979274611,,90,Early successional,C3_G_90_8F,Transient,0.007042253
+90,Late successional,A1_G_90_3B,Non-inherited,0,,90,Early successional,C3_G_90_9F,Inherited,0.072802533
+90,Late successional,A1_G_90_3B,Transient,0,,90,Early successional,C3_G_90_9F,Non-inherited,0.002313124
+90,Late successional,A1_G_90_4B,Inherited,0.791893152,,90,Early successional,C3_G_90_9F,Transient,0.918675431
+90,Late successional,A1_G_90_4B,Non-inherited,0,,90,Late successional,A1_G_90_1F,Inherited,0.031425841
+90,Late successional,A1_G_90_4B,Transient,0.043950924,,90,Late successional,A1_G_90_1F,Non-inherited,0
+90,Late successional,A1_G_90_5B,Inherited,0.144165297,,90,Late successional,A1_G_90_1F,Transient,0.002548041
+90,Late successional,A1_G_90_5B,Non-inherited,0,,90,Late successional,A1_G_90_2F,Inherited,0.017067563
+90,Late successional,A1_G_90_5B,Transient,0.682319793,,90,Late successional,A1_G_90_2F,Non-inherited,0
+90,Late successional,A1_G_90_6B,Inherited,0.395679253,,90,Late successional,A1_G_90_2F,Transient,0
+90,Late successional,A1_G_90_6B,Non-inherited,0,,90,Late successional,A1_G_90_3F,Inherited,0.002478018
+90,Late successional,A1_G_90_6B,Transient,0.06150253,,90,Late successional,A1_G_90_3F,Non-inherited,0
+90,Late successional,A1_G_90_7B,Inherited,0.15794621,,90,Late successional,A1_G_90_3F,Transient,0
+90,Late successional,A1_G_90_7B,Non-inherited,0,,90,Late successional,A1_G_90_4F,Inherited,0
+90,Late successional,A1_G_90_7B,Transient,0,,90,Late successional,A1_G_90_4F,Non-inherited,0
+90,Late successional,A1_G_90_8B,Inherited,0.222825244,,90,Late successional,A1_G_90_4F,Transient,0.003288051
+90,Late successional,A1_G_90_8B,Non-inherited,0,,90,Late successional,A1_G_90_5F,Inherited,0.005065856
+90,Late successional,A1_G_90_8B,Transient,0.083888976,,90,Late successional,A1_G_90_5F,Non-inherited,0
+90,Late successional,A1_G_90_9B,Inherited,0.476781933,,90,Late successional,A1_G_90_5F,Transient,0.009371834
+90,Late successional,A1_G_90_9B,Non-inherited,0,,90,Late successional,A1_G_90_6F,Inherited,0.354139116
+90,Late successional,A1_G_90_9B,Transient,0.012844037,,90,Late successional,A1_G_90_6F,Non-inherited,0.002909283
+90,Late successional,B2_G_90_1B,Inherited,0.011559433,,90,Late successional,A1_G_90_6F,Transient,0.004319845
+90,Late successional,B2_G_90_1B,Non-inherited,0,,90,Late successional,A1_G_90_7F,Inherited,0.20883786
+90,Late successional,B2_G_90_1B,Transient,0,,90,Late successional,A1_G_90_7F,Non-inherited,0
+90,Late successional,B2_G_90_2B,Inherited,0.485714286,,90,Late successional,A1_G_90_7F,Transient,0.004004052
+90,Late successional,B2_G_90_2B,Non-inherited,0,,90,Late successional,A1_G_90_8F,Inherited,0.002525846
+90,Late successional,B2_G_90_2B,Transient,0,,90,Late successional,A1_G_90_8F,Non-inherited,0
+90,Late successional,B2_G_90_3B,Inherited,0.388074534,,90,Late successional,A1_G_90_8F,Transient,0
+90,Late successional,B2_G_90_3B,Non-inherited,0,,90,Late successional,A1_G_90_9F,Inherited,0.068612053
+90,Late successional,B2_G_90_3B,Transient,0,,90,Late successional,A1_G_90_9F,Non-inherited,0
+90,Late successional,B2_G_90_4B,Inherited,0.55222337,,90,Late successional,A1_G_90_9F,Transient,0
+90,Late successional,B2_G_90_4B,Non-inherited,0,,90,Late successional,B2_G_90_1F,Inherited,0.010085001
+90,Late successional,B2_G_90_4B,Transient,0,,90,Late successional,B2_G_90_1F,Non-inherited,0
+90,Late successional,B2_G_90_5B,Inherited,0.252742869,,90,Late successional,B2_G_90_1F,Transient,0.000648322
+90,Late successional,B2_G_90_5B,Non-inherited,0,,90,Late successional,B2_G_90_2F,Inherited,0.005286658
+90,Late successional,B2_G_90_5B,Transient,0,,90,Late successional,B2_G_90_2F,Non-inherited,0
+90,Late successional,B2_G_90_6B,Inherited,0.360507534,,90,Late successional,B2_G_90_2F,Transient,0.000464369
+90,Late successional,B2_G_90_6B,Non-inherited,0,,90,Late successional,B2_G_90_3F,Inherited,0.002320515
+90,Late successional,B2_G_90_6B,Transient,0,,90,Late successional,B2_G_90_3F,Non-inherited,0
+90,Late successional,B2_G_90_7B,Inherited,0.282913639,,90,Late successional,B2_G_90_3F,Transient,0
+90,Late successional,B2_G_90_7B,Non-inherited,0,,90,Late successional,B2_G_90_4F,Inherited,0.01653814
+90,Late successional,B2_G_90_7B,Transient,0,,90,Late successional,B2_G_90_4F,Non-inherited,0
+90,Late successional,B2_G_90_8B,Inherited,0.683295783,,90,Late successional,B2_G_90_4F,Transient,0
+90,Late successional,B2_G_90_8B,Non-inherited,0,,90,Late successional,B2_G_90_5F,Inherited,0.017719568
+90,Late successional,B2_G_90_8B,Transient,0,,90,Late successional,B2_G_90_5F,Non-inherited,0
+90,Late successional,B2_G_90_9B,Inherited,0.526522187,,90,Late successional,B2_G_90_5F,Transient,0
+90,Late successional,B2_G_90_9B,Non-inherited,0,,90,Late successional,B2_G_90_6F,Inherited,0.004880935
+90,Late successional,B2_G_90_9B,Transient,0,,90,Late successional,B2_G_90_6F,Non-inherited,0.012572105
+90,Late successional,C3_G_90_1B,Inherited,0.25032175,,90,Late successional,B2_G_90_6F,Transient,0
+90,Late successional,C3_G_90_1B,Non-inherited,0,,90,Late successional,B2_G_90_7F,Inherited,0.198662207
+90,Late successional,C3_G_90_1B,Transient,0.036679537,,90,Late successional,B2_G_90_7F,Non-inherited,0
+90,Late successional,C3_G_90_2B,Inherited,0.259827422,,90,Late successional,B2_G_90_7F,Transient,0.008361204
+90,Late successional,C3_G_90_2B,Non-inherited,0,,90,Late successional,B2_G_90_8F,Inherited,0.005148514
+90,Late successional,C3_G_90_2B,Transient,0,,90,Late successional,B2_G_90_8F,Non-inherited,0
+90,Late successional,C3_G_90_3B,Inherited,0.07996002,,90,Late successional,B2_G_90_8F,Transient,0
+90,Late successional,C3_G_90_3B,Non-inherited,0,,90,Late successional,B2_G_90_9F,Inherited,0.023791855
+90,Late successional,C3_G_90_3B,Transient,0.019990005,,90,Late successional,B2_G_90_9F,Non-inherited,0
+90,Late successional,C3_G_90_4B,Inherited,0.643675299,,90,Late successional,B2_G_90_9F,Transient,0.000742131
+90,Late successional,C3_G_90_4B,Non-inherited,0,,90,Late successional,C3_G_90_1F,Inherited,0.000127
+90,Late successional,C3_G_90_4B,Transient,0,,90,Late successional,C3_G_90_1F,Non-inherited,0
+90,Late successional,C3_G_90_5B,Inherited,0.198821797,,90,Late successional,C3_G_90_1F,Transient,0
+90,Late successional,C3_G_90_5B,Non-inherited,0,,90,Late successional,C3_G_90_2F,Inherited,0.00832755
+90,Late successional,C3_G_90_5B,Transient,0,,90,Late successional,C3_G_90_2F,Non-inherited,0
+90,Late successional,C3_G_90_6B,Inherited,0.255778895,,90,Late successional,C3_G_90_2F,Transient,0.004510756
+90,Late successional,C3_G_90_6B,Non-inherited,0,,90,Late successional,C3_G_90_3F,Inherited,0.059654631
+90,Late successional,C3_G_90_6B,Transient,0,,90,Late successional,C3_G_90_3F,Non-inherited,0
+90,Late successional,C3_G_90_7B,Inherited,0.315521628,,90,Late successional,C3_G_90_3F,Transient,0.007456829
+90,Late successional,C3_G_90_7B,Non-inherited,0,,90,Late successional,C3_G_90_4F,Inherited,0.007679181
+90,Late successional,C3_G_90_7B,Transient,0,,90,Late successional,C3_G_90_4F,Non-inherited,0
+90,Late successional,C3_G_90_8B,Inherited,0.104704097,,90,Late successional,C3_G_90_4F,Transient,0.001279863
+90,Late successional,C3_G_90_8B,Non-inherited,0,,90,Late successional,C3_G_90_5F,Inherited,0.011072261
+90,Late successional,C3_G_90_8B,Transient,0.089276682,,90,Late successional,C3_G_90_5F,Non-inherited,0
+90,Late successional,C3_G_90_9B,Inherited,0.144135745,,90,Late successional,C3_G_90_5F,Transient,0
+90,Late successional,C3_G_90_9B,Non-inherited,0,,90,Late successional,C3_G_90_6F,Inherited,0
+90,Late successional,C3_G_90_9B,Transient,0,,90,Late successional,C3_G_90_6F,Non-inherited,0
+90,Mid-successional / No trend,A1_G_90_1B,Inherited,0.073531727,,90,Late successional,C3_G_90_6F,Transient,0.020365998
+90,Mid-successional / No trend,A1_G_90_1B,Non-inherited,0,,90,Late successional,C3_G_90_7F,Inherited,0
+90,Mid-successional / No trend,A1_G_90_1B,Transient,0,,90,Late successional,C3_G_90_7F,Non-inherited,0
+90,Mid-successional / No trend,A1_G_90_2B,Inherited,0.08358005,,90,Late successional,C3_G_90_7F,Transient,0
+90,Mid-successional / No trend,A1_G_90_2B,Non-inherited,0,,90,Late successional,C3_G_90_8F,Inherited,0.076652221
+90,Mid-successional / No trend,A1_G_90_2B,Transient,0,,90,Late successional,C3_G_90_8F,Non-inherited,0
+90,Mid-successional / No trend,A1_G_90_3B,Inherited,0,,90,Late successional,C3_G_90_8F,Transient,0
+90,Mid-successional / No trend,A1_G_90_3B,Non-inherited,0,,90,Late successional,C3_G_90_9F,Inherited,0.005478452
+90,Mid-successional / No trend,A1_G_90_3B,Transient,0,,90,Late successional,C3_G_90_9F,Non-inherited,0
+90,Mid-successional / No trend,A1_G_90_4B,Inherited,0.121758037,,90,Late successional,C3_G_90_9F,Transient,0.00073046
+90,Mid-successional / No trend,A1_G_90_4B,Non-inherited,0,,90,Mid-successional / No trend,A1_G_90_1F,Inherited,0.023463213
+90,Mid-successional / No trend,A1_G_90_4B,Transient,0,,90,Mid-successional / No trend,A1_G_90_1F,Non-inherited,0
+90,Mid-successional / No trend,A1_G_90_5B,Inherited,0.107067387,,90,Mid-successional / No trend,A1_G_90_1F,Transient,0.001061684
+90,Mid-successional / No trend,A1_G_90_5B,Non-inherited,0,,90,Mid-successional / No trend,A1_G_90_2F,Inherited,0.019897418
+90,Mid-successional / No trend,A1_G_90_5B,Transient,0,,90,Mid-successional / No trend,A1_G_90_2F,Non-inherited,0
+90,Mid-successional / No trend,A1_G_90_6B,Inherited,0.374659401,,90,Mid-successional / No trend,A1_G_90_2F,Transient,0.001061196
+90,Mid-successional / No trend,A1_G_90_6B,Non-inherited,0,,90,Mid-successional / No trend,A1_G_90_3F,Inherited,0.00343725
+90,Mid-successional / No trend,A1_G_90_6B,Transient,0,,90,Mid-successional / No trend,A1_G_90_3F,Non-inherited,0
+90,Mid-successional / No trend,A1_G_90_7B,Inherited,0.011572942,,90,Mid-successional / No trend,A1_G_90_3F,Transient,0.001119105
+90,Mid-successional / No trend,A1_G_90_7B,Non-inherited,0,,90,Mid-successional / No trend,A1_G_90_4F,Inherited,0.036601194
+90,Mid-successional / No trend,A1_G_90_7B,Transient,0,,90,Mid-successional / No trend,A1_G_90_4F,Non-inherited,0
+90,Mid-successional / No trend,A1_G_90_8B,Inherited,0.125755931,,90,Mid-successional / No trend,A1_G_90_4F,Transient,0
+90,Mid-successional / No trend,A1_G_90_8B,Non-inherited,0,,90,Mid-successional / No trend,A1_G_90_5F,Inherited,0.02887538
+90,Mid-successional / No trend,A1_G_90_8B,Transient,0.006357575,,90,Mid-successional / No trend,A1_G_90_5F,Non-inherited,0
+90,Mid-successional / No trend,A1_G_90_9B,Inherited,0.274805928,,90,Mid-successional / No trend,A1_G_90_5F,Transient,0.007092199
+90,Mid-successional / No trend,A1_G_90_9B,Non-inherited,0,,90,Mid-successional / No trend,A1_G_90_6F,Inherited,0.04460901
+90,Mid-successional / No trend,A1_G_90_9B,Transient,0,,90,Mid-successional / No trend,A1_G_90_6F,Non-inherited,0.002027682
+90,Mid-successional / No trend,B2_G_90_1B,Inherited,0.21046892,,90,Mid-successional / No trend,A1_G_90_6F,Transient,0
+90,Mid-successional / No trend,B2_G_90_1B,Non-inherited,0,,90,Mid-successional / No trend,A1_G_90_7F,Inherited,0.036036471
+90,Mid-successional / No trend,B2_G_90_1B,Transient,0,,90,Mid-successional / No trend,A1_G_90_7F,Non-inherited,0
+90,Mid-successional / No trend,B2_G_90_2B,Inherited,0,,90,Mid-successional / No trend,A1_G_90_7F,Transient,0.012735781
+90,Mid-successional / No trend,B2_G_90_2B,Non-inherited,0,,90,Mid-successional / No trend,A1_G_90_8F,Inherited,0.000469925
+90,Mid-successional / No trend,B2_G_90_2B,Transient,0,,90,Mid-successional / No trend,A1_G_90_8F,Non-inherited,0
+90,Mid-successional / No trend,B2_G_90_3B,Inherited,0.282236025,,90,Mid-successional / No trend,A1_G_90_8F,Transient,0
+90,Mid-successional / No trend,B2_G_90_3B,Non-inherited,0,,90,Mid-successional / No trend,A1_G_90_9F,Inherited,0.069438704
+90,Mid-successional / No trend,B2_G_90_3B,Transient,0,,90,Mid-successional / No trend,A1_G_90_9F,Non-inherited,0
+90,Mid-successional / No trend,B2_G_90_4B,Inherited,0.374870734,,90,Mid-successional / No trend,A1_G_90_9F,Transient,0
+90,Mid-successional / No trend,B2_G_90_4B,Non-inherited,0,,90,Mid-successional / No trend,B2_G_90_1F,Inherited,0.002665322
+90,Mid-successional / No trend,B2_G_90_4B,Transient,0,,90,Mid-successional / No trend,B2_G_90_1F,Non-inherited,0.001440715
+90,Mid-successional / No trend,B2_G_90_5B,Inherited,0.110712148,,90,Mid-successional / No trend,B2_G_90_1F,Transient,0.002881429
+90,Mid-successional / No trend,B2_G_90_5B,Non-inherited,0,,90,Mid-successional / No trend,B2_G_90_2F,Inherited,0.23604215
+90,Mid-successional / No trend,B2_G_90_5B,Transient,0,,90,Mid-successional / No trend,B2_G_90_2F,Non-inherited,0.000142883
+90,Mid-successional / No trend,B2_G_90_6B,Inherited,0.129579699,,90,Mid-successional / No trend,B2_G_90_2F,Transient,0.000214324
+90,Mid-successional / No trend,B2_G_90_6B,Non-inherited,0,,90,Mid-successional / No trend,B2_G_90_3F,Inherited,0
+90,Mid-successional / No trend,B2_G_90_6B,Transient,0,,90,Mid-successional / No trend,B2_G_90_3F,Non-inherited,0
+90,Mid-successional / No trend,B2_G_90_7B,Inherited,0.205847558,,90,Mid-successional / No trend,B2_G_90_3F,Transient,0.001136579
+90,Mid-successional / No trend,B2_G_90_7B,Non-inherited,0,,90,Mid-successional / No trend,B2_G_90_4F,Inherited,0.110471058
+90,Mid-successional / No trend,B2_G_90_7B,Transient,0,,90,Mid-successional / No trend,B2_G_90_4F,Non-inherited,0
+90,Mid-successional / No trend,B2_G_90_8B,Inherited,0.06308336,,90,Mid-successional / No trend,B2_G_90_4F,Transient,0.002229862
+90,Mid-successional / No trend,B2_G_90_8B,Non-inherited,0,,90,Mid-successional / No trend,B2_G_90_5F,Inherited,0
+90,Mid-successional / No trend,B2_G_90_8B,Transient,0,,90,Mid-successional / No trend,B2_G_90_5F,Non-inherited,0
+90,Mid-successional / No trend,B2_G_90_9B,Inherited,0.061919505,,90,Mid-successional / No trend,B2_G_90_5F,Transient,0
+90,Mid-successional / No trend,B2_G_90_9B,Non-inherited,0,,90,Mid-successional / No trend,B2_G_90_6F,Inherited,0.010279544
+90,Mid-successional / No trend,B2_G_90_9B,Transient,0,,90,Mid-successional / No trend,B2_G_90_6F,Non-inherited,0
+90,Mid-successional / No trend,C3_G_90_1B,Inherited,0.148005148,,90,Mid-successional / No trend,B2_G_90_6F,Transient,0.00103535
+90,Mid-successional / No trend,C3_G_90_1B,Non-inherited,0,,90,Mid-successional / No trend,B2_G_90_7F,Inherited,0.134113712
+90,Mid-successional / No trend,C3_G_90_1B,Transient,0,,90,Mid-successional / No trend,B2_G_90_7F,Non-inherited,0
+90,Mid-successional / No trend,C3_G_90_2B,Inherited,0.192713327,,90,Mid-successional / No trend,B2_G_90_7F,Transient,0.013043478
+90,Mid-successional / No trend,C3_G_90_2B,Non-inherited,0,,90,Mid-successional / No trend,B2_G_90_8F,Inherited,0.047355021
+90,Mid-successional / No trend,C3_G_90_2B,Transient,0,,90,Mid-successional / No trend,B2_G_90_8F,Non-inherited,0
+90,Mid-successional / No trend,C3_G_90_3B,Inherited,0.585207396,,90,Mid-successional / No trend,B2_G_90_8F,Transient,0
+90,Mid-successional / No trend,C3_G_90_3B,Non-inherited,0,,90,Mid-successional / No trend,B2_G_90_9F,Inherited,0.002968524
+90,Mid-successional / No trend,C3_G_90_3B,Transient,0,,90,Mid-successional / No trend,B2_G_90_9F,Non-inherited,0
+90,Mid-successional / No trend,C3_G_90_4B,Inherited,0.193974104,,90,Mid-successional / No trend,B2_G_90_9F,Transient,0
+90,Mid-successional / No trend,C3_G_90_4B,Non-inherited,0,,90,Mid-successional / No trend,C3_G_90_1F,Inherited,0.003048006
+90,Mid-successional / No trend,C3_G_90_4B,Transient,0,,90,Mid-successional / No trend,C3_G_90_1F,Non-inherited,0
+90,Mid-successional / No trend,C3_G_90_5B,Inherited,0.319587629,,90,Mid-successional / No trend,C3_G_90_1F,Transient,0
+90,Mid-successional / No trend,C3_G_90_5B,Non-inherited,0,,90,Mid-successional / No trend,C3_G_90_2F,Inherited,0.014226231
+90,Mid-successional / No trend,C3_G_90_5B,Transient,0,,90,Mid-successional / No trend,C3_G_90_2F,Non-inherited,0
+90,Mid-successional / No trend,C3_G_90_6B,Inherited,0.219095477,,90,Mid-successional / No trend,C3_G_90_2F,Transient,0
+90,Mid-successional / No trend,C3_G_90_6B,Non-inherited,0,,90,Mid-successional / No trend,C3_G_90_3F,Inherited,0.01255887
+90,Mid-successional / No trend,C3_G_90_6B,Transient,0,,90,Mid-successional / No trend,C3_G_90_3F,Non-inherited,0
+90,Mid-successional / No trend,C3_G_90_7B,Inherited,0.351145038,,90,Mid-successional / No trend,C3_G_90_3F,Transient,0.001569859
+90,Mid-successional / No trend,C3_G_90_7B,Non-inherited,0,,90,Mid-successional / No trend,C3_G_90_4F,Inherited,0.005972696
+90,Mid-successional / No trend,C3_G_90_7B,Transient,0,,90,Mid-successional / No trend,C3_G_90_4F,Non-inherited,0
+90,Mid-successional / No trend,C3_G_90_8B,Inherited,0.790591806,,90,Mid-successional / No trend,C3_G_90_4F,Transient,0
+90,Mid-successional / No trend,C3_G_90_8B,Non-inherited,0,,90,Mid-successional / No trend,C3_G_90_5F,Inherited,0.006410256
+90,Mid-successional / No trend,C3_G_90_8B,Transient,0,,90,Mid-successional / No trend,C3_G_90_5F,Non-inherited,0
+90,Mid-successional / No trend,C3_G_90_9B,Inherited,0.80029834,,90,Mid-successional / No trend,C3_G_90_5F,Transient,0.006410256
+90,Mid-successional / No trend,C3_G_90_9B,Non-inherited,0,,90,Mid-successional / No trend,C3_G_90_6F,Inherited,0.020956316
+90,Mid-successional / No trend,C3_G_90_9B,Transient,0.010441917,,90,Mid-successional / No trend,C3_G_90_6F,Non-inherited,0
+90,NA,A1_G_90_1B,Transient,0,,90,Mid-successional / No trend,C3_G_90_6F,Transient,0
+90,NA,A1_G_90_2B,Transient,0,,90,Mid-successional / No trend,C3_G_90_7F,Inherited,0.041677907
+90,NA,A1_G_90_3B,Transient,0,,90,Mid-successional / No trend,C3_G_90_7F,Non-inherited,0
+90,NA,A1_G_90_4B,Transient,0,,90,Mid-successional / No trend,C3_G_90_7F,Transient,0
+90,NA,A1_G_90_5B,Transient,0,,90,Mid-successional / No trend,C3_G_90_8F,Inherited,0.269501625
+90,NA,A1_G_90_6B,Transient,0,,90,Mid-successional / No trend,C3_G_90_8F,Non-inherited,0
+90,NA,A1_G_90_7B,Transient,0,,90,Mid-successional / No trend,C3_G_90_8F,Transient,0
+90,NA,A1_G_90_8B,Transient,0,,90,Mid-successional / No trend,C3_G_90_9F,Inherited,0
+90,NA,A1_G_90_9B,Transient,0,,90,Mid-successional / No trend,C3_G_90_9F,Non-inherited,0
+90,NA,B2_G_90_1B,Transient,0,,90,Mid-successional / No trend,C3_G_90_9F,Transient,0
+90,NA,B2_G_90_2B,Transient,0,,90,NA,A1_G_90_1F,Transient,0
+90,NA,B2_G_90_3B,Transient,0,,90,NA,A1_G_90_2F,Transient,0
+90,NA,B2_G_90_4B,Transient,0,,90,NA,A1_G_90_3F,Transient,0
+90,NA,B2_G_90_5B,Transient,0,,90,NA,A1_G_90_4F,Transient,0
+90,NA,B2_G_90_6B,Transient,0,,90,NA,A1_G_90_5F,Transient,0
+90,NA,B2_G_90_7B,Transient,0,,90,NA,A1_G_90_6F,Transient,0
+90,NA,B2_G_90_8B,Transient,0,,90,NA,A1_G_90_7F,Transient,0
+90,NA,B2_G_90_9B,Transient,0,,90,NA,A1_G_90_8F,Transient,0
+90,NA,C3_G_90_1B,Transient,0,,90,NA,A1_G_90_9F,Transient,0
+90,NA,C3_G_90_2B,Transient,0,,90,NA,B2_G_90_1F,Transient,0
+90,NA,C3_G_90_3B,Transient,0,,90,NA,B2_G_90_2F,Transient,0
+90,NA,C3_G_90_4B,Transient,0,,90,NA,B2_G_90_3F,Transient,0
+90,NA,C3_G_90_5B,Transient,0,,90,NA,B2_G_90_4F,Transient,0
+90,NA,C3_G_90_6B,Transient,0,,90,NA,B2_G_90_5F,Transient,0
+90,NA,C3_G_90_7B,Transient,0,,90,NA,B2_G_90_6F,Transient,0
+90,NA,C3_G_90_8B,Transient,0,,90,NA,B2_G_90_7F,Transient,0
+90,NA,C3_G_90_9B,Transient,0,,90,NA,B2_G_90_8F,Transient,0
+106,Early successional,A1_G_106_1B,Inherited,0.070132642,,90,NA,B2_G_90_9F,Transient,0
+106,Early successional,A1_G_106_1B,Non-inherited,0.028205519,,90,NA,C3_G_90_1F,Transient,0
+106,Early successional,A1_G_106_1B,Transient,0,,90,NA,C3_G_90_2F,Transient,0
+106,Early successional,A1_G_106_2B,Inherited,0.070788196,,90,NA,C3_G_90_3F,Transient,0
+106,Early successional,A1_G_106_2B,Non-inherited,0.040343669,,90,NA,C3_G_90_4F,Transient,0
+106,Early successional,A1_G_106_2B,Transient,0,,90,NA,C3_G_90_5F,Transient,0
+106,Early successional,A1_G_106_3B,Inherited,0.029104605,,90,NA,C3_G_90_6F,Transient,0
+106,Early successional,A1_G_106_3B,Non-inherited,0.057181989,,90,NA,C3_G_90_7F,Transient,0
+106,Early successional,A1_G_106_3B,Transient,0,,90,NA,C3_G_90_8F,Transient,0
+106,Early successional,A1_G_106_4B,Inherited,0.132939059,,90,NA,C3_G_90_9F,Transient,0
+106,Early successional,A1_G_106_4B,Non-inherited,0,,106,Early successional,A1_G_106_1F,Inherited,0.049374195
+106,Early successional,A1_G_106_4B,Transient,0,,106,Early successional,A1_G_106_1F,Non-inherited,0.001472483
+106,Early successional,A1_G_106_5B,Inherited,0.468387579,,106,Early successional,A1_G_106_1F,Transient,0.001978649
+106,Early successional,A1_G_106_5B,Non-inherited,0.036288814,,106,Early successional,A1_G_106_2F,Inherited,0.012039597
+106,Early successional,A1_G_106_5B,Transient,0.000935279,,106,Early successional,A1_G_106_2F,Non-inherited,0.001248551
+106,Early successional,A1_G_106_6B,Inherited,0,,106,Early successional,A1_G_106_2F,Transient,0.003924017
+106,Early successional,A1_G_106_6B,Non-inherited,0,,106,Early successional,A1_G_106_3F,Inherited,0.072444808
+106,Early successional,A1_G_106_6B,Transient,0,,106,Early successional,A1_G_106_3F,Non-inherited,0.001144726
+106,Early successional,A1_G_106_7B,Inherited,0.133598468,,106,Early successional,A1_G_106_3F,Transient,0.011692559
+106,Early successional,A1_G_106_7B,Non-inherited,0,,106,Early successional,A1_G_106_4F,Inherited,0.022561424
+106,Early successional,A1_G_106_7B,Transient,0,,106,Early successional,A1_G_106_4F,Non-inherited,0.000200844
+106,Early successional,A1_G_106_8B,Inherited,0.014166002,,106,Early successional,A1_G_106_4F,Transient,0.007029523
+106,Early successional,A1_G_106_8B,Non-inherited,0,,106,Early successional,A1_G_106_5F,Inherited,0.842986549
+106,Early successional,A1_G_106_8B,Transient,0,,106,Early successional,A1_G_106_5F,Non-inherited,0.001921493
+106,Early successional,A1_G_106_9B,Inherited,0.029680365,,106,Early successional,A1_G_106_5F,Transient,0.039802362
+106,Early successional,A1_G_106_9B,Non-inherited,0,,106,Early successional,A1_G_106_6F,Inherited,0.104515342
+106,Early successional,A1_G_106_9B,Transient,0,,106,Early successional,A1_G_106_6F,Non-inherited,0.000871688
+106,Early successional,B2_G_106_1B,Inherited,0,,106,Early successional,A1_G_106_6F,Transient,0.031816597
+106,Early successional,B2_G_106_1B,Non-inherited,0.021029732,,106,Early successional,A1_G_106_7F,Inherited,0.046365423
+106,Early successional,B2_G_106_1B,Transient,0.002175489,,106,Early successional,A1_G_106_7F,Non-inherited,0.026129666
+106,Early successional,B2_G_106_2B,Inherited,0.047619048,,106,Early successional,A1_G_106_7F,Transient,0.360838245
+106,Early successional,B2_G_106_2B,Non-inherited,0,,106,Early successional,A1_G_106_8F,Inherited,0.04280279
+106,Early successional,B2_G_106_2B,Transient,0,,106,Early successional,A1_G_106_8F,Non-inherited,0.001373917
+106,Early successional,B2_G_106_3B,Inherited,0.257401442,,106,Early successional,A1_G_106_8F,Transient,0.025893047
+106,Early successional,B2_G_106_3B,Non-inherited,0,,106,Early successional,A1_G_106_9F,Inherited,0.008216927
+106,Early successional,B2_G_106_3B,Transient,0,,106,Early successional,A1_G_106_9F,Non-inherited,0.000234769
+106,Early successional,B2_G_106_4B,Inherited,0.379614094,,106,Early successional,A1_G_106_9F,Transient,0.007512619
+106,Early successional,B2_G_106_4B,Non-inherited,0,,106,Early successional,B2_G_106_1F,Inherited,0.019224047
+106,Early successional,B2_G_106_4B,Transient,0,,106,Early successional,B2_G_106_1F,Non-inherited,0.001980659
+106,Early successional,B2_G_106_5B,Inherited,0.090923053,,106,Early successional,B2_G_106_1F,Transient,0.005242922
+106,Early successional,B2_G_106_5B,Non-inherited,0.009675933,,106,Early successional,B2_G_106_2F,Inherited,0.027920922
+106,Early successional,B2_G_106_5B,Transient,0,,106,Early successional,B2_G_106_2F,Non-inherited,0
+106,Early successional,B2_G_106_6B,Inherited,0.003186969,,106,Early successional,B2_G_106_2F,Transient,0.093694368
+106,Early successional,B2_G_106_6B,Non-inherited,0,,106,Early successional,B2_G_106_3F,Inherited,0.618429591
+106,Early successional,B2_G_106_6B,Transient,0.000885269,,106,Early successional,B2_G_106_3F,Non-inherited,0.016223232
+106,Early successional,B2_G_106_7B,Inherited,0.093388728,,106,Early successional,B2_G_106_3F,Transient,0.05234696
+106,Early successional,B2_G_106_7B,Non-inherited,0,,106,Early successional,B2_G_106_4F,Inherited,0.054959121
+106,Early successional,B2_G_106_7B,Transient,0,,106,Early successional,B2_G_106_4F,Non-inherited,0.000330333
+106,Early successional,B2_G_106_8B,Inherited,0.255624882,,106,Early successional,B2_G_106_4F,Transient,0.002601372
+106,Early successional,B2_G_106_8B,Non-inherited,0,,106,Early successional,B2_G_106_5F,Inherited,0.327282934
+106,Early successional,B2_G_106_8B,Transient,0,,106,Early successional,B2_G_106_5F,Non-inherited,0.002432634
+106,Early successional,B2_G_106_9B,Inherited,0.137092931,,106,Early successional,B2_G_106_5F,Transient,0.013285927
+106,Early successional,B2_G_106_9B,Non-inherited,0,,106,Early successional,B2_G_106_6F,Inherited,0.169258809
+106,Early successional,B2_G_106_9B,Transient,0,,106,Early successional,B2_G_106_6F,Non-inherited,0.021506682
+106,Early successional,C3_G_106_1B,Inherited,0.005394713,,106,Early successional,B2_G_106_6F,Transient,0.011664642
+106,Early successional,C3_G_106_1B,Non-inherited,0,,106,Early successional,B2_G_106_7F,Inherited,0.037026379
+106,Early successional,C3_G_106_1B,Transient,0,,106,Early successional,B2_G_106_7F,Non-inherited,0.000383693
+106,Early successional,C3_G_106_2B,Inherited,0.078970562,,106,Early successional,B2_G_106_7F,Transient,0.015347721
+106,Early successional,C3_G_106_2B,Non-inherited,0,,106,Early successional,B2_G_106_8F,Inherited,0.053400207
+106,Early successional,C3_G_106_2B,Transient,0,,106,Early successional,B2_G_106_8F,Non-inherited,0.00368786
+106,Early successional,C3_G_106_3B,Inherited,0.092774147,,106,Early successional,B2_G_106_8F,Transient,0.024339873
+106,Early successional,C3_G_106_3B,Non-inherited,0.001089325,,106,Early successional,B2_G_106_9F,Inherited,0.126575441
+106,Early successional,C3_G_106_3B,Transient,0,,106,Early successional,B2_G_106_9F,Non-inherited,0.000900252
+106,Early successional,C3_G_106_4B,Inherited,0.033584144,,106,Early successional,B2_G_106_9F,Transient,0.010803024
+106,Early successional,C3_G_106_4B,Non-inherited,0,,106,Early successional,C3_G_106_1F,Inherited,0.017016138
+106,Early successional,C3_G_106_4B,Transient,0,,106,Early successional,C3_G_106_1F,Non-inherited,0.000274454
+106,Early successional,C3_G_106_5B,Inherited,0.048897212,,106,Early successional,C3_G_106_1F,Transient,0.007300472
+106,Early successional,C3_G_106_5B,Non-inherited,0,,106,Early successional,C3_G_106_2F,Inherited,0.053976712
+106,Early successional,C3_G_106_5B,Transient,0.001456513,,106,Early successional,C3_G_106_2F,Non-inherited,0.000394711
+106,Early successional,C3_G_106_6B,Inherited,0.037652742,,106,Early successional,C3_G_106_2F,Transient,0.043615552
+106,Early successional,C3_G_106_6B,Non-inherited,0.026712135,,106,Early successional,C3_G_106_3F,Inherited,0.274117575
+106,Early successional,C3_G_106_6B,Transient,0.001562944,,106,Early successional,C3_G_106_3F,Non-inherited,0.002875145
+106,Early successional,C3_G_106_7B,Inherited,0.009978992,,106,Early successional,C3_G_106_3F,Transient,0.041047288
+106,Early successional,C3_G_106_7B,Non-inherited,0,,106,Early successional,C3_G_106_4F,Inherited,0.207032405
+106,Early successional,C3_G_106_7B,Transient,0,,106,Early successional,C3_G_106_4F,Non-inherited,0.000295479
+106,Early successional,C3_G_106_8B,Inherited,0.036087224,,106,Early successional,C3_G_106_4F,Transient,0.026888605
+106,Early successional,C3_G_106_8B,Non-inherited,0,,106,Early successional,C3_G_106_5F,Inherited,0.148262209
+106,Early successional,C3_G_106_8B,Transient,0,,106,Early successional,C3_G_106_5F,Non-inherited,0.001231852
+106,Early successional,C3_G_106_9B,Inherited,0,,106,Early successional,C3_G_106_5F,Transient,0.032116146
+106,Early successional,C3_G_106_9B,Non-inherited,0,,106,Early successional,C3_G_106_6F,Inherited,0.041152898
+106,Early successional,C3_G_106_9B,Transient,0,,106,Early successional,C3_G_106_6F,Non-inherited,0.003699137
+106,Late successional,A1_G_106_1B,Inherited,0.496112213,,106,Early successional,C3_G_106_6F,Transient,0.003699137
+106,Late successional,A1_G_106_1B,Non-inherited,0,,106,Early successional,C3_G_106_7F,Inherited,0.008756966
+106,Late successional,A1_G_106_1B,Transient,0,,106,Early successional,C3_G_106_7F,Non-inherited,0.000568634
+106,Late successional,A1_G_106_2B,Inherited,0.455360478,,106,Early successional,C3_G_106_7F,Transient,0.065961561
+106,Late successional,A1_G_106_2B,Non-inherited,0.005603287,,106,Early successional,C3_G_106_8F,Inherited,0.050392915
+106,Late successional,A1_G_106_2B,Transient,0.138214419,,106,Early successional,C3_G_106_8F,Non-inherited,0.007608832
+106,Late successional,A1_G_106_3B,Inherited,0.784454718,,106,Early successional,C3_G_106_8F,Transient,0.004240988
+106,Late successional,A1_G_106_3B,Non-inherited,0,,106,Early successional,C3_G_106_9F,Inherited,0.017584994
+106,Late successional,A1_G_106_3B,Transient,0,,106,Early successional,C3_G_106_9F,Non-inherited,0.000541077
+106,Late successional,A1_G_106_4B,Inherited,0.718050911,,106,Early successional,C3_G_106_9F,Transient,0.041212012
+106,Late successional,A1_G_106_4B,Non-inherited,0,,106,Late successional,A1_G_106_1F,Inherited,0.608549604
+106,Late successional,A1_G_106_4B,Transient,0,,106,Late successional,A1_G_106_1F,Non-inherited,0
+106,Late successional,A1_G_106_5B,Inherited,0.335016835,,106,Late successional,A1_G_106_1F,Transient,0.002392785
+106,Late successional,A1_G_106_5B,Non-inherited,0,,106,Late successional,A1_G_106_2F,Inherited,0
+106,Late successional,A1_G_106_5B,Transient,0,,106,Late successional,A1_G_106_2F,Non-inherited,0
+106,Late successional,A1_G_106_6B,Inherited,0.781669256,,106,Late successional,A1_G_106_2F,Transient,0
+106,Late successional,A1_G_106_6B,Non-inherited,0,,106,Late successional,A1_G_106_3F,Inherited,0
+106,Late successional,A1_G_106_6B,Transient,0.022454456,,106,Late successional,A1_G_106_3F,Non-inherited,0
+106,Late successional,A1_G_106_7B,Inherited,0.694800413,,106,Late successional,A1_G_106_3F,Transient,0
+106,Late successional,A1_G_106_7B,Non-inherited,0,,106,Late successional,A1_G_106_4F,Inherited,0.456584321
+106,Late successional,A1_G_106_7B,Transient,0.023420239,,106,Late successional,A1_G_106_4F,Non-inherited,0
+106,Late successional,A1_G_106_8B,Inherited,0.679369514,,106,Late successional,A1_G_106_4F,Transient,0.003548236
+106,Late successional,A1_G_106_8B,Non-inherited,0,,106,Late successional,A1_G_106_5F,Inherited,0
+106,Late successional,A1_G_106_8B,Transient,0.051675978,,106,Late successional,A1_G_106_5F,Non-inherited,0
+106,Late successional,A1_G_106_9B,Inherited,0.687422165,,106,Late successional,A1_G_106_5F,Transient,0
+106,Late successional,A1_G_106_9B,Non-inherited,0,,106,Late successional,A1_G_106_6F,Inherited,0.045153417
+106,Late successional,A1_G_106_9B,Transient,0.002283105,,106,Late successional,A1_G_106_6F,Non-inherited,0
+106,Late successional,B2_G_106_1B,Inherited,0.836656998,,106,Late successional,A1_G_106_6F,Transient,0.004358438
+106,Late successional,B2_G_106_1B,Non-inherited,0,,106,Late successional,A1_G_106_7F,Inherited,0.020956123
+106,Late successional,B2_G_106_1B,Transient,0.030275562,,106,Late successional,A1_G_106_7F,Non-inherited,0
+106,Late successional,B2_G_106_2B,Inherited,0.413348946,,106,Late successional,A1_G_106_7F,Transient,0.005762934
+106,Late successional,B2_G_106_2B,Non-inherited,0,,106,Late successional,A1_G_106_8F,Inherited,0.015535828
+106,Late successional,B2_G_106_2B,Transient,0.032591725,,106,Late successional,A1_G_106_8F,Non-inherited,0
+106,Late successional,B2_G_106_3B,Inherited,0.668507439,,106,Late successional,A1_G_106_8F,Transient,0
+106,Late successional,B2_G_106_3B,Non-inherited,0,,106,Late successional,A1_G_106_9F,Inherited,0.00176077
+106,Late successional,B2_G_106_3B,Transient,0.021168891,,106,Late successional,A1_G_106_9F,Non-inherited,0
+106,Late successional,B2_G_106_4B,Inherited,0.16568792,,106,Late successional,A1_G_106_9F,Transient,0
+106,Late successional,B2_G_106_4B,Non-inherited,0,,106,Late successional,B2_G_106_1F,Inherited,0.001165094
+106,Late successional,B2_G_106_4B,Transient,0.245176174,,106,Late successional,B2_G_106_1F,Non-inherited,0
+106,Late successional,B2_G_106_5B,Inherited,0.718476424,,106,Late successional,B2_G_106_1F,Transient,0.004893394
+106,Late successional,B2_G_106_5B,Non-inherited,0,,106,Late successional,B2_G_106_2F,Inherited,0.010774852
+106,Late successional,B2_G_106_5B,Transient,0.013208417,,106,Late successional,B2_G_106_2F,Non-inherited,0
+106,Late successional,B2_G_106_6B,Inherited,0.790899434,,106,Late successional,B2_G_106_2F,Transient,0
+106,Late successional,B2_G_106_6B,Non-inherited,0,,106,Late successional,B2_G_106_3F,Inherited,0.116807269
+106,Late successional,B2_G_106_6B,Transient,0.182896601,,106,Late successional,B2_G_106_3F,Non-inherited,0
+106,Late successional,B2_G_106_7B,Inherited,0.630057804,,106,Late successional,B2_G_106_3F,Transient,0
+106,Late successional,B2_G_106_7B,Non-inherited,0,,106,Late successional,B2_G_106_4F,Inherited,0.931538542
+106,Late successional,B2_G_106_7B,Transient,0.052745665,,106,Late successional,B2_G_106_4F,Non-inherited,0
+106,Late successional,B2_G_106_8B,Inherited,0.608054453,,106,Late successional,B2_G_106_4F,Transient,0.000454208
+106,Late successional,B2_G_106_8B,Non-inherited,0,,106,Late successional,B2_G_106_5F,Inherited,0.001497006
+106,Late successional,B2_G_106_8B,Transient,0.031196823,,106,Late successional,B2_G_106_5F,Non-inherited,0
+106,Late successional,B2_G_106_9B,Inherited,0.409372518,,106,Late successional,B2_G_106_5F,Transient,0.002245508
+106,Late successional,B2_G_106_9B,Non-inherited,0,,106,Late successional,B2_G_106_6F,Inherited,0.074483596
+106,Late successional,B2_G_106_9B,Transient,0.412549643,,106,Late successional,B2_G_106_6F,Non-inherited,0
+106,Late successional,C3_G_106_1B,Inherited,0.51429599,,106,Late successional,B2_G_106_6F,Transient,0.005103281
+106,Late successional,C3_G_106_1B,Non-inherited,0,,106,Late successional,B2_G_106_7F,Inherited,0
+106,Late successional,C3_G_106_1B,Transient,0.022837619,,106,Late successional,B2_G_106_7F,Non-inherited,0
+106,Late successional,C3_G_106_2B,Inherited,0.72501322,,106,Late successional,B2_G_106_7F,Transient,0
+106,Late successional,C3_G_106_2B,Non-inherited,0,,106,Late successional,B2_G_106_8F,Inherited,0.005458032
+106,Late successional,C3_G_106_2B,Transient,0.022739291,,106,Late successional,B2_G_106_8F,Non-inherited,0
+106,Late successional,C3_G_106_3B,Inherited,0.717320261,,106,Late successional,B2_G_106_8F,Transient,0
+106,Late successional,C3_G_106_3B,Non-inherited,0,,106,Late successional,B2_G_106_9F,Inherited,0.161685273
+106,Late successional,C3_G_106_3B,Transient,0.053376907,,106,Late successional,B2_G_106_9F,Non-inherited,0
+106,Late successional,C3_G_106_4B,Inherited,0.767663791,,106,Late successional,B2_G_106_9F,Transient,0.017104789
+106,Late successional,C3_G_106_4B,Non-inherited,0,,106,Late successional,C3_G_106_1F,Inherited,0.001207597
+106,Late successional,C3_G_106_4B,Transient,0.031381905,,106,Late successional,C3_G_106_1F,Non-inherited,0
+106,Late successional,C3_G_106_5B,Inherited,0.67145235,,106,Late successional,C3_G_106_1F,Transient,0.011362389
+106,Late successional,C3_G_106_5B,Non-inherited,0,,106,Late successional,C3_G_106_2F,Inherited,0
+106,Late successional,C3_G_106_5B,Transient,0.041198502,,106,Late successional,C3_G_106_2F,Non-inherited,0
+106,Late successional,C3_G_106_6B,Inherited,0.83716965,,106,Late successional,C3_G_106_2F,Transient,0.000592066
+106,Late successional,C3_G_106_6B,Non-inherited,0,,106,Late successional,C3_G_106_3F,Inherited,0.006178504
+106,Late successional,C3_G_106_6B,Transient,0.022591645,,106,Late successional,C3_G_106_3F,Non-inherited,0
+106,Late successional,C3_G_106_7B,Inherited,0.952468488,,106,Late successional,C3_G_106_3F,Transient,0
+106,Late successional,C3_G_106_7B,Non-inherited,0,,106,Late successional,C3_G_106_4F,Inherited,0.000393972
+106,Late successional,C3_G_106_7B,Transient,0.010635504,,106,Late successional,C3_G_106_4F,Non-inherited,0
+106,Late successional,C3_G_106_8B,Inherited,0.714834151,,106,Late successional,C3_G_106_4F,Transient,0.003939722
+106,Late successional,C3_G_106_8B,Non-inherited,0,,106,Late successional,C3_G_106_5F,Inherited,0.005103388
+106,Late successional,C3_G_106_8B,Transient,0.134674447,,106,Late successional,C3_G_106_5F,Non-inherited,0
+106,Late successional,C3_G_106_9B,Inherited,0.817040359,,106,Late successional,C3_G_106_5F,Transient,0
+106,Late successional,C3_G_106_9B,Non-inherited,0,,106,Late successional,C3_G_106_6F,Inherited,0.010018495
+106,Late successional,C3_G_106_9B,Transient,0,,106,Late successional,C3_G_106_6F,Non-inherited,0
+106,Mid-successional / No trend,A1_G_106_1B,Inherited,0.405549627,,106,Late successional,C3_G_106_6F,Transient,0
+106,Mid-successional / No trend,A1_G_106_1B,Non-inherited,0,,106,Late successional,C3_G_106_7F,Inherited,0.001023541
+106,Mid-successional / No trend,A1_G_106_1B,Transient,0,,106,Late successional,C3_G_106_7F,Non-inherited,0
+106,Mid-successional / No trend,A1_G_106_2B,Inherited,0.289689951,,106,Late successional,C3_G_106_7F,Transient,0.004549073
+106,Mid-successional / No trend,A1_G_106_2B,Non-inherited,0,,106,Late successional,C3_G_106_8F,Inherited,0.006735687
+106,Mid-successional / No trend,A1_G_106_2B,Transient,0,,106,Late successional,C3_G_106_8F,Non-inherited,0.000374205
+106,Mid-successional / No trend,A1_G_106_3B,Inherited,0.104262969,,106,Late successional,C3_G_106_8F,Transient,0
+106,Mid-successional / No trend,A1_G_106_3B,Non-inherited,0.00239685,,106,Late successional,C3_G_106_9F,Inherited,0.001082153
+106,Mid-successional / No trend,A1_G_106_3B,Transient,0.02259887,,106,Late successional,C3_G_106_9F,Non-inherited,0
+106,Mid-successional / No trend,A1_G_106_4B,Inherited,0.147724351,,106,Late successional,C3_G_106_9F,Transient,0.000270538
+106,Mid-successional / No trend,A1_G_106_4B,Non-inherited,0,,106,Mid-successional / No trend,A1_G_106_1F,Inherited,0.327397387
+106,Mid-successional / No trend,A1_G_106_4B,Transient,0.001285678,,106,Mid-successional / No trend,A1_G_106_1F,Non-inherited,0.001886618
+106,Mid-successional / No trend,A1_G_106_5B,Inherited,0.159371493,,106,Mid-successional / No trend,A1_G_106_1F,Transient,0.006948279
+106,Mid-successional / No trend,A1_G_106_5B,Non-inherited,0,,106,Mid-successional / No trend,A1_G_106_2F,Inherited,0.972888611
+106,Mid-successional / No trend,A1_G_106_5B,Transient,0,,106,Mid-successional / No trend,A1_G_106_2F,Non-inherited,0.009364131
+106,Mid-successional / No trend,A1_G_106_6B,Inherited,0.195876289,,106,Mid-successional / No trend,A1_G_106_2F,Transient,0.000535093
+106,Mid-successional / No trend,A1_G_106_6B,Non-inherited,0,,106,Mid-successional / No trend,A1_G_106_3F,Inherited,0.913082584
+106,Mid-successional / No trend,A1_G_106_6B,Transient,0,,106,Mid-successional / No trend,A1_G_106_3F,Non-inherited,0.001062959
+106,Mid-successional / No trend,A1_G_106_7B,Inherited,0.134776845,,106,Mid-successional / No trend,A1_G_106_3F,Transient,0.000572363
+106,Mid-successional / No trend,A1_G_106_7B,Non-inherited,0.013404036,,106,Mid-successional / No trend,A1_G_106_4F,Inherited,0.498091986
+106,Mid-successional / No trend,A1_G_106_7B,Transient,0,,106,Mid-successional / No trend,A1_G_106_4F,Non-inherited,0.000133896
+106,Mid-successional / No trend,A1_G_106_8B,Inherited,0.254788508,,106,Mid-successional / No trend,A1_G_106_4F,Transient,0.011849769
+106,Mid-successional / No trend,A1_G_106_8B,Non-inherited,0,,106,Mid-successional / No trend,A1_G_106_5F,Inherited,0.015371946
+106,Mid-successional / No trend,A1_G_106_8B,Transient,0,,106,Mid-successional / No trend,A1_G_106_5F,Non-inherited,0.01701894
+106,Mid-successional / No trend,A1_G_106_9B,Inherited,0.280614363,,106,Mid-successional / No trend,A1_G_106_5F,Transient,0.08289871
+106,Mid-successional / No trend,A1_G_106_9B,Non-inherited,0,,106,Mid-successional / No trend,A1_G_106_6F,Inherited,0.808054393
+106,Mid-successional / No trend,A1_G_106_9B,Transient,0,,106,Mid-successional / No trend,A1_G_106_6F,Non-inherited,0.002702232
+106,Mid-successional / No trend,B2_G_106_1B,Inherited,0.109862219,,106,Mid-successional / No trend,A1_G_106_6F,Transient,0.002527894
+106,Mid-successional / No trend,B2_G_106_1B,Non-inherited,0,,106,Mid-successional / No trend,A1_G_106_7F,Inherited,0.537197119
+106,Mid-successional / No trend,B2_G_106_1B,Transient,0,,106,Mid-successional / No trend,A1_G_106_7F,Non-inherited,0.001833661
+106,Mid-successional / No trend,B2_G_106_2B,Inherited,0.491803278,,106,Mid-successional / No trend,A1_G_106_7F,Transient,0.00091683
+106,Mid-successional / No trend,B2_G_106_2B,Non-inherited,0.013270882,,106,Mid-successional / No trend,A1_G_106_8F,Inherited,0.913548933
+106,Mid-successional / No trend,B2_G_106_2B,Transient,0.00136612,,106,Mid-successional / No trend,A1_G_106_8F,Non-inherited,0.000845487
+106,Mid-successional / No trend,B2_G_106_3B,Inherited,0.052922227,,106,Mid-successional / No trend,A1_G_106_8F,Transient,0
+106,Mid-successional / No trend,B2_G_106_3B,Non-inherited,0,,106,Mid-successional / No trend,A1_G_106_9F,Inherited,0.981922761
+106,Mid-successional / No trend,B2_G_106_3B,Transient,0,,106,Mid-successional / No trend,A1_G_106_9F,Non-inherited,0
+106,Mid-successional / No trend,B2_G_106_4B,Inherited,0.209521812,,106,Mid-successional / No trend,A1_G_106_9F,Transient,0.000352154
+106,Mid-successional / No trend,B2_G_106_4B,Non-inherited,0,,106,Mid-successional / No trend,B2_G_106_1F,Inherited,0.964930677
+106,Mid-successional / No trend,B2_G_106_4B,Transient,0,,106,Mid-successional / No trend,B2_G_106_1F,Non-inherited,0.000349528
+106,Mid-successional / No trend,B2_G_106_5B,Inherited,0.167716173,,106,Mid-successional / No trend,B2_G_106_1F,Transient,0.002213679
+106,Mid-successional / No trend,B2_G_106_5B,Non-inherited,0,,106,Mid-successional / No trend,B2_G_106_2F,Inherited,0.864049471
+106,Mid-successional / No trend,B2_G_106_5B,Transient,0,,106,Mid-successional / No trend,B2_G_106_2F,Non-inherited,0.002342359
+106,Mid-successional / No trend,B2_G_106_6B,Inherited,0.022131728,,106,Mid-successional / No trend,B2_G_106_2F,Transient,0.001218027
+106,Mid-successional / No trend,B2_G_106_6B,Non-inherited,0,,106,Mid-successional / No trend,B2_G_106_3F,Inherited,0.147090634
+106,Mid-successional / No trend,B2_G_106_6B,Transient,0,,106,Mid-successional / No trend,B2_G_106_3F,Non-inherited,0.013627515
+106,Mid-successional / No trend,B2_G_106_7B,Inherited,0.223807803,,106,Mid-successional / No trend,B2_G_106_3F,Transient,0.0354748
+106,Mid-successional / No trend,B2_G_106_7B,Non-inherited,0,,106,Mid-successional / No trend,B2_G_106_4F,Inherited,0.009249319
+106,Mid-successional / No trend,B2_G_106_7B,Transient,0,,106,Mid-successional / No trend,B2_G_106_4F,Non-inherited,0.000660666
+106,Mid-successional / No trend,B2_G_106_8B,Inherited,0.105123842,,106,Mid-successional / No trend,B2_G_106_4F,Transient,0.000206458
+106,Mid-successional / No trend,B2_G_106_8B,Non-inherited,0,,106,Mid-successional / No trend,B2_G_106_5F,Inherited,0.648952096
+106,Mid-successional / No trend,B2_G_106_8B,Transient,0,,106,Mid-successional / No trend,B2_G_106_5F,Non-inherited,0.004303893
+106,Mid-successional / No trend,B2_G_106_9B,Inherited,0.040984909,,106,Mid-successional / No trend,B2_G_106_5F,Transient,0
+106,Mid-successional / No trend,B2_G_106_9B,Non-inherited,0,,106,Mid-successional / No trend,B2_G_106_6F,Inherited,0.701701094
+106,Mid-successional / No trend,B2_G_106_9B,Transient,0,,106,Mid-successional / No trend,B2_G_106_6F,Non-inherited,0.009599028
+106,Mid-successional / No trend,C3_G_106_1B,Inherited,0.457471678,,106,Mid-successional / No trend,B2_G_106_6F,Transient,0.006682868
+106,Mid-successional / No trend,C3_G_106_1B,Non-inherited,0,,106,Mid-successional / No trend,B2_G_106_7F,Inherited,0.944268585
+106,Mid-successional / No trend,C3_G_106_1B,Transient,0,,106,Mid-successional / No trend,B2_G_106_7F,Non-inherited,0.001342926
+106,Mid-successional / No trend,C3_G_106_2B,Inherited,0.168517539,,106,Mid-successional / No trend,B2_G_106_7F,Transient,0.001630696
+106,Mid-successional / No trend,C3_G_106_2B,Non-inherited,0,,106,Mid-successional / No trend,B2_G_106_8F,Inherited,0.911638885
+106,Mid-successional / No trend,C3_G_106_2B,Transient,0.004759387,,106,Mid-successional / No trend,B2_G_106_8F,Non-inherited,0.001475144
+106,Mid-successional / No trend,C3_G_106_3B,Inherited,0.092229484,,106,Mid-successional / No trend,B2_G_106_8F,Transient,0
+106,Mid-successional / No trend,C3_G_106_3B,Non-inherited,0.031771968,,106,Mid-successional / No trend,B2_G_106_9F,Inherited,0.661325171
+106,Mid-successional / No trend,C3_G_106_3B,Transient,0.011437909,,106,Mid-successional / No trend,B2_G_106_9F,Non-inherited,0.021606049
+106,Mid-successional / No trend,C3_G_106_4B,Inherited,0.16737016,,106,Mid-successional / No trend,B2_G_106_9F,Transient,0
+106,Mid-successional / No trend,C3_G_106_4B,Non-inherited,0,,106,Mid-successional / No trend,C3_G_106_1F,Inherited,0.483093644
+106,Mid-successional / No trend,C3_G_106_4B,Transient,0,,106,Mid-successional / No trend,C3_G_106_1F,Non-inherited,0.479580635
+106,Mid-successional / No trend,C3_G_106_5B,Inherited,0.231793591,,106,Mid-successional / No trend,C3_G_106_1F,Transient,0.000164672
+106,Mid-successional / No trend,C3_G_106_5B,Non-inherited,0,,106,Mid-successional / No trend,C3_G_106_2F,Inherited,0.864318137
+106,Mid-successional / No trend,C3_G_106_5B,Transient,0.005201831,,106,Mid-successional / No trend,C3_G_106_2F,Non-inherited,0.036510756
+106,Mid-successional / No trend,C3_G_106_6B,Inherited,0.051292981,,106,Mid-successional / No trend,C3_G_106_2F,Transient,0.000592066
+106,Mid-successional / No trend,C3_G_106_6B,Non-inherited,0.019607843,,106,Mid-successional / No trend,C3_G_106_3F,Inherited,0.67431333
+106,Mid-successional / No trend,C3_G_106_6B,Transient,0.00341006,,106,Mid-successional / No trend,C3_G_106_3F,Non-inherited,0.001468159
+106,Mid-successional / No trend,C3_G_106_7B,Inherited,0.021402311,,106,Mid-successional / No trend,C3_G_106_3F,Transient,0
+106,Mid-successional / No trend,C3_G_106_7B,Non-inherited,0,,106,Mid-successional / No trend,C3_G_106_4F,Inherited,0.754259825
+106,Mid-successional / No trend,C3_G_106_7B,Transient,0.005514706,,106,Mid-successional / No trend,C3_G_106_4F,Non-inherited,0.006894513
+106,Mid-successional / No trend,C3_G_106_8B,Inherited,0.114404177,,106,Mid-successional / No trend,C3_G_106_4F,Transient,0.000295479
+106,Mid-successional / No trend,C3_G_106_8B,Non-inherited,0,,106,Mid-successional / No trend,C3_G_106_5F,Inherited,0.808886934
+106,Mid-successional / No trend,C3_G_106_8B,Transient,0,,106,Mid-successional / No trend,C3_G_106_5F,Non-inherited,0.003519577
+106,Mid-successional / No trend,C3_G_106_9B,Inherited,0.182361734,,106,Mid-successional / No trend,C3_G_106_5F,Transient,0.000879894
+106,Mid-successional / No trend,C3_G_106_9B,Non-inherited,0,,106,Mid-successional / No trend,C3_G_106_6F,Inherited,0.940351418
+106,Mid-successional / No trend,C3_G_106_9B,Transient,0.000597907,,106,Mid-successional / No trend,C3_G_106_6F,Non-inherited,0.000462392
+106,NA,A1_G_106_1B,Transient,0,,106,Mid-successional / No trend,C3_G_106_6F,Transient,0.000616523
+106,NA,A1_G_106_2B,Transient,0,,106,Mid-successional / No trend,C3_G_106_7F,Inherited,0.917775503
+106,NA,A1_G_106_3B,Transient,0,,106,Mid-successional / No trend,C3_G_106_7F,Non-inherited,0.001364722
+106,NA,A1_G_106_4B,Transient,0,,106,Mid-successional / No trend,C3_G_106_7F,Transient,0
+106,NA,A1_G_106_5B,Transient,0,,106,Mid-successional / No trend,C3_G_106_8F,Inherited,0.93027317
+106,NA,A1_G_106_6B,Transient,0,,106,Mid-successional / No trend,C3_G_106_8F,Non-inherited,0.000374205
+106,NA,A1_G_106_7B,Transient,0,,106,Mid-successional / No trend,C3_G_106_8F,Transient,0
+106,NA,A1_G_106_8B,Transient,0,,106,Mid-successional / No trend,C3_G_106_9F,Inherited,0.937776175
+106,NA,A1_G_106_9B,Transient,0,,106,Mid-successional / No trend,C3_G_106_9F,Non-inherited,0.000180359
+106,NA,B2_G_106_1B,Transient,0,,106,Mid-successional / No trend,C3_G_106_9F,Transient,0.001352692
+106,NA,B2_G_106_2B,Transient,0,,106,NA,A1_G_106_1F,Transient,0
+106,NA,B2_G_106_3B,Transient,0,,106,NA,A1_G_106_2F,Transient,0
+106,NA,B2_G_106_4B,Transient,0,,106,NA,A1_G_106_3F,Transient,0
+106,NA,B2_G_106_5B,Transient,0,,106,NA,A1_G_106_4F,Transient,0
+106,NA,B2_G_106_6B,Transient,0,,106,NA,A1_G_106_5F,Transient,0
+106,NA,B2_G_106_7B,Transient,0,,106,NA,A1_G_106_6F,Transient,0
+106,NA,B2_G_106_8B,Transient,0,,106,NA,A1_G_106_7F,Transient,0
+106,NA,B2_G_106_9B,Transient,0,,106,NA,A1_G_106_8F,Transient,0
+106,NA,C3_G_106_1B,Transient,0,,106,NA,A1_G_106_9F,Transient,0
+106,NA,C3_G_106_2B,Transient,0,,106,NA,B2_G_106_1F,Transient,0
+106,NA,C3_G_106_3B,Transient,0,,106,NA,B2_G_106_2F,Transient,0
+106,NA,C3_G_106_4B,Transient,0,,106,NA,B2_G_106_3F,Transient,0
+106,NA,C3_G_106_5B,Transient,0,,106,NA,B2_G_106_4F,Transient,0
+106,NA,C3_G_106_6B,Transient,0,,106,NA,B2_G_106_5F,Transient,0
+106,NA,C3_G_106_7B,Transient,0,,106,NA,B2_G_106_6F,Transient,0
+106,NA,C3_G_106_8B,Transient,0,,106,NA,B2_G_106_7F,Transient,0
+106,NA,C3_G_106_9B,Transient,0,,106,NA,B2_G_106_8F,Transient,0
+120,Early successional,A1_G_120_1B,Inherited,0.009765072,,106,NA,B2_G_106_9F,Transient,0
+120,Early successional,A1_G_120_1B,Non-inherited,0,,106,NA,C3_G_106_1F,Transient,0
+120,Early successional,A1_G_120_1B,Transient,0,,106,NA,C3_G_106_2F,Transient,0
+120,Early successional,A1_G_120_2B,Inherited,0,,106,NA,C3_G_106_3F,Transient,0
+120,Early successional,A1_G_120_2B,Non-inherited,0,,106,NA,C3_G_106_4F,Transient,0
+120,Early successional,A1_G_120_2B,Transient,0,,106,NA,C3_G_106_5F,Transient,0
+120,Early successional,A1_G_120_3B,Inherited,0.039201625,,106,NA,C3_G_106_6F,Transient,0
+120,Early successional,A1_G_120_3B,Non-inherited,0,,106,NA,C3_G_106_7F,Transient,0
+120,Early successional,A1_G_120_3B,Transient,0,,106,NA,C3_G_106_8F,Transient,0
+120,Early successional,A1_G_120_4B,Inherited,0.025475131,,106,NA,C3_G_106_9F,Transient,0
+120,Early successional,A1_G_120_4B,Non-inherited,0.000404367,,120,Early successional,A1_G_120_1F,Inherited,0.016545718
+120,Early successional,A1_G_120_4B,Transient,0,,120,Early successional,A1_G_120_1F,Non-inherited,0.000483793
+120,Early successional,A1_G_120_5B,Inherited,0.026865672,,120,Early successional,A1_G_120_1F,Transient,0.003289792
+120,Early successional,A1_G_120_5B,Non-inherited,0,,120,Early successional,A1_G_120_2F,Inherited,0.019675562
+120,Early successional,A1_G_120_5B,Transient,0,,120,Early successional,A1_G_120_2F,Non-inherited,0.036734694
+120,Early successional,A1_G_120_6B,Inherited,0.057334711,,120,Early successional,A1_G_120_2F,Transient,0.001779173
+120,Early successional,A1_G_120_6B,Non-inherited,0,,120,Early successional,A1_G_120_3F,Inherited,0.018937699
+120,Early successional,A1_G_120_6B,Transient,0,,120,Early successional,A1_G_120_3F,Non-inherited,0.000149116
+120,Early successional,A1_G_120_7B,Inherited,0.125669836,,120,Early successional,A1_G_120_3F,Transient,0.001252573
+120,Early successional,A1_G_120_7B,Non-inherited,0,,120,Early successional,A1_G_120_4F,Inherited,0.015231763
+120,Early successional,A1_G_120_7B,Transient,0,,120,Early successional,A1_G_120_4F,Non-inherited,0
+120,Early successional,A1_G_120_8B,Inherited,0.071494404,,120,Early successional,A1_G_120_4F,Transient,0
+120,Early successional,A1_G_120_8B,Non-inherited,0,,120,Early successional,A1_G_120_5F,Inherited,0.033438849
+120,Early successional,A1_G_120_8B,Transient,0,,120,Early successional,A1_G_120_5F,Non-inherited,0.011107914
+120,Early successional,A1_G_120_9B,Inherited,0.038209607,,120,Early successional,A1_G_120_5F,Transient,0.004546763
+120,Early successional,A1_G_120_9B,Non-inherited,0,,120,Early successional,A1_G_120_6F,Inherited,0.005843903
+120,Early successional,A1_G_120_9B,Transient,0,,120,Early successional,A1_G_120_6F,Non-inherited,0.000519458
+120,Early successional,B2_G_120_1B,Inherited,0.051016058,,120,Early successional,A1_G_120_6F,Transient,0.002424138
+120,Early successional,B2_G_120_1B,Non-inherited,0,,120,Early successional,A1_G_120_7F,Inherited,0.005682138
+120,Early successional,B2_G_120_1B,Transient,0,,120,Early successional,A1_G_120_7F,Non-inherited,0.000112518
+120,Early successional,B2_G_120_2B,Inherited,0,,120,Early successional,A1_G_120_7F,Transient,0.000590729
+120,Early successional,B2_G_120_2B,Non-inherited,0,,120,Early successional,A1_G_120_8F,Inherited,0.002092624
+120,Early successional,B2_G_120_2B,Transient,0,,120,Early successional,A1_G_120_8F,Non-inherited,0.000102916
+120,Early successional,B2_G_120_3B,Inherited,0.025666584,,120,Early successional,A1_G_120_8F,Transient,0.001715266
+120,Early successional,B2_G_120_3B,Non-inherited,0.00024919,,120,Early successional,A1_G_120_9F,Inherited,0.020177326
+120,Early successional,B2_G_120_3B,Transient,0,,120,Early successional,A1_G_120_9F,Non-inherited,0.000328383
+120,Early successional,B2_G_120_4B,Inherited,0.1013337,,120,Early successional,A1_G_120_9F,Transient,0.001532455
+120,Early successional,B2_G_120_4B,Non-inherited,0,,120,Early successional,B2_G_120_1F,Inherited,0.010840108
+120,Early successional,B2_G_120_4B,Transient,0,,120,Early successional,B2_G_120_1F,Non-inherited,0
+120,Early successional,B2_G_120_5B,Inherited,0.033645073,,120,Early successional,B2_G_120_1F,Transient,0.001032391
+120,Early successional,B2_G_120_5B,Non-inherited,0,,120,Early successional,B2_G_120_2F,Inherited,0.019137771
+120,Early successional,B2_G_120_5B,Transient,0,,120,Early successional,B2_G_120_2F,Non-inherited,0.000274377
+120,Early successional,B2_G_120_6B,Inherited,0.044318602,,120,Early successional,B2_G_120_2F,Transient,0.002229311
+120,Early successional,B2_G_120_6B,Non-inherited,0,,120,Early successional,B2_G_120_3F,Inherited,0.033392164
+120,Early successional,B2_G_120_6B,Transient,0,,120,Early successional,B2_G_120_3F,Non-inherited,0.013483939
+120,Early successional,B2_G_120_7B,Inherited,0.040963575,,120,Early successional,B2_G_120_3F,Transient,0.001517827
+120,Early successional,B2_G_120_7B,Non-inherited,0,,120,Early successional,B2_G_120_4F,Inherited,0.062729261
+120,Early successional,B2_G_120_7B,Transient,0,,120,Early successional,B2_G_120_4F,Non-inherited,0
+120,Early successional,B2_G_120_8B,Inherited,0.043711571,,120,Early successional,B2_G_120_4F,Transient,0.000168265
+120,Early successional,B2_G_120_8B,Non-inherited,0,,120,Early successional,B2_G_120_5F,Inherited,0.001224198
+120,Early successional,B2_G_120_8B,Transient,0,,120,Early successional,B2_G_120_5F,Non-inherited,0
+120,Early successional,B2_G_120_9B,Inherited,0.010460477,,120,Early successional,B2_G_120_5F,Transient,0
+120,Early successional,B2_G_120_9B,Non-inherited,0,,120,Early successional,B2_G_120_6F,Inherited,0.014113219
+120,Early successional,B2_G_120_9B,Transient,0,,120,Early successional,B2_G_120_6F,Non-inherited,0.000188176
+120,Early successional,C3_G_120_1B,Inherited,0,,120,Early successional,B2_G_120_6F,Transient,0.037070722
+120,Early successional,C3_G_120_1B,Non-inherited,0,,120,Early successional,B2_G_120_7F,Inherited,0.319572629
+120,Early successional,C3_G_120_1B,Transient,0,,120,Early successional,B2_G_120_7F,Non-inherited,0.001746071
+120,Early successional,C3_G_120_2B,Inherited,0.042007517,,120,Early successional,B2_G_120_7F,Transient,0.057994512
+120,Early successional,C3_G_120_2B,Non-inherited,0,,120,Early successional,B2_G_120_8F,Inherited,0.024056634
+120,Early successional,C3_G_120_2B,Transient,0,,120,Early successional,B2_G_120_8F,Non-inherited,0.007463643
+120,Early successional,C3_G_120_3B,Inherited,0.004045512,,120,Early successional,B2_G_120_8F,Transient,0.008040233
+120,Early successional,C3_G_120_3B,Non-inherited,0,,120,Early successional,B2_G_120_9F,Inherited,0.185846205
+120,Early successional,C3_G_120_3B,Transient,0,,120,Early successional,B2_G_120_9F,Non-inherited,0
+120,Early successional,C3_G_120_4B,Inherited,0.027419171,,120,Early successional,B2_G_120_9F,Transient,0.002236117
+120,Early successional,C3_G_120_4B,Non-inherited,0.003198903,,120,Early successional,C3_G_120_1F,Inherited,0.046220375
+120,Early successional,C3_G_120_4B,Transient,0,,120,Early successional,C3_G_120_1F,Non-inherited,0.000168483
+120,Early successional,C3_G_120_5B,Inherited,0,,120,Early successional,C3_G_120_1F,Transient,0.090250477
+120,Early successional,C3_G_120_5B,Non-inherited,0,,120,Early successional,C3_G_120_2F,Inherited,0.033608611
+120,Early successional,C3_G_120_5B,Transient,0,,120,Early successional,C3_G_120_2F,Non-inherited,0.000338455
+120,Early successional,C3_G_120_6B,Inherited,0.002356545,,120,Early successional,C3_G_120_2F,Transient,0.025925676
+120,Early successional,C3_G_120_6B,Non-inherited,0.001413927,,120,Early successional,C3_G_120_3F,Inherited,0.027943231
+120,Early successional,C3_G_120_6B,Transient,0,,120,Early successional,C3_G_120_3F,Non-inherited,0.001066255
+120,Early successional,C3_G_120_7B,Inherited,0.016636102,,120,Early successional,C3_G_120_3F,Transient,0.000294139
+120,Early successional,C3_G_120_7B,Non-inherited,0,,120,Early successional,C3_G_120_4F,Inherited,0.050789407
+120,Early successional,C3_G_120_7B,Transient,0,,120,Early successional,C3_G_120_4F,Non-inherited,8.35E-05
+120,Early successional,C3_G_120_8B,Inherited,0,,120,Early successional,C3_G_120_4F,Transient,0.006292985
+120,Early successional,C3_G_120_8B,Non-inherited,0,,120,Early successional,C3_G_120_5F,Inherited,0.09616289
+120,Early successional,C3_G_120_8B,Transient,0,,120,Early successional,C3_G_120_5F,Non-inherited,0.000248954
+120,Early successional,C3_G_120_9B,Inherited,0.019126819,,120,Early successional,C3_G_120_5F,Transient,0.003900744
+120,Early successional,C3_G_120_9B,Non-inherited,0.005821206,,120,Early successional,C3_G_120_6F,Inherited,0.099900932
+120,Early successional,C3_G_120_9B,Transient,0.0002772,,120,Early successional,C3_G_120_6F,Non-inherited,0.002021003
+120,Late successional,A1_G_120_1B,Inherited,0.778658365,,120,Early successional,C3_G_120_6F,Transient,0.001505845
+120,Late successional,A1_G_120_1B,Non-inherited,0,,120,Early successional,C3_G_120_7F,Inherited,0.149566364
+120,Late successional,A1_G_120_1B,Transient,0.10317011,,120,Early successional,C3_G_120_7F,Non-inherited,0
+120,Late successional,A1_G_120_2B,Inherited,0.642662797,,120,Early successional,C3_G_120_7F,Transient,0.094639144
+120,Late successional,A1_G_120_2B,Non-inherited,0,,120,Early successional,C3_G_120_8F,Inherited,0.06906584
+120,Late successional,A1_G_120_2B,Transient,0.066388537,,120,Early successional,C3_G_120_8F,Non-inherited,0.000569224
+120,Late successional,A1_G_120_3B,Inherited,0.903191108,,120,Early successional,C3_G_120_8F,Transient,0.005059769
+120,Late successional,A1_G_120_3B,Non-inherited,0,,120,Early successional,C3_G_120_9F,Inherited,0.035762032
+120,Late successional,A1_G_120_3B,Transient,0.003107446,,120,Early successional,C3_G_120_9F,Non-inherited,0.00122549
+120,Late successional,A1_G_120_4B,Inherited,0.633912926,,120,Early successional,C3_G_120_9F,Transient,0.014705883
+120,Late successional,A1_G_120_4B,Non-inherited,0,,120,Late successional,A1_G_120_1F,Inherited,0.305660377
+120,Late successional,A1_G_120_4B,Transient,0.293435773,,120,Late successional,A1_G_120_1F,Non-inherited,0.000774069
+120,Late successional,A1_G_120_5B,Inherited,0.804023362,,120,Late successional,A1_G_120_1F,Transient,0.021964199
+120,Late successional,A1_G_120_5B,Non-inherited,0,,120,Late successional,A1_G_120_2F,Inherited,0.147671377
+120,Late successional,A1_G_120_5B,Transient,0,,120,Late successional,A1_G_120_2F,Non-inherited,0
+120,Late successional,A1_G_120_6B,Inherited,0.857825414,,120,Late successional,A1_G_120_2F,Transient,0.000732601
+120,Late successional,A1_G_120_6B,Non-inherited,0.038739669,,120,Late successional,A1_G_120_3F,Inherited,0.963615758
+120,Late successional,A1_G_120_6B,Transient,0.007102273,,120,Late successional,A1_G_120_3F,Non-inherited,8.95E-05
+120,Late successional,A1_G_120_7B,Inherited,0.447709594,,120,Late successional,A1_G_120_3F,Transient,0.015776445
+120,Late successional,A1_G_120_7B,Non-inherited,0,,120,Late successional,A1_G_120_4F,Inherited,0.81833997
+120,Late successional,A1_G_120_7B,Transient,0.363007779,,120,Late successional,A1_G_120_4F,Non-inherited,0.000734527
+120,Late successional,A1_G_120_8B,Inherited,0.793021724,,120,Late successional,A1_G_120_4F,Transient,0.045115399
+120,Late successional,A1_G_120_8B,Non-inherited,0,,120,Late successional,A1_G_120_5F,Inherited,0.489553956
+120,Late successional,A1_G_120_8B,Transient,0.006319947,,120,Late successional,A1_G_120_5F,Non-inherited,0.079597122
+120,Late successional,A1_G_120_9B,Inherited,0.903081029,,120,Late successional,A1_G_120_5F,Transient,0.005122303
+120,Late successional,A1_G_120_9B,Non-inherited,0,,120,Late successional,A1_G_120_6F,Inherited,0.813471277
+120,Late successional,A1_G_120_9B,Transient,0.005579816,,120,Late successional,A1_G_120_6F,Non-inherited,0.000173153
+120,Late successional,B2_G_120_1B,Inherited,0.752309223,,120,Late successional,A1_G_120_6F,Transient,0.024241375
+120,Late successional,B2_G_120_1B,Non-inherited,0,,120,Late successional,A1_G_120_7F,Inherited,0.958762307
+120,Late successional,B2_G_120_1B,Transient,0.038226517,,120,Late successional,A1_G_120_7F,Non-inherited,0.006554191
+120,Late successional,B2_G_120_2B,Inherited,0.860347129,,120,Late successional,A1_G_120_7F,Transient,0.013558369
+120,Late successional,B2_G_120_2B,Non-inherited,0,,120,Late successional,A1_G_120_8F,Inherited,0.803464826
+120,Late successional,B2_G_120_2B,Transient,0.081842457,,120,Late successional,A1_G_120_8F,Non-inherited,0.007444254
+120,Late successional,B2_G_120_3B,Inherited,0.883877398,,120,Late successional,A1_G_120_8F,Transient,0.027547169
+120,Late successional,B2_G_120_3B,Non-inherited,0,,120,Late successional,A1_G_120_9F,Inherited,0.762323493
+120,Late successional,B2_G_120_3B,Transient,0.006852729,,120,Late successional,A1_G_120_9F,Non-inherited,0.005473054
+120,Late successional,B2_G_120_4B,Inherited,0.556166644,,120,Late successional,A1_G_120_9F,Transient,0.010544752
+120,Late successional,B2_G_120_4B,Non-inherited,0,,120,Late successional,B2_G_120_1F,Inherited,0.799425732
+120,Late successional,B2_G_120_4B,Transient,0.246940739,,120,Late successional,B2_G_120_1F,Non-inherited,0.079881274
+120,Late successional,B2_G_120_5B,Inherited,0.94787865,,120,Late successional,B2_G_120_1F,Transient,0.027358369
+120,Late successional,B2_G_120_5B,Non-inherited,0,,120,Late successional,B2_G_120_2F,Inherited,0.825324965
+120,Late successional,B2_G_120_5B,Transient,0.00524635,,120,Late successional,B2_G_120_2F,Non-inherited,0.000274377
+120,Late successional,B2_G_120_6B,Inherited,0.906069187,,120,Late successional,B2_G_120_2F,Transient,0.001646259
+120,Late successional,B2_G_120_6B,Non-inherited,0,,120,Late successional,B2_G_120_3F,Inherited,0.680232969
+120,Late successional,B2_G_120_6B,Transient,0,,120,Late successional,B2_G_120_3F,Non-inherited,0.001482527
+120,Late successional,B2_G_120_7B,Inherited,0.853019899,,120,Late successional,B2_G_120_3F,Transient,0.002753265
+120,Late successional,B2_G_120_7B,Non-inherited,0,,120,Late successional,B2_G_120_4F,Inherited,0.802288406
+120,Late successional,B2_G_120_7B,Transient,0.024671244,,120,Late successional,B2_G_120_4F,Non-inherited,0.004812384
+120,Late successional,B2_G_120_8B,Inherited,0.849301285,,120,Late successional,B2_G_120_4F,Transient,0.023927309
+120,Late successional,B2_G_120_8B,Non-inherited,0,,120,Late successional,B2_G_120_5F,Inherited,0.910701534
+120,Late successional,B2_G_120_8B,Transient,0.007937395,,120,Late successional,B2_G_120_5F,Non-inherited,0.000170028
+120,Late successional,B2_G_120_9B,Inherited,0.834034292,,120,Late successional,B2_G_120_5F,Transient,0.000442072
+120,Late successional,B2_G_120_9B,Non-inherited,0.025558072,,120,Late successional,B2_G_120_6F,Inherited,0.69665987
+120,Late successional,B2_G_120_9B,Transient,0.085517093,,120,Late successional,B2_G_120_6F,Non-inherited,0.001724949
+120,Late successional,C3_G_120_1B,Inherited,0.92287175,,120,Late successional,B2_G_120_6F,Transient,0.152328681
+120,Late successional,C3_G_120_1B,Non-inherited,0,,120,Late successional,B2_G_120_7F,Inherited,0.516047228
+120,Late successional,C3_G_120_1B,Transient,0.030228939,,120,Late successional,B2_G_120_7F,Non-inherited,0
+120,Late successional,C3_G_120_2B,Inherited,0.865797036,,120,Late successional,B2_G_120_7F,Transient,0.000789889
+120,Late successional,C3_G_120_2B,Non-inherited,0,,120,Late successional,B2_G_120_8F,Inherited,0.842014222
+120,Late successional,C3_G_120_2B,Transient,0.039464958,,120,Late successional,B2_G_120_8F,Non-inherited,0.000448459
+120,Late successional,C3_G_120_3B,Inherited,0.816308471,,120,Late successional,B2_G_120_8F,Transient,0.019091551
+120,Late successional,C3_G_120_3B,Non-inherited,0,,120,Late successional,B2_G_120_9F,Inherited,0.460557372
+120,Late successional,C3_G_120_3B,Transient,0.053729456,,120,Late successional,B2_G_120_9F,Non-inherited,0.20617831
+120,Late successional,C3_G_120_4B,Inherited,0.941391523,,120,Late successional,B2_G_120_9F,Transient,0.094538076
+120,Late successional,C3_G_120_4B,Non-inherited,0,,120,Late successional,C3_G_120_1F,Inherited,0.748174771
+120,Late successional,C3_G_120_4B,Transient,0,,120,Late successional,C3_G_120_1F,Non-inherited,0.068909357
+120,Late successional,C3_G_120_5B,Inherited,0.834053054,,120,Late successional,C3_G_120_1F,Transient,0.020947995
+120,Late successional,C3_G_120_5B,Non-inherited,0,,120,Late successional,C3_G_120_2F,Inherited,0.822581736
+120,Late successional,C3_G_120_5B,Transient,0.06477483,,120,Late successional,C3_G_120_2F,Non-inherited,0.001793812
+120,Late successional,C3_G_120_6B,Inherited,0.930481912,,120,Late successional,C3_G_120_2F,Transient,0.004196846
+120,Late successional,C3_G_120_6B,Non-inherited,0,,120,Late successional,C3_G_120_3F,Inherited,0.82245018
+120,Late successional,C3_G_120_6B,Transient,0,,120,Late successional,C3_G_120_3F,Non-inherited,0
+120,Late successional,C3_G_120_7B,Inherited,0.885250198,,120,Late successional,C3_G_120_3F,Transient,0.017942495
+120,Late successional,C3_G_120_7B,Non-inherited,0,,120,Late successional,C3_G_120_4F,Inherited,0.78492468
+120,Late successional,C3_G_120_7B,Transient,0,,120,Late successional,C3_G_120_4F,Non-inherited,0.049592068
+120,Late successional,C3_G_120_8B,Inherited,0.905123069,,120,Late successional,C3_G_120_4F,Transient,0.024420126
+120,Late successional,C3_G_120_8B,Non-inherited,0,,120,Late successional,C3_G_120_5F,Inherited,0.842476554
+120,Late successional,C3_G_120_8B,Transient,0.060103035,,120,Late successional,C3_G_120_5F,Non-inherited,0.020610291
+120,Late successional,C3_G_120_9B,Inherited,0.785585586,,120,Late successional,C3_G_120_5F,Transient,0.020942264
+120,Late successional,C3_G_120_9B,Non-inherited,0,,120,Late successional,C3_G_120_6F,Inherited,0.659084604
+120,Late successional,C3_G_120_9B,Transient,0.005544006,,120,Late successional,C3_G_120_6F,Non-inherited,0.00332871
+120,Mid-successional / No trend,A1_G_120_1B,Inherited,0.108406453,,120,Late successional,C3_G_120_6F,Transient,0.06502873
+120,Mid-successional / No trend,A1_G_120_1B,Non-inherited,0,,120,Late successional,C3_G_120_7F,Inherited,0.607191764
+120,Mid-successional / No trend,A1_G_120_1B,Transient,0,,120,Late successional,C3_G_120_7F,Non-inherited,0
+120,Mid-successional / No trend,A1_G_120_2B,Inherited,0.288409215,,120,Late successional,C3_G_120_7F,Transient,0.007201907
+120,Mid-successional / No trend,A1_G_120_2B,Non-inherited,0,,120,Late successional,C3_G_120_8F,Inherited,0.440769085
+120,Mid-successional / No trend,A1_G_120_2B,Transient,0.002539452,,120,Late successional,C3_G_120_8F,Non-inherited,0.000126494
+120,Mid-successional / No trend,A1_G_120_3B,Inherited,0.054499821,,120,Late successional,C3_G_120_8F,Transient,0.003225603
+120,Mid-successional / No trend,A1_G_120_3B,Non-inherited,0,,120,Late successional,C3_G_120_9F,Inherited,0.49660205
+120,Mid-successional / No trend,A1_G_120_3B,Transient,0,,120,Late successional,C3_G_120_9F,Non-inherited,0.012756237
+120,Mid-successional / No trend,A1_G_120_4B,Inherited,0.046771802,,120,Late successional,C3_G_120_9F,Transient,0.003954991
+120,Mid-successional / No trend,A1_G_120_4B,Non-inherited,0,,120,Mid-successional / No trend,A1_G_120_1F,Inherited,0.651282051
+120,Mid-successional / No trend,A1_G_120_4B,Transient,0,,120,Mid-successional / No trend,A1_G_120_1F,Non-inherited,0
+120,Mid-successional / No trend,A1_G_120_5B,Inherited,0.169110967,,120,Mid-successional / No trend,A1_G_120_1F,Transient,0
+120,Mid-successional / No trend,A1_G_120_5B,Non-inherited,0,,120,Mid-successional / No trend,A1_G_120_2F,Inherited,0.792883307
+120,Mid-successional / No trend,A1_G_120_5B,Transient,0,,120,Mid-successional / No trend,A1_G_120_2F,Non-inherited,0
+120,Mid-successional / No trend,A1_G_120_6B,Inherited,0.038997934,,120,Mid-successional / No trend,A1_G_120_2F,Transient,0.000523286
+120,Mid-successional / No trend,A1_G_120_6B,Non-inherited,0,,120,Mid-successional / No trend,A1_G_120_3F,Inherited,0
+120,Mid-successional / No trend,A1_G_120_6B,Transient,0,,120,Mid-successional / No trend,A1_G_120_3F,Non-inherited,0.000178939
+120,Mid-successional / No trend,A1_G_120_7B,Inherited,0.063612792,,120,Mid-successional / No trend,A1_G_120_3F,Transient,0
+120,Mid-successional / No trend,A1_G_120_7B,Non-inherited,0,,120,Mid-successional / No trend,A1_G_120_4F,Inherited,0.120578342
+120,Mid-successional / No trend,A1_G_120_7B,Transient,0,,120,Mid-successional / No trend,A1_G_120_4F,Non-inherited,0
+120,Mid-successional / No trend,A1_G_120_8B,Inherited,0.129163924,,120,Mid-successional / No trend,A1_G_120_4F,Transient,0
+120,Mid-successional / No trend,A1_G_120_8B,Non-inherited,0,,120,Mid-successional / No trend,A1_G_120_5F,Inherited,0.376633094
+120,Mid-successional / No trend,A1_G_120_8B,Transient,0,,120,Mid-successional / No trend,A1_G_120_5F,Non-inherited,0
+120,Mid-successional / No trend,A1_G_120_9B,Inherited,0.053129549,,120,Mid-successional / No trend,A1_G_120_5F,Transient,0
+120,Mid-successional / No trend,A1_G_120_9B,Non-inherited,0,,120,Mid-successional / No trend,A1_G_120_6F,Inherited,0.150166659
+120,Mid-successional / No trend,A1_G_120_9B,Transient,0,,120,Mid-successional / No trend,A1_G_120_6F,Non-inherited,0
+120,Mid-successional / No trend,B2_G_120_1B,Inherited,0.158448202,,120,Mid-successional / No trend,A1_G_120_6F,Transient,0.003160036
+120,Mid-successional / No trend,B2_G_120_1B,Non-inherited,0,,120,Mid-successional / No trend,A1_G_120_7F,Inherited,0.014486638
+120,Mid-successional / No trend,B2_G_120_1B,Transient,0,,120,Mid-successional / No trend,A1_G_120_7F,Non-inherited,0
+120,Mid-successional / No trend,B2_G_120_2B,Inherited,0.057810414,,120,Mid-successional / No trend,A1_G_120_7F,Transient,0.000253165
+120,Mid-successional / No trend,B2_G_120_2B,Non-inherited,0,,120,Mid-successional / No trend,A1_G_120_8F,Inherited,0.157632933
+120,Mid-successional / No trend,B2_G_120_2B,Transient,0,,120,Mid-successional / No trend,A1_G_120_8F,Non-inherited,0
+120,Mid-successional / No trend,B2_G_120_3B,Inherited,0.083354099,,120,Mid-successional / No trend,A1_G_120_8F,Transient,0
+120,Mid-successional / No trend,B2_G_120_3B,Non-inherited,0,,120,Mid-successional / No trend,A1_G_120_9F,Inherited,0.199401613
+120,Mid-successional / No trend,B2_G_120_3B,Transient,0,,120,Mid-successional / No trend,A1_G_120_9F,Non-inherited,0
+120,Mid-successional / No trend,B2_G_120_4B,Inherited,0.095558917,,120,Mid-successional / No trend,A1_G_120_9F,Transient,0.000218922
+120,Mid-successional / No trend,B2_G_120_4B,Non-inherited,0,,120,Mid-successional / No trend,B2_G_120_1F,Inherited,0.0813976
+120,Mid-successional / No trend,B2_G_120_4B,Transient,0,,120,Mid-successional / No trend,B2_G_120_1F,Non-inherited,0
+120,Mid-successional / No trend,B2_G_120_5B,Inherited,0.013229927,,120,Mid-successional / No trend,B2_G_120_1F,Transient,6.45E-05
+120,Mid-successional / No trend,B2_G_120_5B,Non-inherited,0,,120,Mid-successional / No trend,B2_G_120_2F,Inherited,0.15111294
+120,Mid-successional / No trend,B2_G_120_5B,Transient,0,,120,Mid-successional / No trend,B2_G_120_2F,Non-inherited,0
+120,Mid-successional / No trend,B2_G_120_6B,Inherited,0.049612212,,120,Mid-successional / No trend,B2_G_120_2F,Transient,0
+120,Mid-successional / No trend,B2_G_120_6B,Non-inherited,0,,120,Mid-successional / No trend,B2_G_120_3F,Inherited,0.256971408
+120,Mid-successional / No trend,B2_G_120_6B,Transient,0,,120,Mid-successional / No trend,B2_G_120_3F,Non-inherited,0
+120,Mid-successional / No trend,B2_G_120_7B,Inherited,0.081345281,,120,Mid-successional / No trend,B2_G_120_3F,Transient,0.010165901
+120,Mid-successional / No trend,B2_G_120_7B,Non-inherited,0,,120,Mid-successional / No trend,B2_G_120_4F,Inherited,0.095238095
+120,Mid-successional / No trend,B2_G_120_7B,Transient,0,,120,Mid-successional / No trend,B2_G_120_4F,Non-inherited,0.009490156
+120,Mid-successional / No trend,B2_G_120_8B,Inherited,0.099049748,,120,Mid-successional / No trend,B2_G_120_4F,Transient,0.001346121
+120,Mid-successional / No trend,B2_G_120_8B,Non-inherited,0,,120,Mid-successional / No trend,B2_G_120_5F,Inherited,0.082769409
+120,Mid-successional / No trend,B2_G_120_8B,Transient,0,,120,Mid-successional / No trend,B2_G_120_5F,Non-inherited,0
+120,Mid-successional / No trend,B2_G_120_9B,Inherited,0.044430066,,120,Mid-successional / No trend,B2_G_120_5F,Transient,0.00469276
+120,Mid-successional / No trend,B2_G_120_9B,Non-inherited,0,,120,Mid-successional / No trend,B2_G_120_6F,Inherited,0.097381214
+120,Mid-successional / No trend,B2_G_120_9B,Transient,0,,120,Mid-successional / No trend,B2_G_120_6F,Non-inherited,0.000407715
+120,Mid-successional / No trend,C3_G_120_1B,Inherited,0.04689931,,120,Mid-successional / No trend,B2_G_120_6F,Transient,0.000125451
+120,Mid-successional / No trend,C3_G_120_1B,Non-inherited,0,,120,Mid-successional / No trend,B2_G_120_7F,Inherited,0.103849672
+120,Mid-successional / No trend,C3_G_120_1B,Transient,0,,120,Mid-successional / No trend,B2_G_120_7F,Non-inherited,0
+120,Mid-successional / No trend,C3_G_120_2B,Inherited,0.052730489,,120,Mid-successional / No trend,B2_G_120_7F,Transient,0
+120,Mid-successional / No trend,C3_G_120_2B,Non-inherited,0,,120,Mid-successional / No trend,B2_G_120_8F,Inherited,0.098885258
+120,Mid-successional / No trend,C3_G_120_2B,Transient,0,,120,Mid-successional / No trend,B2_G_120_8F,Non-inherited,0
+120,Mid-successional / No trend,C3_G_120_3B,Inherited,0.125916561,,120,Mid-successional / No trend,B2_G_120_8F,Transient,0
+120,Mid-successional / No trend,C3_G_120_3B,Non-inherited,0,,120,Mid-successional / No trend,B2_G_120_9F,Inherited,0.020414924
+120,Mid-successional / No trend,C3_G_120_3B,Transient,0,,120,Mid-successional / No trend,B2_G_120_9F,Non-inherited,0
+120,Mid-successional / No trend,C3_G_120_4B,Inherited,0.027990403,,120,Mid-successional / No trend,B2_G_120_9F,Transient,0.030228995
+120,Mid-successional / No trend,C3_G_120_4B,Non-inherited,0,,120,Mid-successional / No trend,C3_G_120_1F,Inherited,0.025328541
+120,Mid-successional / No trend,C3_G_120_4B,Transient,0,,120,Mid-successional / No trend,C3_G_120_1F,Non-inherited,0
+120,Mid-successional / No trend,C3_G_120_5B,Inherited,0.101172116,,120,Mid-successional / No trend,C3_G_120_1F,Transient,0
+120,Mid-successional / No trend,C3_G_120_5B,Non-inherited,0,,120,Mid-successional / No trend,C3_G_120_2F,Inherited,0.105564205
+120,Mid-successional / No trend,C3_G_120_5B,Transient,0,,120,Mid-successional / No trend,C3_G_120_2F,Non-inherited,0
+120,Mid-successional / No trend,C3_G_120_6B,Inherited,0.065747614,,120,Mid-successional / No trend,C3_G_120_2F,Transient,0.005990659
+120,Mid-successional / No trend,C3_G_120_6B,Non-inherited,0,,120,Mid-successional / No trend,C3_G_120_3F,Inherited,0.127913817
+120,Mid-successional / No trend,C3_G_120_6B,Transient,0,,120,Mid-successional / No trend,C3_G_120_3F,Non-inherited,0
+120,Mid-successional / No trend,C3_G_120_7B,Inherited,0.098113701,,120,Mid-successional / No trend,C3_G_120_3F,Transient,0.002389882
+120,Mid-successional / No trend,C3_G_120_7B,Non-inherited,0,,120,Mid-successional / No trend,C3_G_120_4F,Inherited,0.076239802
+120,Mid-successional / No trend,C3_G_120_7B,Transient,0,,120,Mid-successional / No trend,C3_G_120_4F,Non-inherited,0
+120,Mid-successional / No trend,C3_G_120_8B,Inherited,0.034773898,,120,Mid-successional / No trend,C3_G_120_4F,Transient,0.007657394
+120,Mid-successional / No trend,C3_G_120_8B,Non-inherited,0,,120,Mid-successional / No trend,C3_G_120_5F,Inherited,0.004786013
+120,Mid-successional / No trend,C3_G_120_8B,Transient,0,,120,Mid-successional / No trend,C3_G_120_5F,Non-inherited,0.000470302
+120,Mid-successional / No trend,C3_G_120_9B,Inherited,0.182120582,,120,Mid-successional / No trend,C3_G_120_5F,Transient,0.01040197
+120,Mid-successional / No trend,C3_G_120_9B,Non-inherited,0,,120,Mid-successional / No trend,C3_G_120_6F,Inherited,0.169011294
+120,Mid-successional / No trend,C3_G_120_9B,Transient,0.001524602,,120,Mid-successional / No trend,C3_G_120_6F,Non-inherited,0
+120,NA,A1_G_120_1B,Transient,0,,120,Mid-successional / No trend,C3_G_120_6F,Transient,0.000118883
+120,NA,A1_G_120_2B,Transient,0,,120,Mid-successional / No trend,C3_G_120_7F,Inherited,0.118375007
+120,NA,A1_G_120_3B,Transient,0,,120,Mid-successional / No trend,C3_G_120_7F,Non-inherited,0
+120,NA,A1_G_120_4B,Transient,0,,120,Mid-successional / No trend,C3_G_120_7F,Transient,0.023025815
+120,NA,A1_G_120_5B,Transient,0,,120,Mid-successional / No trend,C3_G_120_8F,Inherited,0.479855797
+120,NA,A1_G_120_6B,Transient,0,,120,Mid-successional / No trend,C3_G_120_8F,Non-inherited,0.00044273
+120,NA,A1_G_120_7B,Transient,0,,120,Mid-successional / No trend,C3_G_120_8F,Transient,0.00088546
+120,NA,A1_G_120_8B,Transient,0,,120,Mid-successional / No trend,C3_G_120_9F,Inherited,0.434993316
+120,NA,A1_G_120_9B,Transient,0,,120,Mid-successional / No trend,C3_G_120_9F,Non-inherited,0
+120,NA,B2_G_120_1B,Transient,0,,120,Mid-successional / No trend,C3_G_120_9F,Transient,0
+120,NA,B2_G_120_2B,Transient,0,,120,NA,A1_G_120_1F,Transient,0
+120,NA,B2_G_120_3B,Transient,0,,120,NA,A1_G_120_2F,Transient,0
+120,NA,B2_G_120_4B,Transient,0,,120,NA,A1_G_120_3F,Transient,0
+120,NA,B2_G_120_5B,Transient,0,,120,NA,A1_G_120_4F,Transient,0
+120,NA,B2_G_120_6B,Transient,0,,120,NA,A1_G_120_5F,Transient,0
+120,NA,B2_G_120_7B,Transient,0,,120,NA,A1_G_120_6F,Transient,0
+120,NA,B2_G_120_8B,Transient,0,,120,NA,A1_G_120_7F,Transient,0
+120,NA,B2_G_120_9B,Transient,0,,120,NA,A1_G_120_8F,Transient,0
+120,NA,C3_G_120_1B,Transient,0,,120,NA,A1_G_120_9F,Transient,0
+120,NA,C3_G_120_2B,Transient,0,,120,NA,B2_G_120_1F,Transient,0
+120,NA,C3_G_120_3B,Transient,0,,120,NA,B2_G_120_2F,Transient,0
+120,NA,C3_G_120_4B,Transient,0,,120,NA,B2_G_120_3F,Transient,0
+120,NA,C3_G_120_5B,Transient,0,,120,NA,B2_G_120_4F,Transient,0
+120,NA,C3_G_120_6B,Transient,0,,120,NA,B2_G_120_5F,Transient,0
+120,NA,C3_G_120_7B,Transient,0,,120,NA,B2_G_120_6F,Transient,0
+120,NA,C3_G_120_8B,Transient,0,,120,NA,B2_G_120_7F,Transient,0
+120,NA,C3_G_120_9B,Transient,0,,120,NA,B2_G_120_8F,Transient,0
+141,Early successional,A1_G_141_1B,Inherited,0.193166209,,120,NA,B2_G_120_9F,Transient,0
+141,Early successional,A1_G_141_1B,Non-inherited,0,,120,NA,C3_G_120_1F,Transient,0
+141,Early successional,A1_G_141_1B,Transient,0,,120,NA,C3_G_120_2F,Transient,0
+141,Early successional,A1_G_141_2B,Inherited,0.251956611,,120,NA,C3_G_120_3F,Transient,0
+141,Early successional,A1_G_141_2B,Non-inherited,0,,120,NA,C3_G_120_4F,Transient,0
+141,Early successional,A1_G_141_2B,Transient,0,,120,NA,C3_G_120_5F,Transient,0
+141,Early successional,A1_G_141_3B,Inherited,0.209238343,,120,NA,C3_G_120_6F,Transient,0
+141,Early successional,A1_G_141_3B,Non-inherited,0,,120,NA,C3_G_120_7F,Transient,0
+141,Early successional,A1_G_141_3B,Transient,0,,120,NA,C3_G_120_8F,Transient,0
+141,Early successional,A1_G_141_4B,Inherited,0.036438983,,120,NA,C3_G_120_9F,Transient,0
+141,Early successional,A1_G_141_4B,Non-inherited,0,,141,Early successional,A1_G_141_1F,Inherited,0.009338571
+141,Early successional,A1_G_141_4B,Transient,0,,141,Early successional,A1_G_141_1F,Non-inherited,0
+141,Early successional,A1_G_141_5B,Inherited,0,,141,Early successional,A1_G_141_1F,Transient,0.003832035
+141,Early successional,A1_G_141_5B,Non-inherited,0,,141,Early successional,A1_G_141_2F,Inherited,0.020215634
+141,Early successional,A1_G_141_5B,Transient,0,,141,Early successional,A1_G_141_2F,Non-inherited,0
+141,Early successional,A1_G_141_6B,Inherited,0.23231582,,141,Early successional,A1_G_141_2F,Transient,0.004013084
+141,Early successional,A1_G_141_6B,Non-inherited,0,,141,Early successional,A1_G_141_3F,Inherited,0.000896593
+141,Early successional,A1_G_141_6B,Transient,0,,141,Early successional,A1_G_141_3F,Non-inherited,0
+141,Early successional,A1_G_141_7B,Inherited,0.076725652,,141,Early successional,A1_G_141_3F,Transient,0.008256127
+141,Early successional,A1_G_141_7B,Non-inherited,0,,141,Early successional,A1_G_141_4F,Inherited,0.003697077
+141,Early successional,A1_G_141_7B,Transient,0,,141,Early successional,A1_G_141_4F,Non-inherited,0
+141,Early successional,A1_G_141_8B,Inherited,0.045934902,,141,Early successional,A1_G_141_4F,Transient,5.96E-05
+141,Early successional,A1_G_141_8B,Non-inherited,0,,141,Early successional,A1_G_141_5F,Inherited,0.00664826
+141,Early successional,A1_G_141_8B,Transient,0,,141,Early successional,A1_G_141_5F,Non-inherited,0
+141,Early successional,A1_G_141_9B,Inherited,0.061981729,,141,Early successional,A1_G_141_5F,Transient,0
+141,Early successional,A1_G_141_9B,Non-inherited,0,,141,Early successional,A1_G_141_6F,Inherited,0.012674442
+141,Early successional,A1_G_141_9B,Transient,0,,141,Early successional,A1_G_141_6F,Non-inherited,0
+141,Early successional,B2_G_141_1B,Inherited,0,,141,Early successional,A1_G_141_6F,Transient,0.000314624
+141,Early successional,B2_G_141_1B,Non-inherited,0,,141,Early successional,A1_G_141_7F,Inherited,0.003367129
+141,Early successional,B2_G_141_1B,Transient,0.006668784,,141,Early successional,A1_G_141_7F,Non-inherited,0
+141,Early successional,B2_G_141_2B,Inherited,0,,141,Early successional,A1_G_141_7F,Transient,0
+141,Early successional,B2_G_141_2B,Non-inherited,0,,141,Early successional,A1_G_141_8F,Inherited,0.009454519
+141,Early successional,B2_G_141_2B,Transient,0,,141,Early successional,A1_G_141_8F,Non-inherited,0
+141,Early successional,B2_G_141_3B,Inherited,0.143801907,,141,Early successional,A1_G_141_8F,Transient,0.079772501
+141,Early successional,B2_G_141_3B,Non-inherited,0,,141,Early successional,A1_G_141_9F,Inherited,0.006669256
+141,Early successional,B2_G_141_3B,Transient,0,,141,Early successional,A1_G_141_9F,Non-inherited,0
+141,Early successional,B2_G_141_4B,Inherited,0.02895505,,141,Early successional,A1_G_141_9F,Transient,0.001133126
+141,Early successional,B2_G_141_4B,Non-inherited,0,,141,Early successional,B2_G_141_1F,Inherited,0.014658021
+141,Early successional,B2_G_141_4B,Transient,0,,141,Early successional,B2_G_141_1F,Non-inherited,0
+141,Early successional,B2_G_141_5B,Inherited,0.186704195,,141,Early successional,B2_G_141_1F,Transient,0.001027679
+141,Early successional,B2_G_141_5B,Non-inherited,0,,141,Early successional,B2_G_141_2F,Inherited,0.000594338
+141,Early successional,B2_G_141_5B,Transient,0,,141,Early successional,B2_G_141_2F,Non-inherited,0
+141,Early successional,B2_G_141_6B,Inherited,0.116421263,,141,Early successional,B2_G_141_2F,Transient,0
+141,Early successional,B2_G_141_6B,Non-inherited,0,,141,Early successional,B2_G_141_3F,Inherited,0.007441953
+141,Early successional,B2_G_141_6B,Transient,0,,141,Early successional,B2_G_141_3F,Non-inherited,0
+141,Early successional,B2_G_141_7B,Inherited,0,,141,Early successional,B2_G_141_3F,Transient,0
+141,Early successional,B2_G_141_7B,Non-inherited,0,,141,Early successional,B2_G_141_4F,Inherited,0.038469305
+141,Early successional,B2_G_141_7B,Transient,0,,141,Early successional,B2_G_141_4F,Non-inherited,0
+141,Early successional,B2_G_141_8B,Inherited,0.03125383,,141,Early successional,B2_G_141_4F,Transient,0
+141,Early successional,B2_G_141_8B,Non-inherited,0,,141,Early successional,B2_G_141_5F,Inherited,0.003401459
+141,Early successional,B2_G_141_8B,Transient,0,,141,Early successional,B2_G_141_5F,Non-inherited,0
+141,Early successional,B2_G_141_9B,Inherited,0,,141,Early successional,B2_G_141_5F,Transient,0
+141,Early successional,B2_G_141_9B,Non-inherited,0,,141,Early successional,B2_G_141_6F,Inherited,0.003043213
+141,Early successional,B2_G_141_9B,Transient,0,,141,Early successional,B2_G_141_6F,Non-inherited,0
+141,Early successional,C3_G_141_1B,Inherited,0.044533887,,141,Early successional,B2_G_141_6F,Transient,0.025780367
+141,Early successional,C3_G_141_1B,Non-inherited,0,,141,Early successional,B2_G_141_7F,Inherited,0.003791341
+141,Early successional,C3_G_141_1B,Transient,0,,141,Early successional,B2_G_141_7F,Non-inherited,0
+141,Early successional,C3_G_141_2B,Inherited,0.035430917,,141,Early successional,B2_G_141_7F,Transient,0.000304661
+141,Early successional,C3_G_141_2B,Non-inherited,0,,141,Early successional,B2_G_141_8F,Inherited,0.04276355
+141,Early successional,C3_G_141_2B,Transient,0,,141,Early successional,B2_G_141_8F,Non-inherited,0
+141,Early successional,C3_G_141_3B,Inherited,0.039779682,,141,Early successional,B2_G_141_8F,Transient,0.000476474
+141,Early successional,C3_G_141_3B,Non-inherited,0,,141,Early successional,B2_G_141_9F,Inherited,0.001511191
+141,Early successional,C3_G_141_3B,Transient,0,,141,Early successional,B2_G_141_9F,Non-inherited,0
+141,Early successional,C3_G_141_4B,Inherited,0.035402906,,141,Early successional,B2_G_141_9F,Transient,0
+141,Early successional,C3_G_141_4B,Non-inherited,0,,141,Early successional,C3_G_141_1F,Inherited,0.001383648
+141,Early successional,C3_G_141_4B,Transient,0,,141,Early successional,C3_G_141_1F,Non-inherited,0
+141,Early successional,C3_G_141_5B,Inherited,0.105579869,,141,Early successional,C3_G_141_1F,Transient,0.004863732
+141,Early successional,C3_G_141_5B,Non-inherited,0,,141,Early successional,C3_G_141_2F,Inherited,0.048958795
+141,Early successional,C3_G_141_5B,Transient,0.000683807,,141,Early successional,C3_G_141_2F,Non-inherited,0
+141,Early successional,C3_G_141_6B,Inherited,0.055733878,,141,Early successional,C3_G_141_2F,Transient,0.005405405
+141,Early successional,C3_G_141_6B,Non-inherited,0,,141,Early successional,C3_G_141_3F,Inherited,0.299308798
+141,Early successional,C3_G_141_6B,Transient,0,,141,Early successional,C3_G_141_3F,Non-inherited,0
+141,Early successional,C3_G_141_7B,Inherited,0,,141,Early successional,C3_G_141_3F,Transient,0
+141,Early successional,C3_G_141_7B,Non-inherited,0,,141,Early successional,C3_G_141_4F,Inherited,0.013421945
+141,Early successional,C3_G_141_7B,Transient,0,,141,Early successional,C3_G_141_4F,Non-inherited,0
+141,Early successional,C3_G_141_8B,Inherited,0.021652275,,141,Early successional,C3_G_141_4F,Transient,0.000434367
+141,Early successional,C3_G_141_8B,Non-inherited,0,,141,Early successional,C3_G_141_5F,Inherited,0.020995698
+141,Early successional,C3_G_141_8B,Transient,0,,141,Early successional,C3_G_141_5F,Non-inherited,0
+141,Early successional,C3_G_141_9B,Inherited,0.004387956,,141,Early successional,C3_G_141_5F,Transient,0.000596227
+141,Early successional,C3_G_141_9B,Non-inherited,0,,141,Early successional,C3_G_141_6F,Inherited,0.005350959
+141,Early successional,C3_G_141_9B,Transient,0,,141,Early successional,C3_G_141_6F,Non-inherited,0
+141,Late successional,A1_G_141_1B,Inherited,0.601991758,,141,Early successional,C3_G_141_6F,Transient,0.001416431
+141,Late successional,A1_G_141_1B,Non-inherited,0,,141,Early successional,C3_G_141_7F,Inherited,0.014826149
+141,Late successional,A1_G_141_1B,Transient,0.043784341,,141,Early successional,C3_G_141_7F,Non-inherited,0
+141,Late successional,A1_G_141_2B,Inherited,0.630646712,,141,Early successional,C3_G_141_7F,Transient,0.000316573
+141,Late successional,A1_G_141_2B,Non-inherited,0,,141,Early successional,C3_G_141_8F,Inherited,0.003379661
+141,Late successional,A1_G_141_2B,Transient,0,,141,Early successional,C3_G_141_8F,Non-inherited,0
+141,Late successional,A1_G_141_3B,Inherited,0.597885896,,141,Early successional,C3_G_141_8F,Transient,0.003683451
+141,Late successional,A1_G_141_3B,Non-inherited,0,,141,Early successional,C3_G_141_9F,Inherited,0.002356518
+141,Late successional,A1_G_141_3B,Transient,0.105270779,,141,Early successional,C3_G_141_9F,Non-inherited,0
+141,Late successional,A1_G_141_4B,Inherited,0.885538725,,141,Early successional,C3_G_141_9F,Transient,0.006613454
+141,Late successional,A1_G_141_4B,Non-inherited,0,,141,Late successional,A1_G_141_1F,Inherited,0.900624717
+141,Late successional,A1_G_141_4B,Transient,0,,141,Late successional,A1_G_141_1F,Non-inherited,0
+141,Late successional,A1_G_141_5B,Inherited,0.910302468,,141,Late successional,A1_G_141_1F,Transient,0.012526567
+141,Late successional,A1_G_141_5B,Non-inherited,0,,141,Late successional,A1_G_141_2F,Inherited,0.655765199
+141,Late successional,A1_G_141_5B,Transient,0.012400046,,141,Late successional,A1_G_141_2F,Non-inherited,0
+141,Late successional,A1_G_141_6B,Inherited,0.547989433,,141,Late successional,A1_G_141_2F,Transient,0.307607022
+141,Late successional,A1_G_141_6B,Non-inherited,0,,141,Late successional,A1_G_141_3F,Inherited,0.50993724
+141,Late successional,A1_G_141_6B,Transient,0.057235104,,141,Late successional,A1_G_141_3F,Non-inherited,0
+141,Late successional,A1_G_141_7B,Inherited,0.477914359,,141,Late successional,A1_G_141_3F,Transient,0.457038254
+141,Late successional,A1_G_141_7B,Non-inherited,0,,141,Late successional,A1_G_141_4F,Inherited,0.99189028
+141,Late successional,A1_G_141_7B,Transient,0.351208969,,141,Late successional,A1_G_141_4F,Non-inherited,0
+141,Late successional,A1_G_141_8B,Inherited,0.749330704,,141,Late successional,A1_G_141_4F,Transient,0.003339251
+141,Late successional,A1_G_141_8B,Non-inherited,0,,141,Late successional,A1_G_141_5F,Inherited,0.982053332
+141,Late successional,A1_G_141_8B,Transient,0.051852896,,141,Late successional,A1_G_141_5F,Non-inherited,0
+141,Late successional,A1_G_141_9B,Inherited,0.713703444,,141,Late successional,A1_G_141_5F,Transient,0.010390177
+141,Late successional,A1_G_141_9B,Non-inherited,0,,141,Late successional,A1_G_141_6F,Inherited,0.985325497
+141,Late successional,A1_G_141_9B,Transient,0.060716796,,141,Late successional,A1_G_141_6F,Non-inherited,0
+141,Late successional,B2_G_141_1B,Inherited,0.748491585,,141,Late successional,A1_G_141_6F,Transient,0.001146048
+141,Late successional,B2_G_141_1B,Non-inherited,0,,141,Late successional,A1_G_141_7F,Inherited,0.890119346
+141,Late successional,B2_G_141_1B,Transient,0,,141,Late successional,A1_G_141_7F,Non-inherited,0
+141,Late successional,B2_G_141_2B,Inherited,0.83281586,,141,Late successional,A1_G_141_7F,Transient,0.066033148
+141,Late successional,B2_G_141_2B,Non-inherited,0,,141,Late successional,A1_G_141_8F,Inherited,0.792406841
+141,Late successional,B2_G_141_2B,Transient,0.005970862,,141,Late successional,A1_G_141_8F,Non-inherited,0
+141,Late successional,B2_G_141_3B,Inherited,0.701476468,,141,Late successional,A1_G_141_8F,Transient,0.112420135
+141,Late successional,B2_G_141_3B,Non-inherited,0,,141,Late successional,A1_G_141_9F,Inherited,0.982517482
+141,Late successional,B2_G_141_3B,Transient,0.003075977,,141,Late successional,A1_G_141_9F,Non-inherited,0
+141,Late successional,B2_G_141_4B,Inherited,0.489200234,,141,Late successional,A1_G_141_9F,Transient,0.00951826
+141,Late successional,B2_G_141_4B,Non-inherited,0,,141,Late successional,B2_G_141_1F,Inherited,0.919148415
+141,Late successional,B2_G_141_4B,Transient,0.411675423,,141,Late successional,B2_G_141_1F,Non-inherited,0
+141,Late successional,B2_G_141_5B,Inherited,0.700576329,,141,Late successional,B2_G_141_1F,Transient,0.058436302
+141,Late successional,B2_G_141_5B,Non-inherited,0,,141,Late successional,B2_G_141_2F,Inherited,0.911389671
+141,Late successional,B2_G_141_5B,Transient,0,,141,Late successional,B2_G_141_2F,Non-inherited,0
+141,Late successional,B2_G_141_6B,Inherited,0.824057898,,141,Late successional,B2_G_141_2F,Transient,0.008861033
+141,Late successional,B2_G_141_6B,Non-inherited,0,,141,Late successional,B2_G_141_3F,Inherited,0.990077397
+141,Late successional,B2_G_141_6B,Transient,0,,141,Late successional,B2_G_141_3F,Non-inherited,0
+141,Late successional,B2_G_141_7B,Inherited,0.504174229,,141,Late successional,B2_G_141_3F,Transient,0.001719917
+141,Late successional,B2_G_141_7B,Non-inherited,0,,141,Late successional,B2_G_141_4F,Inherited,0.688980883
+141,Late successional,B2_G_141_7B,Transient,0.406412584,,141,Late successional,B2_G_141_4F,Non-inherited,0
+141,Late successional,B2_G_141_8B,Inherited,0.808800098,,141,Late successional,B2_G_141_4F,Transient,0.266828218
+141,Late successional,B2_G_141_8B,Non-inherited,0,,141,Late successional,B2_G_141_5F,Inherited,0.984882357
+141,Late successional,B2_G_141_8B,Transient,0.012624096,,141,Late successional,B2_G_141_5F,Non-inherited,0
+141,Late successional,B2_G_141_9B,Inherited,0.869340901,,141,Late successional,B2_G_141_5F,Transient,0.002820014
+141,Late successional,B2_G_141_9B,Non-inherited,0,,141,Late successional,B2_G_141_6F,Inherited,0.904834362
+141,Late successional,B2_G_141_9B,Transient,0,,141,Late successional,B2_G_141_6F,Non-inherited,0
+141,Late successional,C3_G_141_1B,Inherited,0.687613607,,141,Late successional,B2_G_141_6F,Transient,0.011390313
+141,Late successional,C3_G_141_1B,Non-inherited,0,,141,Late successional,B2_G_141_7F,Inherited,0.657052909
+141,Late successional,C3_G_141_1B,Transient,0.163074526,,141,Late successional,B2_G_141_7F,Non-inherited,0
+141,Late successional,C3_G_141_2B,Inherited,0.460875514,,141,Late successional,B2_G_141_7F,Transient,0.338851086
+141,Late successional,C3_G_141_2B,Non-inherited,0,,141,Late successional,B2_G_141_8F,Inherited,0.914314077
+141,Late successional,C3_G_141_2B,Transient,0.361696307,,141,Late successional,B2_G_141_8F,Non-inherited,0
+141,Late successional,C3_G_141_3B,Inherited,0.823378211,,141,Late successional,B2_G_141_8F,Transient,0.000952949
+141,Late successional,C3_G_141_3B,Non-inherited,0,,141,Late successional,B2_G_141_9F,Inherited,0.858601537
+141,Late successional,C3_G_141_3B,Transient,0.088494491,,141,Late successional,B2_G_141_9F,Non-inherited,0
+141,Late successional,C3_G_141_4B,Inherited,0.852047556,,141,Late successional,B2_G_141_9F,Transient,0.036636171
+141,Late successional,C3_G_141_4B,Non-inherited,0,,141,Late successional,C3_G_141_1F,Inherited,0.936939203
+141,Late successional,C3_G_141_4B,Transient,0.022589168,,141,Late successional,C3_G_141_1F,Non-inherited,0
+141,Late successional,C3_G_141_5B,Inherited,0.786378555,,141,Late successional,C3_G_141_1F,Transient,0.001551363
+141,Late successional,C3_G_141_5B,Non-inherited,0,,141,Late successional,C3_G_141_2F,Inherited,0.864820558
+141,Late successional,C3_G_141_5B,Transient,0.024206784,,141,Late successional,C3_G_141_2F,Non-inherited,0
+141,Late successional,C3_G_141_6B,Inherited,0.735628829,,141,Late successional,C3_G_141_2F,Transient,0.014576872
+141,Late successional,C3_G_141_6B,Non-inherited,0,,141,Late successional,C3_G_141_3F,Inherited,0.630973284
+141,Late successional,C3_G_141_6B,Transient,0.166180332,,141,Late successional,C3_G_141_3F,Non-inherited,0
+141,Late successional,C3_G_141_7B,Inherited,0.873129557,,141,Late successional,C3_G_141_3F,Transient,0.059779562
+141,Late successional,C3_G_141_7B,Non-inherited,0,,141,Late successional,C3_G_141_4F,Inherited,0.967943705
+141,Late successional,C3_G_141_7B,Transient,0,,141,Late successional,C3_G_141_4F,Non-inherited,0
+141,Late successional,C3_G_141_8B,Inherited,0.904111355,,141,Late successional,C3_G_141_4F,Transient,0.01533316
+141,Late successional,C3_G_141_8B,Non-inherited,0,,141,Late successional,C3_G_141_5F,Inherited,0.908521782
+141,Late successional,C3_G_141_8B,Transient,0,,141,Late successional,C3_G_141_5F,Non-inherited,0
+141,Late successional,C3_G_141_9B,Inherited,0.980027235,,141,Late successional,C3_G_141_5F,Transient,0.032196268
+141,Late successional,C3_G_141_9B,Non-inherited,0,,141,Late successional,C3_G_141_6F,Inherited,0.896718602
+141,Late successional,C3_G_141_9B,Transient,0.014525647,,141,Late successional,C3_G_141_6F,Non-inherited,0
+141,Mid-successional / No trend,A1_G_141_1B,Inherited,0.160027473,,141,Late successional,C3_G_141_6F,Transient,0.076644633
+141,Mid-successional / No trend,A1_G_141_1B,Non-inherited,0,,141,Late successional,C3_G_141_7F,Inherited,0.792170104
+141,Mid-successional / No trend,A1_G_141_1B,Transient,0.00103022,,141,Late successional,C3_G_141_7F,Non-inherited,0
+141,Mid-successional / No trend,A1_G_141_2B,Inherited,0.117396677,,141,Late successional,C3_G_141_7F,Transient,0.015881392
+141,Mid-successional / No trend,A1_G_141_2B,Non-inherited,0,,141,Late successional,C3_G_141_8F,Inherited,0.927166402
+141,Mid-successional / No trend,A1_G_141_2B,Transient,0,,141,Late successional,C3_G_141_8F,Non-inherited,0
+141,Mid-successional / No trend,A1_G_141_3B,Inherited,0.087604981,,141,Late successional,C3_G_141_8F,Transient,0.002278424
+141,Mid-successional / No trend,A1_G_141_3B,Non-inherited,0,,141,Late successional,C3_G_141_9F,Inherited,0.911706575
+141,Mid-successional / No trend,A1_G_141_3B,Transient,0,,141,Late successional,C3_G_141_9F,Non-inherited,0
+141,Mid-successional / No trend,A1_G_141_4B,Inherited,0.078022292,,141,Late successional,C3_G_141_9F,Transient,0.001520318
+141,Mid-successional / No trend,A1_G_141_4B,Non-inherited,0,,141,Mid-successional / No trend,A1_G_141_1F,Inherited,0.073678109
+141,Mid-successional / No trend,A1_G_141_4B,Transient,0,,141,Mid-successional / No trend,A1_G_141_1F,Non-inherited,0
+141,Mid-successional / No trend,A1_G_141_5B,Inherited,0.077297485,,141,Mid-successional / No trend,A1_G_141_1F,Transient,0
+141,Mid-successional / No trend,A1_G_141_5B,Non-inherited,0,,141,Mid-successional / No trend,A1_G_141_2F,Inherited,0.001946691
+141,Mid-successional / No trend,A1_G_141_5B,Transient,0,,141,Mid-successional / No trend,A1_G_141_2F,Non-inherited,0
+141,Mid-successional / No trend,A1_G_141_6B,Inherited,0.162459642,,141,Mid-successional / No trend,A1_G_141_2F,Transient,0.010452231
+141,Mid-successional / No trend,A1_G_141_6B,Non-inherited,0,,141,Mid-successional / No trend,A1_G_141_3F,Inherited,0.022601614
+141,Mid-successional / No trend,A1_G_141_6B,Transient,0,,141,Mid-successional / No trend,A1_G_141_3F,Non-inherited,0
+141,Mid-successional / No trend,A1_G_141_7B,Inherited,0.093610698,,141,Mid-successional / No trend,A1_G_141_3F,Transient,0.001270173
+141,Mid-successional / No trend,A1_G_141_7B,Non-inherited,0,,141,Mid-successional / No trend,A1_G_141_4F,Inherited,0.000327967
+141,Mid-successional / No trend,A1_G_141_7B,Transient,0.000540321,,141,Mid-successional / No trend,A1_G_141_4F,Non-inherited,0
+141,Mid-successional / No trend,A1_G_141_8B,Inherited,0.152881499,,141,Mid-successional / No trend,A1_G_141_4F,Transient,0.000685748
+141,Mid-successional / No trend,A1_G_141_8B,Non-inherited,0,,141,Mid-successional / No trend,A1_G_141_5F,Inherited,0
+141,Mid-successional / No trend,A1_G_141_8B,Transient,0,,141,Mid-successional / No trend,A1_G_141_5F,Non-inherited,0
+141,Mid-successional / No trend,A1_G_141_9B,Inherited,0.163598032,,141,Mid-successional / No trend,A1_G_141_5F,Transient,0.000908232
+141,Mid-successional / No trend,A1_G_141_9B,Non-inherited,0,,141,Mid-successional / No trend,A1_G_141_6F,Inherited,0.000539338
+141,Mid-successional / No trend,A1_G_141_9B,Transient,0,,141,Mid-successional / No trend,A1_G_141_6F,Non-inherited,0
+141,Mid-successional / No trend,B2_G_141_1B,Inherited,0.244839632,,141,Mid-successional / No trend,A1_G_141_6F,Transient,0
+141,Mid-successional / No trend,B2_G_141_1B,Non-inherited,0,,141,Mid-successional / No trend,A1_G_141_7F,Inherited,0.040480377
+141,Mid-successional / No trend,B2_G_141_1B,Transient,0,,141,Mid-successional / No trend,A1_G_141_7F,Non-inherited,0
+141,Mid-successional / No trend,B2_G_141_2B,Inherited,0.160257941,,141,Mid-successional / No trend,A1_G_141_7F,Transient,0
+141,Mid-successional / No trend,B2_G_141_2B,Non-inherited,0,,141,Mid-successional / No trend,A1_G_141_8F,Inherited,0.005946006
+141,Mid-successional / No trend,B2_G_141_2B,Transient,0.000955338,,141,Mid-successional / No trend,A1_G_141_8F,Non-inherited,0
+141,Mid-successional / No trend,B2_G_141_3B,Inherited,0.151645647,,141,Mid-successional / No trend,A1_G_141_8F,Transient,0
+141,Mid-successional / No trend,B2_G_141_3B,Non-inherited,0,,141,Mid-successional / No trend,A1_G_141_9F,Inherited,0.000161875
+141,Mid-successional / No trend,B2_G_141_3B,Transient,0,,141,Mid-successional / No trend,A1_G_141_9F,Non-inherited,0
+141,Mid-successional / No trend,B2_G_141_4B,Inherited,0.070169294,,141,Mid-successional / No trend,A1_G_141_9F,Transient,0
+141,Mid-successional / No trend,B2_G_141_4B,Non-inherited,0,,141,Mid-successional / No trend,B2_G_141_1F,Inherited,0.000367062
+141,Mid-successional / No trend,B2_G_141_4B,Transient,0,,141,Mid-successional / No trend,B2_G_141_1F,Non-inherited,0
+141,Mid-successional / No trend,B2_G_141_5B,Inherited,0.112719475,,141,Mid-successional / No trend,B2_G_141_1F,Transient,0.006362413
+141,Mid-successional / No trend,B2_G_141_5B,Non-inherited,0,,141,Mid-successional / No trend,B2_G_141_2F,Inherited,0.074346229
+141,Mid-successional / No trend,B2_G_141_5B,Transient,0,,141,Mid-successional / No trend,B2_G_141_2F,Non-inherited,0
+141,Mid-successional / No trend,B2_G_141_6B,Inherited,0.059520839,,141,Mid-successional / No trend,B2_G_141_2F,Transient,0.004808731
+141,Mid-successional / No trend,B2_G_141_6B,Non-inherited,0,,141,Mid-successional / No trend,B2_G_141_3F,Inherited,0.000297678
+141,Mid-successional / No trend,B2_G_141_6B,Transient,0,,141,Mid-successional / No trend,B2_G_141_3F,Non-inherited,0
+141,Mid-successional / No trend,B2_G_141_7B,Inherited,0.089413188,,141,Mid-successional / No trend,B2_G_141_3F,Transient,0.000463055
+141,Mid-successional / No trend,B2_G_141_7B,Non-inherited,0,,141,Mid-successional / No trend,B2_G_141_4F,Inherited,0.005721594
+141,Mid-successional / No trend,B2_G_141_7B,Transient,0,,141,Mid-successional / No trend,B2_G_141_4F,Non-inherited,0
+141,Mid-successional / No trend,B2_G_141_8B,Inherited,0.147321976,,141,Mid-successional / No trend,B2_G_141_4F,Transient,0
+141,Mid-successional / No trend,B2_G_141_8B,Non-inherited,0,,141,Mid-successional / No trend,B2_G_141_5F,Inherited,0.008896125
+141,Mid-successional / No trend,B2_G_141_8B,Transient,0,,141,Mid-successional / No trend,B2_G_141_5F,Non-inherited,0
+141,Mid-successional / No trend,B2_G_141_9B,Inherited,0.1306591,,141,Mid-successional / No trend,B2_G_141_5F,Transient,0
+141,Mid-successional / No trend,B2_G_141_9B,Non-inherited,0,,141,Mid-successional / No trend,B2_G_141_6F,Inherited,0.05269107
+141,Mid-successional / No trend,B2_G_141_9B,Transient,0,,141,Mid-successional / No trend,B2_G_141_6F,Non-inherited,0
+141,Mid-successional / No trend,C3_G_141_1B,Inherited,0.10477798,,141,Mid-successional / No trend,B2_G_141_6F,Transient,0.002260673
+141,Mid-successional / No trend,C3_G_141_1B,Non-inherited,0,,141,Mid-successional / No trend,B2_G_141_7F,Inherited,0
+141,Mid-successional / No trend,C3_G_141_1B,Transient,0,,141,Mid-successional / No trend,B2_G_141_7F,Non-inherited,0
+141,Mid-successional / No trend,C3_G_141_2B,Inherited,0.141997264,,141,Mid-successional / No trend,B2_G_141_7F,Transient,0
+141,Mid-successional / No trend,C3_G_141_2B,Non-inherited,0,,141,Mid-successional / No trend,B2_G_141_8F,Inherited,0.041492952
+141,Mid-successional / No trend,C3_G_141_2B,Transient,0,,141,Mid-successional / No trend,B2_G_141_8F,Non-inherited,0
+141,Mid-successional / No trend,C3_G_141_3B,Inherited,0.023133415,,141,Mid-successional / No trend,B2_G_141_8F,Transient,0
+141,Mid-successional / No trend,C3_G_141_3B,Non-inherited,0,,141,Mid-successional / No trend,B2_G_141_9F,Inherited,0.103251103
+141,Mid-successional / No trend,C3_G_141_3B,Transient,0.025214199,,141,Mid-successional / No trend,B2_G_141_9F,Non-inherited,0
+141,Mid-successional / No trend,C3_G_141_4B,Inherited,0.08996037,,141,Mid-successional / No trend,B2_G_141_9F,Transient,0
+141,Mid-successional / No trend,C3_G_141_4B,Non-inherited,0,,141,Mid-successional / No trend,C3_G_141_1F,Inherited,0.055262055
+141,Mid-successional / No trend,C3_G_141_4B,Transient,0,,141,Mid-successional / No trend,C3_G_141_1F,Non-inherited,0
+141,Mid-successional / No trend,C3_G_141_5B,Inherited,0.083150985,,141,Mid-successional / No trend,C3_G_141_1F,Transient,0
+141,Mid-successional / No trend,C3_G_141_5B,Non-inherited,0,,141,Mid-successional / No trend,C3_G_141_2F,Inherited,0.06623837
+141,Mid-successional / No trend,C3_G_141_5B,Transient,0,,141,Mid-successional / No trend,C3_G_141_2F,Non-inherited,0
+141,Mid-successional / No trend,C3_G_141_6B,Inherited,0.042456959,,141,Mid-successional / No trend,C3_G_141_2F,Transient,0
+141,Mid-successional / No trend,C3_G_141_6B,Non-inherited,0,,141,Mid-successional / No trend,C3_G_141_3F,Inherited,0.009938352
+141,Mid-successional / No trend,C3_G_141_6B,Transient,0,,141,Mid-successional / No trend,C3_G_141_3F,Non-inherited,0
+141,Mid-successional / No trend,C3_G_141_7B,Inherited,0.126870444,,141,Mid-successional / No trend,C3_G_141_3F,Transient,0
+141,Mid-successional / No trend,C3_G_141_7B,Non-inherited,0,,141,Mid-successional / No trend,C3_G_141_4F,Inherited,0.002606203
+141,Mid-successional / No trend,C3_G_141_7B,Transient,0,,141,Mid-successional / No trend,C3_G_141_4F,Non-inherited,0
+141,Mid-successional / No trend,C3_G_141_8B,Inherited,0.074236371,,141,Mid-successional / No trend,C3_G_141_4F,Transient,0.00026062
+141,Mid-successional / No trend,C3_G_141_8B,Non-inherited,0,,141,Mid-successional / No trend,C3_G_141_5F,Inherited,0.037690047
+141,Mid-successional / No trend,C3_G_141_8B,Transient,0,,141,Mid-successional / No trend,C3_G_141_5F,Non-inherited,0
+141,Mid-successional / No trend,C3_G_141_9B,Inherited,0,,141,Mid-successional / No trend,C3_G_141_5F,Transient,0
+141,Mid-successional / No trend,C3_G_141_9B,Non-inherited,0,,141,Mid-successional / No trend,C3_G_141_6F,Inherited,0.017823418
+141,Mid-successional / No trend,C3_G_141_9B,Transient,0.001059162,,141,Mid-successional / No trend,C3_G_141_6F,Non-inherited,0
+141,NA,A1_G_141_1B,Transient,0,,141,Mid-successional / No trend,C3_G_141_6F,Transient,0.002045955
+141,NA,A1_G_141_2B,Transient,0,,141,Mid-successional / No trend,C3_G_141_7F,Inherited,0.176805783
+141,NA,A1_G_141_3B,Transient,0,,141,Mid-successional / No trend,C3_G_141_7F,Non-inherited,0
+141,NA,A1_G_141_4B,Transient,0,,141,Mid-successional / No trend,C3_G_141_7F,Transient,0
+141,NA,A1_G_141_5B,Transient,0,,141,Mid-successional / No trend,C3_G_141_8F,Inherited,0.062011088
+141,NA,A1_G_141_6B,Transient,0,,141,Mid-successional / No trend,C3_G_141_8F,Non-inherited,0
+141,NA,A1_G_141_7B,Transient,0,,141,Mid-successional / No trend,C3_G_141_8F,Transient,0.001480975
+141,NA,A1_G_141_8B,Transient,0,,141,Mid-successional / No trend,C3_G_141_9F,Inherited,0.077803118
+141,NA,A1_G_141_9B,Transient,0,,141,Mid-successional / No trend,C3_G_141_9F,Non-inherited,0
+141,NA,B2_G_141_1B,Transient,0,,141,Mid-successional / No trend,C3_G_141_9F,Transient,0
+141,NA,B2_G_141_2B,Transient,0,,141,NA,A1_G_141_1F,Transient,0
+141,NA,B2_G_141_3B,Transient,0,,141,NA,A1_G_141_2F,Transient,0
+141,NA,B2_G_141_4B,Transient,0,,141,NA,A1_G_141_3F,Transient,0
+141,NA,B2_G_141_5B,Transient,0,,141,NA,A1_G_141_4F,Transient,0
+141,NA,B2_G_141_6B,Transient,0,,141,NA,A1_G_141_5F,Transient,0
+141,NA,B2_G_141_7B,Transient,0,,141,NA,A1_G_141_6F,Transient,0
+141,NA,B2_G_141_8B,Transient,0,,141,NA,A1_G_141_7F,Transient,0
+141,NA,B2_G_141_9B,Transient,0,,141,NA,A1_G_141_8F,Transient,0
+141,NA,C3_G_141_1B,Transient,0,,141,NA,A1_G_141_9F,Transient,0
+141,NA,C3_G_141_2B,Transient,0,,141,NA,B2_G_141_1F,Transient,0
+141,NA,C3_G_141_3B,Transient,0,,141,NA,B2_G_141_2F,Transient,0
+141,NA,C3_G_141_4B,Transient,0,,141,NA,B2_G_141_3F,Transient,0
+141,NA,C3_G_141_5B,Transient,0,,141,NA,B2_G_141_4F,Transient,0
+141,NA,C3_G_141_6B,Transient,0,,141,NA,B2_G_141_5F,Transient,0
+141,NA,C3_G_141_7B,Transient,0,,141,NA,B2_G_141_6F,Transient,0
+141,NA,C3_G_141_8B,Transient,0,,141,NA,B2_G_141_7F,Transient,0
+141,NA,C3_G_141_9B,Transient,0,,141,NA,B2_G_141_8F,Transient,0
+0,Early successional,A1_G0_1B,Inherited,0.042245566,,141,NA,B2_G_141_9F,Transient,0
+0,Early successional,A1_G0_1B,Non-inherited,0,,141,NA,C3_G_141_1F,Transient,0
+0,Early successional,A1_G0_1B,Transient,0,,141,NA,C3_G_141_2F,Transient,0
+0,Early successional,A1_G0_2B,Inherited,0.101615272,,141,NA,C3_G_141_3F,Transient,0
+0,Early successional,A1_G0_2B,Non-inherited,0,,141,NA,C3_G_141_4F,Transient,0
+0,Early successional,A1_G0_2B,Transient,0.045814978,,141,NA,C3_G_141_5F,Transient,0
+0,Early successional,A1_G0_3B,Inherited,0.039769533,,141,NA,C3_G_141_6F,Transient,0
+0,Early successional,A1_G0_3B,Non-inherited,0,,141,NA,C3_G_141_7F,Transient,0
+0,Early successional,A1_G0_3B,Transient,0.069561551,,141,NA,C3_G_141_8F,Transient,0
+0,Early successional,A1_G0_4B,Inherited,0.075669025,,141,NA,C3_G_141_9F,Transient,0
+0,Early successional,A1_G0_4B,Non-inherited,0,,0,Early successional,A1_G_0_1,Inherited,0.316680703
+0,Early successional,A1_G0_4B,Transient,0.047780169,,0,Early successional,A1_G_0_1,Non-inherited,0
+0,Early successional,A1_G0_5B,Inherited,0.023421697,,0,Early successional,A1_G_0_1,Transient,0
+0,Early successional,A1_G0_5B,Non-inherited,0,,0,Early successional,A1_G_0_2,Inherited,0.165324424
+0,Early successional,A1_G0_5B,Transient,0.017672735,,0,Early successional,A1_G_0_2,Non-inherited,0
+0,Early successional,A1_G0_6B,Inherited,0.073621522,,0,Early successional,A1_G_0_2,Transient,0.003762969
+0,Early successional,A1_G0_6B,Non-inherited,0,,0,Early successional,A1_G_0_3,Inherited,0.059775151
+0,Early successional,A1_G0_6B,Transient,0.027518225,,0,Early successional,A1_G_0_3,Non-inherited,0
+0,Early successional,A1_G0_7B,Inherited,0.06606724,,0,Early successional,A1_G_0_3,Transient,0.002111292
+0,Early successional,A1_G0_7B,Non-inherited,0,,0,Early successional,A1_G_0_4,Inherited,0.157345592
+0,Early successional,A1_G0_7B,Transient,0.018243419,,0,Early successional,A1_G_0_4,Non-inherited,0
+0,Early successional,A1_G0_8B,Inherited,0.016764459,,0,Early successional,A1_G_0_4,Transient,0.000639712
+0,Early successional,A1_G0_8B,Non-inherited,0,,0,Early successional,A1_G_0_5,Inherited,0.207365618
+0,Early successional,A1_G0_8B,Transient,0.244425818,,0,Early successional,A1_G_0_5,Non-inherited,0
+0,Early successional,A1_G0_9B,Inherited,0.052081534,,0,Early successional,A1_G_0_5,Transient,0.002636227
+0,Early successional,A1_G0_9B,Non-inherited,0,,0,Early successional,A1_G_0_6,Inherited,0.251396483
+0,Early successional,A1_G0_9B,Transient,0.099930902,,0,Early successional,A1_G_0_6,Non-inherited,0
+0,Early successional,B2_G0_1B,Inherited,0.128099173,,0,Early successional,A1_G_0_6,Transient,0.000502439
+0,Early successional,B2_G0_1B,Non-inherited,0,,0,Early successional,A1_G_0_7,Inherited,0.302576778
+0,Early successional,B2_G0_1B,Transient,0.086942149,,0,Early successional,A1_G_0_7,Non-inherited,0
+0,Early successional,B2_G0_2B,Inherited,0.054693013,,0,Early successional,A1_G_0_7,Transient,6.77E-05
+0,Early successional,B2_G0_2B,Non-inherited,0,,0,Early successional,A1_G_0_8,Inherited,0.224038536
+0,Early successional,B2_G0_2B,Transient,0.028228652,,0,Early successional,A1_G_0_8,Non-inherited,0
+0,Early successional,B2_G0_3B,Inherited,0.113177204,,0,Early successional,A1_G_0_8,Transient,0.000281832
+0,Early successional,B2_G0_3B,Non-inherited,0,,0,Early successional,A1_G_0_9,Inherited,0.244081275
+0,Early successional,B2_G0_3B,Transient,0.037692231,,0,Early successional,A1_G_0_9,Non-inherited,0
+0,Early successional,B2_G0_4B,Inherited,0.094599054,,0,Early successional,A1_G_0_9,Transient,0.001084347
+0,Early successional,B2_G0_4B,Non-inherited,0,,0,Early successional,B2_G_0_1,Inherited,0.213434103
+0,Early successional,B2_G0_4B,Transient,0.07303927,,0,Early successional,B2_G_0_1,Non-inherited,0
+0,Early successional,B2_G0_5B,Inherited,0.156983038,,0,Early successional,B2_G_0_1,Transient,0.000351525
+0,Early successional,B2_G0_5B,Non-inherited,0,,0,Early successional,B2_G_0_2,Inherited,0.005159884
+0,Early successional,B2_G0_5B,Transient,0.017863587,,0,Early successional,B2_G_0_2,Non-inherited,0
+0,Early successional,B2_G0_6B,Inherited,0.115217391,,0,Early successional,B2_G_0_2,Transient,0.000835756
+0,Early successional,B2_G0_6B,Non-inherited,0,,0,Early successional,B2_G_0_3,Inherited,0.00453916
+0,Early successional,B2_G0_6B,Transient,0.032173913,,0,Early successional,B2_G_0_3,Non-inherited,0
+0,Early successional,B2_G0_7B,Inherited,0.052580331,,0,Early successional,B2_G_0_3,Transient,0.004154485
+0,Early successional,B2_G0_7B,Non-inherited,0,,0,Early successional,B2_G_0_4,Inherited,0.016247379
+0,Early successional,B2_G0_7B,Transient,0,,0,Early successional,B2_G_0_4,Non-inherited,0
+0,Early successional,B2_G0_8B,Inherited,0.077351304,,0,Early successional,B2_G_0_4,Transient,0
+0,Early successional,B2_G0_8B,Non-inherited,0,,0,Early successional,B2_G_0_5,Inherited,0.011334152
+0,Early successional,B2_G0_8B,Transient,0.001757984,,0,Early successional,B2_G_0_5,Non-inherited,0
+0,Early successional,B2_G0_9B,Inherited,0.021409456,,0,Early successional,B2_G_0_5,Transient,0.001160748
+0,Early successional,B2_G0_9B,Non-inherited,0,,0,Early successional,B2_G_0_6,Inherited,0.025117385
+0,Early successional,B2_G0_9B,Transient,0,,0,Early successional,B2_G_0_6,Non-inherited,0
+0,Early successional,C3_G0_1B,Inherited,0.204199182,,0,Early successional,B2_G_0_6,Transient,0.00067898
+0,Early successional,C3_G0_1B,Non-inherited,0,,0,Early successional,B2_G_0_7,Inherited,0.025833973
+0,Early successional,C3_G0_1B,Transient,0,,0,Early successional,B2_G_0_7,Non-inherited,0
+0,Early successional,C3_G0_2B,Inherited,0.162734838,,0,Early successional,B2_G_0_7,Transient,0.001642776
+0,Early successional,C3_G0_2B,Non-inherited,0,,0,Early successional,B2_G_0_8,Inherited,0.037693831
+0,Early successional,C3_G0_2B,Transient,0.069829287,,0,Early successional,B2_G_0_8,Non-inherited,0
+0,Early successional,C3_G0_3B,Inherited,0.055755396,,0,Early successional,B2_G_0_8,Transient,0.001979546
+0,Early successional,C3_G0_3B,Non-inherited,0,,0,Early successional,B2_G_0_9,Inherited,0.002064288
+0,Early successional,C3_G0_3B,Transient,0.020083933,,0,Early successional,B2_G_0_9,Non-inherited,0
+0,Early successional,C3_G0_4B,Inherited,0.121165811,,0,Early successional,B2_G_0_9,Transient,0
+0,Early successional,C3_G0_4B,Non-inherited,0,,0,Early successional,C3_G_0_1,Inherited,0.00011199
+0,Early successional,C3_G0_4B,Transient,0.001200742,,0,Early successional,C3_G_0_1,Non-inherited,0
+0,Early successional,C3_G0_5B,Inherited,0.098381669,,0,Early successional,C3_G_0_1,Transient,0.000335971
+0,Early successional,C3_G0_5B,Non-inherited,0,,0,Early successional,C3_G_0_2,Inherited,0.052922316
+0,Early successional,C3_G0_5B,Transient,0.05479891,,0,Early successional,C3_G_0_2,Non-inherited,0
+0,Early successional,C3_G0_6B,Inherited,0.094321057,,0,Early successional,C3_G_0_2,Transient,0.000303277
+0,Early successional,C3_G0_6B,Non-inherited,0,,0,Early successional,C3_G_0_3,Inherited,0.02766913
+0,Early successional,C3_G0_6B,Transient,0.103739106,,0,Early successional,C3_G_0_3,Non-inherited,0
+0,Early successional,C3_G0_7B,Inherited,0.035422343,,0,Early successional,C3_G_0_3,Transient,0.000144865
+0,Early successional,C3_G0_7B,Non-inherited,0,,0,Early successional,C3_G_0_4,Inherited,0.601722932
+0,Early successional,C3_G0_7B,Transient,0,,0,Early successional,C3_G_0_4,Non-inherited,0
+0,Early successional,C3_G0_8B,Inherited,0.014099037,,0,Early successional,C3_G_0_4,Transient,0
+0,Early successional,C3_G0_8B,Non-inherited,0,,0,Early successional,C3_G_0_5,Inherited,0.03160402
+0,Early successional,C3_G0_8B,Transient,0.073590096,,0,Early successional,C3_G_0_5,Non-inherited,0
+0,Early successional,C3_G0_9B,Inherited,0.105585405,,0,Early successional,C3_G_0_5,Transient,0
+0,Early successional,C3_G0_9B,Non-inherited,0,,0,Early successional,C3_G_0_6,Inherited,0.0438601
+0,Early successional,C3_G0_9B,Transient,0,,0,Early successional,C3_G_0_6,Non-inherited,0
+0,Late successional,A1_G0_1B,Inherited,0.69580933,,0,Early successional,C3_G_0_6,Transient,0.000462226
+0,Late successional,A1_G0_1B,Non-inherited,0,,0,Early successional,C3_G_0_7,Inherited,0.026149217
+0,Late successional,A1_G0_1B,Transient,0.043826951,,0,Early successional,C3_G_0_7,Non-inherited,0
+0,Late successional,A1_G0_2B,Inherited,0.793245228,,0,Early successional,C3_G_0_7,Transient,0
+0,Late successional,A1_G0_2B,Non-inherited,0,,0,Early successional,C3_G_0_8,Inherited,0.006192414
+0,Late successional,A1_G0_2B,Transient,0,,0,Early successional,C3_G_0_8,Non-inherited,0
+0,Late successional,A1_G0_3B,Inherited,0.719083754,,0,Early successional,C3_G_0_8,Transient,0.725768817
+0,Late successional,A1_G0_3B,Non-inherited,0,,0,Early successional,C3_G_0_9,Inherited,0.061970638
+0,Late successional,A1_G0_3B,Transient,0.028386734,,0,Early successional,C3_G_0_9,Non-inherited,0
+0,Late successional,A1_G0_4B,Inherited,0.744591407,,0,Early successional,C3_G_0_9,Transient,0.000141163
+0,Late successional,A1_G0_4B,Non-inherited,0,,0,Late successional,A1_G_0_1,Inherited,0.666055101
+0,Late successional,A1_G0_4B,Transient,0,,0,Late successional,A1_G_0_1,Non-inherited,0
+0,Late successional,A1_G0_5B,Inherited,0.833812413,,0,Late successional,A1_G_0_1,Transient,0.000180462
+0,Late successional,A1_G0_5B,Non-inherited,0,,0,Late successional,A1_G_0_2,Inherited,0.665588184
+0,Late successional,A1_G0_5B,Transient,0.009049292,,0,Late successional,A1_G_0_2,Non-inherited,0
+0,Late successional,A1_G0_6B,Inherited,0.792689189,,0,Late successional,A1_G_0_2,Transient,0.001055038
+0,Late successional,A1_G0_6B,Non-inherited,0,,0,Late successional,A1_G_0_3,Inherited,0.735273934
+0,Late successional,A1_G0_6B,Transient,0,,0,Late successional,A1_G_0_3,Non-inherited,0
+0,Late successional,A1_G0_7B,Inherited,0.601250979,,0,Late successional,A1_G_0_3,Transient,0.000395862
+0,Late successional,A1_G0_7B,Non-inherited,0,,0,Late successional,A1_G_0_4,Inherited,0.688946632
+0,Late successional,A1_G0_7B,Transient,0.250195465,,0,Late successional,A1_G_0_4,Non-inherited,0
+0,Late successional,A1_G0_8B,Inherited,0.635708299,,0,Late successional,A1_G_0_4,Transient,0.011273236
+0,Late successional,A1_G0_8B,Non-inherited,0,,0,Late successional,A1_G_0_5,Inherited,0.70819603
+0,Late successional,A1_G0_8B,Transient,0.007544007,,0,Late successional,A1_G_0_5,Non-inherited,0
+0,Late successional,A1_G0_9B,Inherited,0.757039213,,0,Late successional,A1_G_0_5,Transient,0.007223262
+0,Late successional,A1_G0_9B,Non-inherited,0,,0,Late successional,A1_G_0_6,Inherited,0.702526969
+0,Late successional,A1_G0_9B,Transient,0.002763862,,0,Late successional,A1_G_0_6,Non-inherited,0
+0,Late successional,B2_G0_1B,Inherited,0.685619835,,0,Late successional,A1_G_0_6,Transient,0
+0,Late successional,B2_G0_1B,Non-inherited,0,,0,Late successional,A1_G_0_7,Inherited,0.612636711
+0,Late successional,B2_G0_1B,Transient,0.016859504,,0,Late successional,A1_G_0_7,Non-inherited,0
+0,Late successional,B2_G0_2B,Inherited,0.792342979,,0,Late successional,A1_G_0_7,Transient,0.006467342
+0,Late successional,B2_G0_2B,Non-inherited,0,,0,Late successional,A1_G_0_8,Inherited,0.676496963
+0,Late successional,B2_G0_2B,Transient,0.028493295,,0,Late successional,A1_G_0_8,Non-inherited,0
+0,Late successional,B2_G0_3B,Inherited,0.689617046,,0,Late successional,A1_G_0_8,Transient,0
+0,Late successional,B2_G0_3B,Non-inherited,0,,0,Late successional,A1_G_0_9,Inherited,0.640977977
+0,Late successional,B2_G0_3B,Transient,0.018192783,,0,Late successional,A1_G_0_9,Non-inherited,0
+0,Late successional,B2_G0_4B,Inherited,0.461775383,,0,Late successional,A1_G_0_9,Transient,0.000438949
+0,Late successional,B2_G0_4B,Non-inherited,0,,0,Late successional,B2_G_0_1,Inherited,0.628760581
+0,Late successional,B2_G0_4B,Transient,0.08216918,,0,Late successional,B2_G_0_1,Non-inherited,0
+0,Late successional,B2_G0_5B,Inherited,0.673583544,,0,Late successional,B2_G_0_1,Transient,0.015408502
+0,Late successional,B2_G0_5B,Non-inherited,0,,0,Late successional,B2_G_0_2,Inherited,0.785392442
+0,Late successional,B2_G0_5B,Transient,0,,0,Late successional,B2_G_0_2,Non-inherited,0
+0,Late successional,B2_G0_6B,Inherited,0.689855071,,0,Late successional,B2_G_0_2,Transient,0
+0,Late successional,B2_G0_6B,Non-inherited,0,,0,Late successional,B2_G_0_3,Inherited,0.507975586
+0,Late successional,B2_G0_6B,Transient,0,,0,Late successional,B2_G_0_3,Non-inherited,0
+0,Late successional,B2_G0_7B,Inherited,0.898247323,,0,Late successional,B2_G_0_3,Transient,0.278350516
+0,Late successional,B2_G0_7B,Non-inherited,0,,0,Late successional,B2_G_0_4,Inherited,0.902620545
+0,Late successional,B2_G0_7B,Transient,0,,0,Late successional,B2_G_0_4,Non-inherited,0
+0,Late successional,B2_G0_8B,Inherited,0.888758668,,0,Late successional,B2_G_0_4,Transient,0.023689727
+0,Late successional,B2_G0_8B,Non-inherited,0,,0,Late successional,B2_G_0_5,Inherited,0.695241021
+0,Late successional,B2_G0_8B,Transient,0,,0,Late successional,B2_G_0_5,Non-inherited,0
+0,Late successional,B2_G0_9B,Inherited,0.888046388,,0,Late successional,B2_G_0_5,Transient,0.11426328
+0,Late successional,B2_G0_9B,Non-inherited,0,,0,Late successional,B2_G_0_6,Inherited,0.803869436
+0,Late successional,B2_G0_9B,Transient,0,,0,Late successional,B2_G_0_6,Non-inherited,0
+0,Late successional,C3_G0_1B,Inherited,0.698067631,,0,Late successional,B2_G_0_6,Transient,8.49E-05
+0,Late successional,C3_G0_1B,Non-inherited,0,,0,Late successional,B2_G_0_7,Inherited,0.589518032
+0,Late successional,C3_G0_1B,Transient,0,,0,Late successional,B2_G_0_7,Non-inherited,0
+0,Late successional,C3_G0_2B,Inherited,0.634039634,,0,Late successional,B2_G_0_7,Transient,0.167271668
+0,Late successional,C3_G0_2B,Non-inherited,0,,0,Late successional,B2_G_0_8,Inherited,0.633206863
+0,Late successional,C3_G0_2B,Transient,0,,0,Late successional,B2_G_0_8,Non-inherited,0
+0,Late successional,C3_G0_3B,Inherited,0.524080735,,0,Late successional,B2_G_0_8,Transient,0.003051798
+0,Late successional,C3_G0_3B,Non-inherited,0,,0,Late successional,B2_G_0_9,Inherited,0.839575346
+0,Late successional,C3_G0_3B,Transient,0.268784972,,0,Late successional,B2_G_0_9,Non-inherited,0
+0,Late successional,C3_G0_4B,Inherited,0.76902085,,0,Late successional,B2_G_0_9,Transient,0.008889076
+0,Late successional,C3_G0_4B,Non-inherited,0,,0,Late successional,C3_G_0_1,Inherited,0.907421234
+0,Late successional,C3_G0_4B,Transient,0.008077721,,0,Late successional,C3_G_0_1,Non-inherited,0
+0,Late successional,C3_G0_5B,Inherited,0.452491588,,0,Late successional,C3_G_0_1,Transient,0.008063312
+0,Late successional,C3_G0_5B,Non-inherited,0,,0,Late successional,C3_G_0_2,Inherited,0.72841298
+0,Late successional,C3_G0_5B,Transient,0,,0,Late successional,C3_G_0_2,Non-inherited,0
+0,Late successional,C3_G0_6B,Inherited,0.741636211,,0,Late successional,C3_G_0_2,Transient,0.118993989
+0,Late successional,C3_G0_6B,Non-inherited,0,,0,Late successional,C3_G_0_3,Inherited,0.716451784
+0,Late successional,C3_G0_6B,Transient,0,,0,Late successional,C3_G_0_3,Non-inherited,0
+0,Late successional,C3_G0_7B,Inherited,0.874951343,,0,Late successional,C3_G_0_3,Transient,0.180984113
+0,Late successional,C3_G0_7B,Non-inherited,0,,0,Late successional,C3_G_0_4,Inherited,0.248377249
+0,Late successional,C3_G0_7B,Transient,0.054106657,,0,Late successional,C3_G_0_4,Non-inherited,0
+0,Late successional,C3_G0_8B,Inherited,0.685694635,,0,Late successional,C3_G_0_4,Transient,0.107212664
+0,Late successional,C3_G0_8B,Non-inherited,0,,0,Late successional,C3_G_0_5,Inherited,0.750334049
+0,Late successional,C3_G0_8B,Transient,0,,0,Late successional,C3_G_0_5,Non-inherited,0
+0,Late successional,C3_G0_9B,Inherited,0.766212671,,0,Late successional,C3_G_0_5,Transient,0.000232383
+0,Late successional,C3_G0_9B,Non-inherited,0,,0,Late successional,C3_G_0_6,Inherited,0.743593035
+0,Late successional,C3_G0_9B,Transient,0.019617643,,0,Late successional,C3_G_0_6,Non-inherited,0
+0,Mid-successional / No trend,A1_G0_1B,Inherited,0.215971986,,0,Late successional,C3_G_0_6,Transient,0.046196908
+0,Mid-successional / No trend,A1_G0_1B,Non-inherited,0,,0,Late successional,C3_G_0_7,Inherited,0.748184083
+0,Mid-successional / No trend,A1_G0_1B,Transient,0,,0,Late successional,C3_G_0_7,Non-inherited,0
+0,Mid-successional / No trend,A1_G0_2B,Inherited,0.059324523,,0,Late successional,C3_G_0_7,Transient,0.018444537
+0,Mid-successional / No trend,A1_G0_2B,Non-inherited,0,,0,Late successional,C3_G_0_8,Inherited,0.165579754
+0,Mid-successional / No trend,A1_G0_2B,Transient,0,,0,Late successional,C3_G_0_8,Non-inherited,0
+0,Mid-successional / No trend,A1_G0_3B,Inherited,0.10188308,,0,Late successional,C3_G_0_8,Transient,0.001286302
+0,Mid-successional / No trend,A1_G0_3B,Non-inherited,0,,0,Late successional,C3_G_0_9,Inherited,0.682241672
+0,Mid-successional / No trend,A1_G0_3B,Transient,0,,0,Late successional,C3_G_0_9,Non-inherited,0
+0,Mid-successional / No trend,A1_G0_4B,Inherited,0.114323797,,0,Late successional,C3_G_0_9,Transient,0.001411632
+0,Mid-successional / No trend,A1_G0_4B,Non-inherited,0,,0,Mid-successional / No trend,A1_G_0_1,Inherited,0.01642204
+0,Mid-successional / No trend,A1_G0_4B,Transient,0,,0,Mid-successional / No trend,A1_G_0_1,Non-inherited,0
+0,Mid-successional / No trend,A1_G0_5B,Inherited,0.116043862,,0,Mid-successional / No trend,A1_G_0_1,Transient,0
+0,Mid-successional / No trend,A1_G0_5B,Non-inherited,0,,0,Mid-successional / No trend,A1_G_0_2,Inherited,0.163777035
+0,Mid-successional / No trend,A1_G0_5B,Transient,0,,0,Mid-successional / No trend,A1_G_0_2,Non-inherited,0
+0,Mid-successional / No trend,A1_G0_6B,Inherited,0.080193038,,0,Mid-successional / No trend,A1_G_0_2,Transient,0.000351679
+0,Mid-successional / No trend,A1_G0_6B,Non-inherited,0,,0,Mid-successional / No trend,A1_G_0_3,Inherited,0.201599282
+0,Mid-successional / No trend,A1_G0_6B,Transient,0,,0,Mid-successional / No trend,A1_G_0_3,Non-inherited,0
+0,Mid-successional / No trend,A1_G0_7B,Inherited,0.064242898,,0,Mid-successional / No trend,A1_G_0_3,Transient,0.000316708
+0,Mid-successional / No trend,A1_G0_7B,Non-inherited,0,,0,Mid-successional / No trend,A1_G_0_4,Inherited,0.136797921
+0,Mid-successional / No trend,A1_G0_7B,Transient,0,,0,Mid-successional / No trend,A1_G_0_4,Non-inherited,0
+0,Mid-successional / No trend,A1_G0_8B,Inherited,0.088348701,,0,Mid-successional / No trend,A1_G_0_4,Transient,0
+0,Mid-successional / No trend,A1_G0_8B,Non-inherited,0,,0,Mid-successional / No trend,A1_G_0_5,Inherited,0.072733504
+0,Mid-successional / No trend,A1_G0_8B,Transient,0,,0,Mid-successional / No trend,A1_G_0_5,Non-inherited,0
+0,Mid-successional / No trend,A1_G0_9B,Inherited,0.0834341,,0,Mid-successional / No trend,A1_G_0_5,Transient,0.000869955
+0,Mid-successional / No trend,A1_G0_9B,Non-inherited,0,,0,Mid-successional / No trend,A1_G_0_6,Inherited,0.04557411
+0,Mid-successional / No trend,A1_G0_9B,Transient,0,,0,Mid-successional / No trend,A1_G_0_6,Non-inherited,0
+0,Mid-successional / No trend,B2_G0_1B,Inherited,0.075041322,,0,Mid-successional / No trend,A1_G_0_6,Transient,0
+0,Mid-successional / No trend,B2_G0_1B,Non-inherited,0,,0,Mid-successional / No trend,A1_G_0_7,Inherited,0.078251448
+0,Mid-successional / No trend,B2_G0_1B,Transient,0,,0,Mid-successional / No trend,A1_G_0_7,Non-inherited,0
+0,Mid-successional / No trend,B2_G0_2B,Inherited,0.096242061,,0,Mid-successional / No trend,A1_G_0_7,Transient,0
+0,Mid-successional / No trend,B2_G0_2B,Non-inherited,0,,0,Mid-successional / No trend,A1_G_0_8,Inherited,0.095749315
+0,Mid-successional / No trend,B2_G0_2B,Transient,0,,0,Mid-successional / No trend,A1_G_0_8,Non-inherited,0
+0,Mid-successional / No trend,B2_G0_3B,Inherited,0.141320736,,0,Mid-successional / No trend,A1_G_0_8,Transient,0.003433344
+0,Mid-successional / No trend,B2_G0_3B,Non-inherited,0,,0,Mid-successional / No trend,A1_G_0_9,Inherited,0.111790979
+0,Mid-successional / No trend,B2_G0_3B,Transient,0,,0,Mid-successional / No trend,A1_G_0_9,Non-inherited,0
+0,Mid-successional / No trend,B2_G0_4B,Inherited,0.056649433,,0,Mid-successional / No trend,A1_G_0_9,Transient,0
+0,Mid-successional / No trend,B2_G0_4B,Non-inherited,0,,0,Mid-successional / No trend,B2_G_0_1,Inherited,0.132495533
+0,Mid-successional / No trend,B2_G0_4B,Transient,0.191838082,,0,Mid-successional / No trend,B2_G_0_1,Non-inherited,0
+0,Mid-successional / No trend,B2_G0_5B,Inherited,0.077769758,,0,Mid-successional / No trend,B2_G_0_1,Transient,0
+0,Mid-successional / No trend,B2_G0_5B,Non-inherited,0,,0,Mid-successional / No trend,B2_G_0_2,Inherited,0.207667151
+0,Mid-successional / No trend,B2_G0_5B,Transient,0.036990256,,0,Mid-successional / No trend,B2_G_0_2,Non-inherited,0
+0,Mid-successional / No trend,B2_G0_6B,Inherited,0.075797102,,0,Mid-successional / No trend,B2_G_0_2,Transient,0
+0,Mid-successional / No trend,B2_G0_6B,Non-inherited,0,,0,Mid-successional / No trend,B2_G_0_3,Inherited,0.204492999
+0,Mid-successional / No trend,B2_G0_6B,Transient,0,,0,Mid-successional / No trend,B2_G_0_3,Non-inherited,0
+0,Mid-successional / No trend,B2_G0_7B,Inherited,0.049172347,,0,Mid-successional / No trend,B2_G_0_3,Transient,0
+0,Mid-successional / No trend,B2_G0_7B,Non-inherited,0,,0,Mid-successional / No trend,B2_G_0_4,Inherited,0.056184486
+0,Mid-successional / No trend,B2_G0_7B,Transient,0,,0,Mid-successional / No trend,B2_G_0_4,Non-inherited,0
+0,Mid-successional / No trend,B2_G0_8B,Inherited,0.026760426,,0,Mid-successional / No trend,B2_G_0_4,Transient,0
+0,Mid-successional / No trend,B2_G0_8B,Non-inherited,0,,0,Mid-successional / No trend,B2_G_0_5,Inherited,0.17762529
+0,Mid-successional / No trend,B2_G0_8B,Transient,0,,0,Mid-successional / No trend,B2_G_0_5,Non-inherited,0
+0,Mid-successional / No trend,B2_G0_9B,Inherited,0.090544157,,0,Mid-successional / No trend,B2_G_0_5,Transient,0
+0,Mid-successional / No trend,B2_G0_9B,Non-inherited,0,,0,Mid-successional / No trend,B2_G_0_6,Inherited,0.170136335
+0,Mid-successional / No trend,B2_G0_9B,Transient,0,,0,Mid-successional / No trend,B2_G_0_6,Non-inherited,0
+0,Mid-successional / No trend,C3_G0_1B,Inherited,0.059271646,,0,Mid-successional / No trend,B2_G_0_6,Transient,0
+0,Mid-successional / No trend,C3_G0_1B,Non-inherited,0,,0,Mid-successional / No trend,B2_G_0_7,Inherited,0.215256617
+0,Mid-successional / No trend,C3_G0_1B,Transient,0,,0,Mid-successional / No trend,B2_G_0_7,Non-inherited,0
+0,Mid-successional / No trend,C3_G0_2B,Inherited,0.128678048,,0,Mid-successional / No trend,B2_G_0_7,Transient,0.000185475
+0,Mid-successional / No trend,C3_G0_2B,Non-inherited,0,,0,Mid-successional / No trend,B2_G_0_8,Inherited,0.305880897
+0,Mid-successional / No trend,C3_G0_2B,Transient,0,,0,Mid-successional / No trend,B2_G_0_8,Non-inherited,0
+0,Mid-successional / No trend,C3_G0_3B,Inherited,0.043265388,,0,Mid-successional / No trend,B2_G_0_8,Transient,0
+0,Mid-successional / No trend,C3_G0_3B,Non-inherited,0,,0,Mid-successional / No trend,B2_G_0_9,Inherited,0.13999246
+0,Mid-successional / No trend,C3_G0_3B,Transient,0.003697042,,0,Mid-successional / No trend,B2_G_0_9,Non-inherited,0
+0,Mid-successional / No trend,C3_G0_4B,Inherited,0.093221264,,0,Mid-successional / No trend,B2_G_0_9,Transient,0.00804651
+0,Mid-successional / No trend,C3_G0_4B,Non-inherited,0,,0,Mid-successional / No trend,C3_G_0_1,Inherited,0.083806182
+0,Mid-successional / No trend,C3_G0_4B,Transient,0,,0,Mid-successional / No trend,C3_G_0_1,Non-inherited,0
+0,Mid-successional / No trend,C3_G0_5B,Inherited,0.057843294,,0,Mid-successional / No trend,C3_G_0_1,Transient,0
+0,Mid-successional / No trend,C3_G0_5B,Non-inherited,0,,0,Mid-successional / No trend,C3_G_0_2,Inherited,0.099042502
+0,Mid-successional / No trend,C3_G0_5B,Transient,0,,0,Mid-successional / No trend,C3_G_0_2,Non-inherited,0
+0,Mid-successional / No trend,C3_G0_6B,Inherited,0.060303627,,0,Mid-successional / No trend,C3_G_0_2,Transient,4.33E-05
+0,Mid-successional / No trend,C3_G0_6B,Non-inherited,0,,0,Mid-successional / No trend,C3_G_0_3,Inherited,0.074750109
+0,Mid-successional / No trend,C3_G0_6B,Transient,0,,0,Mid-successional / No trend,C3_G_0_3,Non-inherited,0
+0,Mid-successional / No trend,C3_G0_7B,Inherited,0.035227715,,0,Mid-successional / No trend,C3_G_0_3,Transient,0
+0,Mid-successional / No trend,C3_G0_7B,Non-inherited,0,,0,Mid-successional / No trend,C3_G_0_4,Inherited,0.042132188
+0,Mid-successional / No trend,C3_G0_7B,Transient,0,,0,Mid-successional / No trend,C3_G_0_4,Non-inherited,0
+0,Mid-successional / No trend,C3_G0_8B,Inherited,0.093878955,,0,Mid-successional / No trend,C3_G_0_4,Transient,0
+0,Mid-successional / No trend,C3_G0_8B,Non-inherited,0,,0,Mid-successional / No trend,C3_G_0_5,Inherited,0.217422878
+0,Mid-successional / No trend,C3_G0_8B,Transient,0.102819807,,0,Mid-successional / No trend,C3_G_0_5,Non-inherited,0
+0,Mid-successional / No trend,C3_G0_9B,Inherited,0.104835686,,0,Mid-successional / No trend,C3_G_0_5,Transient,5.81E-05
+0,Mid-successional / No trend,C3_G0_9B,Non-inherited,0,,0,Mid-successional / No trend,C3_G_0_6,Inherited,0.16588773
+0,Mid-successional / No trend,C3_G0_9B,Transient,0,,0,Mid-successional / No trend,C3_G_0_6,Non-inherited,0
+0,NA,A1_G0_1B,Transient,0.002146165,,0,Mid-successional / No trend,C3_G_0_6,Transient,0
+0,NA,A1_G0_2B,Transient,0,,0,Mid-successional / No trend,C3_G_0_7,Inherited,0.205691605
+0,NA,A1_G0_3B,Transient,0.041315346,,0,Mid-successional / No trend,C3_G_0_7,Non-inherited,0
+0,NA,A1_G0_4B,Transient,0.017635599,,0,Mid-successional / No trend,C3_G_0_7,Transient,0
+0,NA,A1_G0_5B,Transient,0,,0,Mid-successional / No trend,C3_G_0_8,Inherited,0.097104224
+0,NA,A1_G0_6B,Transient,0.025978026,,0,Mid-successional / No trend,C3_G_0_8,Non-inherited,0
+0,NA,A1_G0_7B,Transient,0,,0,Mid-successional / No trend,C3_G_0_8,Transient,0
+0,NA,A1_G0_8B,Transient,0.007208718,,0,Mid-successional / No trend,C3_G_0_9,Inherited,0.250776398
+0,NA,A1_G0_9B,Transient,0.004750389,,0,Mid-successional / No trend,C3_G_0_9,Non-inherited,0
+0,NA,B2_G0_1B,Transient,0.007438017,,0,Mid-successional / No trend,C3_G_0_9,Transient,0
+0,NA,B2_G0_2B,Transient,0,,0,NA,A1_G_0_1,Transient,0.000661663
+0,NA,B2_G0_3B,Transient,0,,0,NA,A1_G_0_2,Transient,0.000140672
+0,NA,B2_G0_4B,Transient,0.039929601,,0,NA,A1_G_0_3,Transient,0.000527816
+0,NA,B2_G0_5B,Transient,0.036809816,,0,NA,A1_G_0_4,Transient,0.004997002
+0,NA,B2_G0_6B,Transient,0.086956521,,0,NA,A1_G_0_5,Transient,0.000975404
+0,NA,B2_G0_7B,Transient,0,,0,NA,A1_G_0_6,Transient,0
+0,NA,B2_G0_8B,Transient,0.005371618,,0,NA,A1_G_0_7,Transient,0
+0,NA,B2_G0_9B,Transient,0,,0,NA,A1_G_0_8,Transient,0
+0,NA,C3_G0_1B,Transient,0.038461538,,0,NA,A1_G_0_9,Transient,0.00162652
+0,NA,C3_G0_2B,Transient,0.004718195,,0,NA,B2_G_0_1,Transient,0.009549756
+0,NA,C3_G0_3B,Transient,0.084332534,,0,NA,B2_G_0_2,Transient,0.000944768
+0,NA,C3_G0_4B,Transient,0.007313612,,0,NA,B2_G_0_3,Transient,0.000487254
+0,NA,C3_G0_5B,Transient,0.336484539,,0,NA,B2_G_0_4,Transient,0.001257862
+0,NA,C3_G0_6B,Transient,0,,0,NA,B2_G_0_5,Transient,0.000375529
+0,NA,C3_G0_7B,Transient,0.000291942,,0,NA,B2_G_0_6,Transient,0.000113141
+0,NA,C3_G0_8B,Transient,0.029917469,,0,NA,B2_G_0_7,Transient,0.000291471
+0,NA,C3_G0_9B,Transient,0.003748594,,0,NA,B2_G_0_8,Transient,0.018187068
+,,,,,,0,NA,B2_G_0_9,Transient,0.001432363
+,,,,,,0,NA,C3_G_0_1,Transient,0.000261311
+,,,,,,0,NA,C3_G_0_2,Transient,0.000281617
+,,,,,,0,NA,C3_G_0_3,Transient,0
+,,,,,,0,NA,C3_G_0_4,Transient,0.000555083
+,,,,,,0,NA,C3_G_0_5,Transient,0.000348574
+,,,,,,0,NA,C3_G_0_6,Transient,0
+,,,,,,0,NA,C3_G_0_7,Transient,0.00153051
+,,,,,,0,NA,C3_G_0_8,Transient,0.004068445
+,,,,,,0,NA,C3_G_0_9,Transient,0.003458498
